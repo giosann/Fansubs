@@ -26,6 +26,8 @@ Style: ImageBoard,Noto Sans,64,&H0089A281,&H0000FFFF,&H00000000,&H00000000,0,0,0
 Style: ImageBoard - Title,Noto Sans ExtraBold,64,&H0089A281,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: ImageBoard - Title - Copy,Noto Sans ExtraCondensed SemiBold,64,&H0089A281,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: ImageBoard - Title - Copy2,Noto Sans ExtraBold,48,&H008A733A,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Main Dialogue Right,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,3,50,50,60,1
+Style: Main Dialogue Left,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,1,50,50,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -447,8 +449,8 @@ Dialogue: 0,0:18:45.02,0:18:46.27,Default,,0,0,0,,but those two ladybugs?
 Dialogue: 0,0:18:54.67,0:18:55.76,Default,,0,0,0,,I don't know...
 Dialogue: 0,0:18:56.10,0:18:57.90,Default,,0,0,0,,How can you say such a thing?
 Dialogue: 0,0:18:58.14,0:18:59.48,Default,,0,0,0,,They can't be compared...
-Dialogue: 0,0:18:59.81,0:19:00.94,Default,,0,0,0,,What's wrong with ladybugs?!
-Dialogue: 0,0:19:00.26,0:19:00.94,Default,,0,0,0,,Nothing!
+Dialogue: 0,0:18:59.81,0:19:00.94,Main Dialogue Right,,0,180,0,,What's wrong with ladybugs?!
+Dialogue: 0,0:19:00.26,0:19:00.94,Main Dialogue Left,,180,0,0,,Nothing!
 Dialogue: 0,0:19:01.63,0:19:03.14,Default,,0,0,0,,I think I'd have done the same...
 Dialogue: 0,0:19:03.42,0:19:04.73,Default,,0,0,0,,Of course you wouldn't...
 Dialogue: 0,0:19:05.42,0:19:06.77,Default,,0,0,0,,I have no right to condemn you.
