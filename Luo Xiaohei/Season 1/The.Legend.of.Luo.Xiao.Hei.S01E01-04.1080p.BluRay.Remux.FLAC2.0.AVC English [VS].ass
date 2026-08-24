@@ -23,6 +23,8 @@ Style: BG_Dad_S1,Arial,20,&H00DDEDE6,&HFF000000,&HFFC8C8C8,&HFF000000,0,0,0,0,10
 Style: Animal,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.6,1.5,2,4,10,10,1
 Style: Guest,Gandhi Serif,120,&H00056CF2,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: BG_Outro_Guest,Arial,20,&H0091FEFD,&HFF000000,&HFFC8C8C8,&HFF000000,0,0,0,0,100,100,0,0,1,2,1,7,0,0,0,1
+Style: Ending Song - English,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,3.5,0,2,50,50,25,1
+Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,3.5,0,9,59,50,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -269,3 +271,31 @@ Dialogue: 0,0:20:02.57,0:20:05.71,Guest,,0,0,0,,{\pos(370,370)}{\fs(300)}Birdie
 Dialogue: 0,0:20:02.57,0:20:05.71,Guest,,0,0,0,,{\pos(255,370)}{\fs(70)}Special Guest
 Dialogue: -1000,0:20:02.57,0:20:05.71,BG_Outro_Guest,,0,0,0,,{\p1}m 0 0 l 950 0 950 500 0 500{\p0}
 Dialogue: 0,0:20:21.69,0:20:22.39,Default,,0,0,0,,Found you.
+Dialogue: 0,0:20:26.33,0:20:32.71,Ending Song - English,,0,0,0,,Stay with me - let's walk on, kicking pebbles as we go
+Dialogue: 0,0:20:26.33,0:20:32.71,Ending Song - Romaji,,0,0,0,,Stay with me aruite yukou ishikoro wo kette
+Dialogue: 0,0:20:32.71,0:20:37.45,Ending Song - English,,0,0,0,,Our destination may be whimsical
+Dialogue: 0,0:20:32.71,0:20:37.45,Ending Song - Romaji,,0,0,0,,Yukisaki wa kitto kimagure demo
+Dialogue: 0,0:20:37.45,0:20:42.15,Ending Song - English,,0,0,0,,But with the scent of flowers in both hands
+Dialogue: 0,0:20:37.45,0:20:42.15,Ending Song - Romaji,,0,0,0,,Hana no kaori wo ryoute ni
+Dialogue: 0,0:20:42.15,0:20:48.35,Ending Song - English,,0,0,0,,I’ll carry it to the you I’ve yet to meet
+Dialogue: 0,0:20:42.15,0:20:48.35,Ending Song - Romaji,,0,0,0,,kore kara deau kimi e to
+Dialogue: 0,0:20:48.35,0:20:54.50,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
+Dialogue: 0,0:20:48.35,0:20:54.50,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
+Dialogue: 0,0:20:54.50,0:20:59.30,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
+Dialogue: 0,0:20:54.50,0:20:59.30,Ending Song - Romaji,,0,0,0,,Hajimemashite wa gikochinaku temo
+Dialogue: 0,0:20:59.30,0:21:03.98,Ending Song - English,,0,0,0,,When we open the boxes we’ve brought
+Dialogue: 0,0:20:59.30,0:21:03.98,Ending Song - Romaji,,0,0,0,,Mochiyotta hako aketara
+Dialogue: 0,0:21:03.98,0:21:10.50,Ending Song - English,,0,0,0,,Let’s share the dreams we’ve packed inside
+Dialogue: 0,0:21:03.98,0:21:10.50,Ending Song - Romaji,,0,0,0,,Tsumekon da yume wo wakeaou
+Dialogue: 0,0:21:10.50,0:21:21.82,Ending Song - English,,0,0,0,,The days when we can casually say “See you tomorrow”
+Dialogue: 0,0:21:10.50,0:21:21.82,Ending Song - Romaji,,0,0,0,,Mata ashita tte atarimae ni kawaseru hibi ga
+Dialogue: 0,0:21:21.82,0:21:27.24,Ending Song - English,,0,0,0,,Are so precious and so fleeting
+Dialogue: 0,0:21:21.82,0:21:27.24,Ending Song - Romaji,,0,0,0,,Itoshikute hakanasugite
+Dialogue: 0,0:21:27.24,0:21:32.28,Ending Song - English,,0,0,0,,Those feelings will never fade away
+Dialogue: 0,0:21:27.24,0:21:32.28,Ending Song - Romaji,,0,0,0,,Omoi wa kitto kienai
+Dialogue: 0,0:21:32.28,0:21:43.51,Ending Song - English,,0,0,0,,We can’t catch up to the clouds drifting across the sky
+Dialogue: 0,0:21:32.28,0:21:43.51,Ending Song - Romaji,,0,0,0,,Sora wo nagareru kumo ni wa oitsukenai kedo
+Dialogue: 0,0:21:43.51,0:21:49.06,Ending Song - English,,0,0,0,,But they’ll turn to rain, bloom into flowers
+Dialogue: 0,0:21:43.51,0:21:49.06,Ending Song - Romaji,,0,0,0,,Ame ni natte hana wo tsukete
+Dialogue: 0,0:21:49.06,0:21:55.90,Ending Song - English,,0,0,0,,And surely, they’re calling out to me
+Dialogue: 0,0:21:49.06,0:21:55.90,Ending Song - Romaji,,0,0,0,,Kitto boku wo yonderu
