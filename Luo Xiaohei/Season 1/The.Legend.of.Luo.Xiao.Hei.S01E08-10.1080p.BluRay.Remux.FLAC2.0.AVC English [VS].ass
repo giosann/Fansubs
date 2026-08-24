@@ -9,10 +9,10 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,2.0,2,4,10,60,1
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,4,10,60,1
 Style: Title,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00DBF1CC,&H00DBF1CC,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
 Style: Game,Bitcount Single,58,&H0081492A,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Animal,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,2.0,2,4,10,60,1
+Style: Animal,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.6,1.5,2,4,10,60,1
 Style: BG_Strongest,Arial,20,&H009ACBD6,&HFF000000,&HFFC8C8C8,&HFF000000,0,0,0,0,100,100,0,0,1,2,1,7,0,0,0,1
 Style: Strongest,Segoe Print,75,&H00222C47,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Title 2,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00D5E0D5,&H00D5E0D5,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
