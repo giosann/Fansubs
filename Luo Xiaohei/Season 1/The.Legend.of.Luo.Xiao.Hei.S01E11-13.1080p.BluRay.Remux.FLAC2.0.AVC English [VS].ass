@@ -9,9 +9,9 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,4,10,60,1
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,4,10,60,1
 Style: Title,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00A0BAB0,&H00A0BAB0,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
-Style: Default - Italic,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.6,1.5,2,4,10,60,1
+Style: Default - Italic,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,4,10,60,1
 Style: Title 2,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00A5A14D,&H00A5A14D,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
 Style: Title 3,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00B4AB6B,&H00B4AB6B,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
 Style: BG_Book,Arial,20,&H009EB79B,&HFF000000,&HFFC8C8C8,&HFF000000,0,0,0,0,100,100,0,0,1,2,1,7,0,0,0,1
