@@ -34,7 +34,7 @@ Dialogue: 0,0:01:19.18,0:01:25.04,FG_IntroBox,,0,0,0,,{\fad(0,1300)}{\pos(1507,9
 Dialogue: 0,0:01:20.79,0:01:25.04,Title 1,,0,0,0,,{\fad(1200,1300)}{\pos(362,688)}Meow!
 Dialogue: 0,0:01:25.32,0:01:26.22,Default,,0,0,0,,I name you...
 Dialogue: 0,0:01:26.22,0:01:27.22,Default,,0,0,0,,Xiaohei!
-Dialogue: 0,0:01:27.25,0:01:28.59,Default,,0,0,0,,You already decided?
+Dialogue: 0,0:01:27.25,0:01:28.59,Default,,0,0,0,,You've already decided?
 Dialogue: 0,0:01:28.96,0:01:30.90,Default,,0,0,0,,I'm "Little White", he's "Little Black".
 Dialogue: 0,0:01:30.90,0:01:31.96,Default,,0,0,0,,Cute, huh?
 Dialogue: 0,0:01:31.96,0:01:33.36,Default,,0,0,0,,It's rather random...
@@ -61,7 +61,7 @@ Dialogue: 0,0:02:29.87,0:02:31.48,Default,,0,0,0,,He's got a blue tongue.
 Dialogue: 0,0:02:32.13,0:02:33.67,Default,,0,0,0,,Do cats have blue tongues?
 Dialogue: 0,0:02:34.02,0:02:35.19,Default,,0,0,0,,How should I know?
 Dialogue: 0,0:02:35.45,0:02:36.16,Default,,0,0,0,,All done!
-Dialogue: 0,0:02:37.10,0:02:39.52,Default,,0,0,0,,Tomorrow I'll have to buy cat litter and a tray.
+Dialogue: 0,0:02:37.10,0:02:39.52,Default,,0,0,0,,I'll have to buy some litter and a tray tomorrow.
 Dialogue: 0,0:02:40.14,0:02:41.18,Default,,0,0,0,,What are those for?
 Dialogue: 0,0:02:41.18,0:02:42.85,Default,,0,0,0,,That'll be the cat's toilet.
 Dialogue: 0,0:02:42.96,0:02:44.63,Default,,0,0,0,,Can't he use ours?
@@ -79,14 +79,14 @@ Dialogue: 0,0:03:31.25,0:03:31.96,Default,,0,0,0,,Xiao...
 Dialogue: 0,0:03:32.32,0:03:33.36,Default,,0,0,0,,Xiaohei?
 Dialogue: 0,0:03:34.34,0:03:35.41,Default,,0,0,0,,I am...
 Dialogue: 0,0:03:35.41,0:03:37.61,Default,,0,0,0,,A prince who has been cursed.
-Dialogue: 0,0:03:37.87,0:03:39.83,Default,,0,0,0,,Thank you for breaking my curse.
+Dialogue: 0,0:03:37.87,0:03:39.83,Default,,0,0,0,,Thank you for lifting my curse.
 Dialogue: 0,0:03:39.83,0:03:41.52,Default,,0,0,0,,By kissing you?
 Dialogue: 0,0:03:41.92,0:03:42.63,Default,,0,0,0,,Yes.
 Dialogue: 0,0:03:43.03,0:03:44.36,Default,,0,0,0,,So cliché...
 Dialogue: 0,0:03:44.36,0:03:47.70,Default,,0,0,0,,Would you like to come to my castle tonight?
 Dialogue: 0,0:03:47.70,0:03:49.18,Default,,0,0,0,,I must properly thank you.
 Dialogue: 0,0:03:49.18,0:03:50.10,Default,,0,0,0,,I can't go.
-Dialogue: 0,0:03:50.12,0:03:51.65,Default,,0,0,0,,I have to go to school tomorrow.
+Dialogue: 0,0:03:50.12,0:03:51.65,Default,,0,0,0,,I have school tomorrow.
 Dialogue: 0,0:03:51.65,0:03:53.21,Default,,0,0,0,,Let us meet on the weekend, then.
 Dialogue: 0,0:03:54.91,0:03:55.79,Default,,0,0,0,,Okay...
 Dialogue: 0,0:03:56.01,0:03:58.70,Default,,0,0,0,,Diting! The Sky Pearl was stolen.
