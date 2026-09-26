@@ -6,6 +6,7 @@ PlayDepth: 0
 ScaledBorderAndShadow: Yes
 PlayResX: 1920
 PlayResY: 1080
+WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +48,7 @@ Dialogue: 0,0:01:26.71,0:01:29.77,Default,,0,0,0,,Don't worry, Xiaohei is the on
 Dialogue: 0,0:01:32.79,0:01:34.66,Default,,0,0,0,,Isn't Bidiu fond of wood?
 Dialogue: 0,0:01:34.76,0:01:36.51,Default,,0,0,0,,What if he eats up the whole forest?
 Dialogue: 0,0:01:36.51,0:01:37.89,Default,,0,0,0,,Trees are living things.
-Dialogue: 0,0:01:37.89,0:01:39.79,Default,,0,0,0,,They become wood when they die.
+Dialogue: 0,0:01:37.89,0:01:39.80,Default,,0,0,0,,They become wood when they die.
 Dialogue: 0,0:01:39.80,0:01:41.95,Default,,0,0,0,,Bidiu won't eat living trees.
 Dialogue: 0,0:01:42.69,0:01:46.15,Title,,0,0,0,,{\pos(1591,381)}Deep in the Mountains
 Dialogue: 0,0:01:47.15,0:01:48.70,Default,,0,0,0,,And now, today's weather.
@@ -57,20 +58,20 @@ Dialogue: 0,0:01:53.51,0:01:54.66,Default,,0,0,0,,Again?
 Dialogue: 0,0:01:55.04,0:01:55.82,Default,,0,0,0,,When exactly?
 Dialogue: 0,0:01:55.91,0:01:57.54,Default,,0,0,0,,It is not confirmed as of now.
 Dialogue: 0,0:01:57.54,0:01:59.09,Default,,0,0,0,,Most likely in two episodes' time.
-Dialogue: 0,0:01:59.09,0:02:00.84,Default,,0,0,0,,Now I go tell the other households.
+Dialogue: 0,0:01:59.09,0:02:00.84,Default,,0,0,0,,I'll go tell the other households.
 Dialogue: 0,0:02:04.89,0:02:06.66,Default,,0,0,0,,The kids better hurry.
-Dialogue: 0,0:02:08.54,0:02:09.95,Default,,0,0,0,,From here we have to go by foot.
+Dialogue: 0,0:02:08.54,0:02:09.95,Default,,0,0,0,,From here we have to go on foot.
 Dialogue: 0,0:02:23.89,0:02:24.74,Default,,0,0,0,,Careful!
 Dialogue: 0,0:02:30.29,0:02:32.61,Default,,0,0,0,,Looks like no one's been around here for a long time.
 Dialogue: 0,0:02:32.86,0:02:35.54,Default,,0,0,0,,Yeah, this has been Grandpa's wood gathering trail.
 Dialogue: 0,0:02:36.96,0:02:38.03,Default,,0,0,0,,Wow...
 Dialogue: 0,0:02:38.76,0:02:40.54,Default,,0,0,0,,So many fairies!
 Dialogue: 0,0:02:40.54,0:02:41.24,Default,,0,0,0,,Beautiful, huh?
-Dialogue: 0,0:02:53.17,0:02:54.09,Default,,0,0,0,,It's not shy of me!
+Dialogue: 0,0:02:53.17,0:02:54.09,Default,,0,0,0,,It isn't scared of me!
 Dialogue: 0,0:02:54.09,0:02:54.90,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:02:56.86,0:02:58.86,Default,,0,0,0,,The villagers don't hurt them, do they?
 Dialogue: 0,0:02:58.86,0:02:59.46,Default,,0,0,0,,No.
-Dialogue: 0,0:02:59.64,0:03:01.11,Default,,0,0,0,,We are getting along with them.
+Dialogue: 0,0:02:59.64,0:03:01.11,Default,,0,0,0,,We get along with them.
 Dialogue: 0,0:03:05.69,0:03:06.38,Default,,0,0,0,,This is the place.
 Dialogue: 0,0:03:09.79,0:03:12.16,Default,,0,0,0,,Beyond this rock lies their world.
 Dialogue: 0,0:03:12.41,0:03:13.65,Default,,0,0,0,,We can't go any further.
@@ -78,7 +79,7 @@ Dialogue: 0,0:03:15.99,0:03:17.14,Default,,0,0,0,,What a huge rock...
 Dialogue: 0,0:03:17.14,0:03:18.76,Default,,0,0,0,,Who put it here?
 Dialogue: 0,0:03:19.61,0:03:20.61,Default,,0,0,0,,I don't know...
 Dialogue: 0,0:03:22.59,0:03:23.54,Default,,0,0,0,,Bidiu!
-Dialogue: 0,0:03:25.46,0:03:26.85,Default,,0,0,0,,We can't go in there with you.
+Dialogue: 0,0:03:25.46,0:03:26.88,Default,,0,0,0,,We can't go in there with you.
 Dialogue: 0,0:03:26.88,0:03:28.15,Default,,0,0,0,,It's time to say goodbye.
 Dialogue: 0,0:03:31.84,0:03:32.27,Animal,,0,0,0,,Bidiu!
 Dialogue: 0,0:03:33.35,0:03:34.64,Default,,0,0,0,,You are free now.
@@ -97,10 +98,10 @@ Dialogue: 0,0:04:30.41,0:04:32.26,Default,,0,0,0,,Will he think about us sometim
 Dialogue: 0,0:04:33.81,0:04:34.82,Default,,0,0,0,,Maybe...
 Dialogue: 0,0:05:09.42,0:05:10.61,Default,,0,0,0,,The sky turned quite dark...
 Dialogue: 0,0:05:11.21,0:05:13.37,Default,,0,0,0,,The forecast said a big storm is coming.
-Dialogue: 0,0:05:13.79,0:05:15.74,Default,,0,0,0,,Won't Bidiu be in danger?
+Dialogue: 0,0:05:13.79,0:05:15.76,Default,,0,0,0,,Won't Bidiu be in danger?
 Dialogue: 0,0:05:15.76,0:05:17.47,Default,,0,0,0,,He'll be alright.
 Dialogue: 0,0:05:20.44,0:05:21.01,Default,,0,0,0,,Grandpa!
-Dialogue: 0,0:05:21.21,0:05:22.02,Default,,0,0,0,,Take Xiaobai in the house!
+Dialogue: 0,0:05:21.21,0:05:22.02,Default,,0,0,0,,Take Xiaobai inside!
 Dialogue: 0,0:05:25.08,0:05:26.04,Default,,0,0,0,,You feel it too?
 Dialogue: 0,0:05:26.04,0:05:27.09,Default,,0,0,0,,A strong spirit.
 Dialogue: 0,0:05:37.75,0:05:38.61,Default,,0,0,0,,Diting...?
@@ -113,11 +114,11 @@ Dialogue: 0,0:05:50.17,0:05:51.17,Default,,0,0,0,,Fighting!
 Dialogue: 0,0:05:51.45,0:05:53.25,Default,,0,0,0,,I am the king of fighting!
 Dialogue: 0,0:05:54.96,0:05:57.38,Default,,0,0,0,,I will be back!
 Dialogue: 0,0:05:58.96,0:06:00.45,Default,,0,0,0,,How did you find this place?
-Dialogue: 0,0:06:00.84,0:06:03.51,Default,,0,0,0,,I've simply followed the strongest aura around.
+Dialogue: 0,0:06:00.84,0:06:03.51,Default,,0,0,0,,I simply followed the strongest aura around.
 Dialogue: 0,0:06:03.87,0:06:07.16,Default,,0,0,0,,Strange... Xiaohei's aura is quite weak right now...
-Dialogue: 0,0:06:07.58,0:06:07.74,Strongest,,0,0,0,,{\pos(300,440)}{\fr(90)\fs(100)}The Strongest Around
-Dialogue: 0,0:06:07.82,0:06:07.90,Strongest,,0,0,0,,{\pos(300,440)}{\fr(90)\fs(100)}The Strongest Around
-Dialogue: 0,0:06:07.99,0:06:08.20,Strongest,,0,0,0,,{\pos(300,440)}{\fr(90)\fs(100)}The Strongest Around
+Dialogue: 0,0:06:07.58,0:06:07.74,Strongest,,0,0,0,,{\pos(300,440)}{\fr90\fs100}The Strongest Around
+Dialogue: 0,0:06:07.82,0:06:07.90,Strongest,,0,0,0,,{\pos(300,440)}{\fr90\fs100}The Strongest Around
+Dialogue: 0,0:06:07.99,0:06:08.20,Strongest,,0,0,0,,{\pos(300,440)}{\fr90\fs100}The Strongest Around
 Dialogue: -1000,0:06:07.58,0:06:07.74,BG_Strongest,,0,0,0,,{\p1}m 169.6 116 l 169.6 116 169.6 116 169.6 116 341.6 109.6 343.47 228.8 343.47 402.13 340.8 459.73 341.33 476.8 341.33 486.93 340.27 539.73 340.27 580.27 342.93 660.8 344 677.33 345.07 688 348.8 775.47 303.47 774.93 253.87 763.2 172.27 757.33 163.2 756.27 164.27 726.4 160.53 666.13 161.07 609.07 164.27 545.07 168 441 165.5 344.5 166.5 278 164 204{\p0}
 Dialogue: -1000,0:06:07.82,0:06:07.90,BG_Strongest,,0,0,0,,{\p1}m 169.6 116 l 169.6 116 169.6 116 169.6 116 341.6 109.6 343.47 228.8 343.47 402.13 340.8 459.73 341.33 476.8 341.33 486.93 340.27 539.73 340.27 580.27 342.93 660.8 344 677.33 345.07 688 348.8 775.47 303.47 774.93 253.87 763.2 172.27 757.33 163.2 756.27 164.27 726.4 160.53 666.13 161.07 609.07 164.27 545.07 168 441 165.5 344.5 166.5 278 164 204{\p0}
 Dialogue: -1000,0:06:07.99,0:06:08.20,BG_Strongest,,0,0,0,,{\p1}m 169.6 116 l 169.6 116 169.6 116 169.6 116 341.6 109.6 343.47 228.8 343.47 402.13 340.8 459.73 341.33 476.8 341.33 486.93 340.27 539.73 340.27 580.27 342.93 660.8 344 677.33 345.07 688 348.8 775.47 303.47 774.93 253.87 763.2 172.27 757.33 163.2 756.27 164.27 726.4 160.53 666.13 161.07 609.07 164.27 545.07 168 441 165.5 344.5 166.5 278 164 204{\p0}
@@ -132,9 +133,9 @@ Dialogue: 0,0:07:09.30,0:07:11.04,Default,,0,0,0,,I've told you already.
 Dialogue: 0,0:07:11.04,0:07:12.62,Default,,0,0,0,,Ask Master Lao. He knows everything.
 Dialogue: 0,0:07:13.02,0:07:14.12,Default,,0,0,0,,Why would I trust you?
 Dialogue: 0,0:07:14.44,0:07:15.14,Default,,0,0,0,,Did you get him?
-Dialogue: 0,0:07:15.44,0:07:16.53,Animal,,0,0,0,,They sure did.
+Dialogue: 0,0:07:15.44,0:07:16.56,Animal,,0,0,0,,They sure did.
 Dialogue: 0,0:07:16.56,0:07:18.52,Title 2,,0,0,0,,{\pos(1544,538)}Diting
-Dialogue: 0,0:07:18.85,0:07:21.10,Default,,0,0,0,,It's something before you became the master's disciple.
+Dialogue: 0,0:07:18.85,0:07:21.10,Default,,0,0,0,,This was before you became his disciple.
 Dialogue: 0,0:07:21.10,0:07:23.19,Default,,0,0,0,,If you can't trust me, I'll go to him with you.
 Dialogue: 0,0:07:23.45,0:07:24.37,Default,,0,0,0,,Ridiculous.
 Dialogue: 0,0:07:24.54,0:07:26.73,Default,,0,0,0,,You think you can meet him whenever you want?
@@ -170,14 +171,14 @@ Dialogue: 0,0:08:38.41,0:08:39.78,Default,,0,0,0,,Wake up, Grandpa!
 Dialogue: 0,0:08:40.54,0:08:41.23,Default,,0,0,0,,Gen!
 Dialogue: 0,0:08:42.40,0:08:42.98,Default,,0,0,0,,I'm fine.
 Dialogue: 0,0:08:43.07,0:08:43.89,Default,,0,0,0,,Who are you?
-Dialogue: 0,0:08:43.89,0:08:45.46,Default,,0,0,0,,Not the right time to mock me.
+Dialogue: 0,0:08:43.89,0:08:45.48,Default,,0,0,0,,Not the right time to mock me.
 Dialogue: 0,0:08:45.48,0:08:46.65,Default,,0,0,0,,We're over here...
 Dialogue: 0,0:08:47.41,0:08:48.67,Default,,0,0,0,,Strange...
 Dialogue: 0,0:08:49.14,0:08:50.40,Default,,0,0,0,,Is he holding back?
 Dialogue: 0,0:08:50.82,0:08:51.44,Default,,0,0,0,,We can take him.
 Dialogue: 0,0:08:51.44,0:08:52.15,Default,,0,0,0,,He's not fighting seriously.
 Dialogue: 0,0:08:53.15,0:08:53.90,Default,,0,0,0,,Don't rush.
-Dialogue: 0,0:08:57.22,0:08:58.38,Default,,0,0,0,,I'm about to be at advantage.
+Dialogue: 0,0:08:57.22,0:08:58.38,Default,,0,0,0,,I'm about to take the advantage.
 Dialogue: 0,0:08:58.76,0:08:59.46,Default,,0,0,0,,Can you even see?
 Dialogue: 0,0:08:59.98,0:09:01.04,Default,,0,0,0,,It's nothing.
 Dialogue: 0,0:09:01.47,0:09:02.78,Default,,0,0,0,,Let's make a bet that-
@@ -195,7 +196,7 @@ Dialogue: 0,0:09:17.09,0:09:18.31,Default,,0,0,0,,We can fight inside as well.
 Dialogue: 0,0:09:19.24,0:09:21.41,Default,,0,0,0,,It's bad for your health to stand in the rain.
 Dialogue: 0,0:09:21.41,0:09:23.44,Default,,0,0,0,,Relax and have some tea!
 Dialogue: 0,0:09:34.59,0:09:36.41,Default,,0,0,0,,How did it end up like this?
-Dialogue: 0,0:09:47.54,0:09:49.05,Default,,0,0,0,,How can the rain fall so hard?
+Dialogue: 0,0:09:47.54,0:09:49.05,Default,,0,0,0,,How is it raining this hard?
 Dialogue: 0,0:09:49.21,0:09:51.21,Default,,0,0,0,,I'm worried about Bidiu...
 Dialogue: 0,0:09:51.21,0:09:53.34,Default,,0,0,0,,Don't be, he's safe where he is.
 Dialogue: 0,0:09:53.64,0:09:54.49,Default,,0,0,0,,Ice boy.
@@ -227,7 +228,7 @@ Dialogue: 0,0:10:34.81,0:10:36.86,Default,,0,0,0,,I'm not. Gen is a spirit too.
 Dialogue: 0,0:10:37.78,0:10:39.14,Default,,0,0,0,,So you already knew.
 Dialogue: 0,0:10:39.14,0:10:40.29,Default,,0,0,0,,Are you not afraid of him?
 Dialogue: 0,0:10:40.76,0:10:43.52,Default,,0,0,0,,Why should I be? He's my cousin!
-Dialogue: 0,0:10:44.07,0:10:44.97,Default,,0,0,0,,So already know about-
+Dialogue: 0,0:10:44.07,0:10:44.97,Default,,0,0,0,,So you already know about-
 Dialogue: 0,0:10:58.70,0:11:00.18,Default,,0,0,0,,Ice breaking fire!
 Dialogue: 0,0:11:00.54,0:11:01.38,Default,,0,0,0,,Who's there?
 Dialogue: 0,0:11:02.44,0:11:03.52,Default,,0,0,0,,No time for this...
@@ -239,7 +240,7 @@ Dialogue: 0,0:11:20.80,0:11:21.54,Default,,0,0,0,,Yes.
 Dialogue: 0,0:11:21.79,0:11:22.69,Default,,0,0,0,,Don't worry.
 Dialogue: 0,0:11:22.69,0:11:24.09,Default,,0,0,0,,I have rescued the human.
 Dialogue: 0,0:11:25.58,0:11:27.06,Default,,0,0,0,,No secret is safe from you.
-Dialogue: 0,0:11:27.06,0:11:28.62,Default,,0,0,0,,How did you find it out?
+Dialogue: 0,0:11:27.06,0:11:28.62,Default,,0,0,0,,How did you find out?
 Dialogue: 0,0:11:29.24,0:11:31.09,Default,,0,0,0,,We simply know each other too well.
 Dialogue: 0,0:11:31.47,0:11:33.22,Default,,0,0,0,,Why didn't you reveal yourself?
 Dialogue: 0,0:11:34.45,0:11:36.02,Default,,0,0,0,,I live in seclusion now.
@@ -249,7 +250,7 @@ Dialogue: 0,0:11:44.00,0:11:45.11,Default,,0,0,0,,Wow...
 Dialogue: 0,0:11:45.11,0:11:46.36,Default,,0,0,0,,Is he that modern?
 Dialogue: 0,0:11:47.67,0:11:48.89,Default,,0,0,0,,It's me.
 Dialogue: 0,0:11:51.42,0:11:52.17,Default,,0,0,0,,Understood.
-Dialogue: 0,0:11:54.51,0:11:54.93,Default,,0,0,0,,Meow.
+Dialogue: 0,0:11:54.51,0:11:54.98,Default,,0,0,0,,Meow.
 Dialogue: 0,0:11:55.74,0:11:56.80,Animal,,0,0,0,,Meow you.
 Dialogue: 0,0:11:58.07,0:11:59.03,Default,,0,0,0,,Master Lao wants to see you two.
 Dialogue: 0,0:12:00.26,0:12:01.14,Default,,0,0,0,,Why?
@@ -282,7 +283,7 @@ Dialogue: 0,0:14:33.83,0:14:35.75,Default,,0,0,0,,But the flood won't go away fo
 Dialogue: 0,0:14:36.15,0:14:38.28,Default,,0,0,0,,It's like this every year, we're used to it.
 Dialogue: 0,0:14:39.33,0:14:39.98,Default,,0,0,0,,Grandpa.
 Dialogue: 0,0:14:40.50,0:14:42.03,Default,,0,0,0,,You can go to Uncle San's place.
-Dialogue: 0,0:14:43.13,0:14:45.45,Default,,0,0,0,,Please get Master Lao's sign for me.
+Dialogue: 0,0:14:43.13,0:14:45.45,Default,,0,0,0,,Please get Master Lao's autograph for me.
 Dialogue: 0,0:14:46.13,0:14:47.18,Default,,0,0,0,,You like him that much?
 Dialogue: 0,0:14:48.30,0:14:49.23,Default,,0,0,0,,Let's go.
 Dialogue: 0,0:14:49.70,0:14:50.78,Default,,0,0,0,,How do we get there?
@@ -371,7 +372,7 @@ Dialogue: 0,0:19:39.44,0:19:39.92,Default,,0,0,0,,Right.
 Dialogue: 0,0:19:40.27,0:19:42.16,Default,,0,0,0,,Master, would you please sign this?
 Dialogue: 0,0:19:42.45,0:19:43.26,Default,,0,0,0,,Sure.
 Dialogue: 0,0:19:44.96,0:19:47.03,Default,,0,0,0,,Claim for damages caused by fighting?
-Dialogue: 0,0:19:47.50,0:19:49.37,Default,,0,0,0,,It's... not what it seems like!
+Dialogue: 0,0:19:47.50,0:19:49.37,Default,,0,0,0,,It's... not what it looks like!
 Dialogue: 0,0:19:49.37,0:19:51.67,Default,,0,0,0,,Let's just talk about why we're here.
 Dialogue: 0,0:19:52.82,0:19:54.77,Default,,0,0,0,,Let us go to the inner room.
 Dialogue: 0,0:19:54.77,0:19:56.77,Default,,0,0,0,,Xiaobai, wait for us here.
@@ -385,15 +386,15 @@ Dialogue: 0,0:20:12.77,0:20:13.88,Default,,0,0,0,,What's this all about?
 Dialogue: 0,0:20:15.10,0:20:16.67,Default,,0,0,0,,It's a long story.
 Dialogue: 0,0:20:16.67,0:20:17.72,Default,,0,0,0,,Then say it quick.
 Dialogue: 0,0:20:19.42,0:20:20.63,Default,,0,0,0,,400 years ago I placed\Nthe Sky Pearl on top of the tower,
-Dialogue: 0,0:20:20.63,0:20:22.38,Default,,0,0,0,,and swore that if someone can steal it, they can take it,
-Dialogue: 0,0:20:22.38,0:20:23.63,Default,,0,0,0,,or bring it back,\Nand I'll grant them a wish.
+Dialogue: 0,0:20:20.63,0:20:22.38,Default,,0,0,0,,and swore that if someone could steal it, they could keep it,
+Dialogue: 0,0:20:22.38,0:20:23.63,Default,,0,0,0,,or bring it back\Nand I'd grant them a wish.
 Dialogue: 0,0:20:23.66,0:20:24.57,Default,,0,0,0,,That's it!
 Dialogue: 0,0:20:24.82,0:20:25.72,Default,,0,0,0,,So that's what happened.
-Dialogue: 0,0:20:25.75,0:20:26.70,Default,,0,0,0,,You got it?
-Dialogue: 0,0:20:26.72,0:20:28.01,Default,,0,0,0,,Then why did I chase him?
-Dialogue: 0,0:20:26.72,0:20:28.01,Animal,,0,0,0,,Then why did he chase me?
-Dialogue: 0,0:20:28.13,0:20:29.38,Default,,0,0,0,,I totally forgot about my vow.
-Dialogue: 0,0:20:29.67,0:20:30.97,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:20:25.80,0:20:26.87,Default,,0,0,0,,You got it?
+Dialogue: 0,0:20:26.87,0:20:28.25,Default,,80,0,0,,{\an1}Then why did I chase him?
+Dialogue: 0,0:20:26.87,0:20:28.25,Animal,,0,80,0,,{\an3}Then why did he chase me?
+Dialogue: 0,0:20:28.25,0:20:29.62,Default,,0,0,0,,I totally forgot about my vow.
+Dialogue: 0,0:20:29.62,0:20:30.97,Default,,0,0,0,,Congratulations.
 Dialogue: 0,0:20:33.47,0:20:35.27,Default,,0,0,0,,As the only one who could steal it in 400 years,
 Dialogue: 0,0:20:35.27,0:20:36.72,Default,,0,0,0,,you must be a wielder of great skills.
 Dialogue: 0,0:20:36.72,0:20:37.63,Default,,0,0,0,,You were careless.
@@ -420,7 +421,7 @@ Dialogue: 0,0:21:32.71,0:21:37.45,Ending Song - Romaji,,0,0,0,,Yukisaki wa kitto
 Dialogue: 0,0:21:37.45,0:21:42.15,Ending Song - English,,0,0,0,,But with the scent of flowers in both hands
 Dialogue: 0,0:21:37.45,0:21:42.15,Ending Song - Romaji,,0,0,0,,Hana no kaori wo ryoute ni
 Dialogue: 0,0:21:42.15,0:21:48.35,Ending Song - English,,0,0,0,,I’ll carry it to the you I’ve yet to meet
-Dialogue: 0,0:21:42.15,0:21:48.35,Ending Song - Romaji,,0,0,0,,kore kara deau kimi e to
+Dialogue: 0,0:21:42.15,0:21:48.35,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:21:48.35,0:21:54.50,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
 Dialogue: 0,0:21:48.35,0:21:54.50,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
 Dialogue: 0,0:21:54.50,0:21:59.30,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
