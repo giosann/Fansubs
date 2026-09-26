@@ -6,6 +6,7 @@ PlayDepth: 0
 ScaledBorderAndShadow: Yes
 PlayResX: 1920
 PlayResY: 1080
+WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,8 +26,8 @@ Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.81,0:00:05.39,Default,,0,0,0,,They managed to get in...
 Dialogue: 0,0:00:06.36,0:00:07.44,Default,,0,0,0,,Diting couldn't defeat them?
-Dialogue: 0,0:00:07.68,0:00:11.90,Default,,0,0,0,,They aren't strong. They just copied themselves, and Diting fell for it.
-Dialogue: 0,0:00:11.90,0:00:14.60,Default,,0,0,0,,Couldn't you just drive them away?
+Dialogue: 0,0:00:07.68,0:00:11.90,Default,,0,0,0,,They aren't strong.\NThey just copied themselves, and Diting fell for it.
+Dialogue: 0,0:00:11.90,0:00:14.63,Default,,0,0,0,,Couldn't you just drive them away?
 Dialogue: 0,0:00:14.63,0:00:17.00,Default,,0,0,0,,I can't leave this place for a hundred years.
 Dialogue: 0,0:00:17.00,0:00:18.90,Default,,0,0,0,,Or get involved with outside affairs.
 Dialogue: 0,0:00:19.67,0:00:21.22,Default,,0,0,0,,But doesn't "this place" include Blue Creek?
@@ -55,12 +56,12 @@ Dialogue: 0,0:01:10.08,0:01:11.62,Default,,0,0,0,,Why is it that we always have 
 Dialogue: 0,0:01:15.51,0:01:16.44,Default,,0,0,0,,Is this the place?
 Dialogue: 0,0:01:17.81,0:01:18.80,Default,,0,0,0,,There's nothing here.
 Dialogue: 0,0:01:19.39,0:01:20.84,Default,,0,0,0,,There's a hole, isn't there?
-Dialogue: 0,0:01:21.26,0:01:24.04,Default,,0,0,0,,Don't tell me this is Suoyu Palace.
+Dialogue: 0,0:01:21.26,0:01:24.04,Default,,0,0,0,,Don't tell me this is the Lockup Palace.
 Dialogue: 0,0:01:24.16,0:01:25.58,Default,,0,0,0,,Just get inside first.
 Dialogue: 0,0:01:25.76,0:01:28.86,Default,,0,0,0,,Even if Laojun doesn't intervene,\Nyou can't seal his realm for long.
 Dialogue: 0,0:01:29.06,0:01:29.99,Default,,0,0,0,,Get on with it!
 Dialogue: 0,0:01:33.24,0:01:33.68,Default,,0,0,0,,This way!
-Dialogue: 0,0:01:35.09,0:01:36.69,Default,,0,0,0,,You like that magazine too?
+Dialogue: 0,0:01:35.09,0:01:36.72,Default,,0,0,0,,You like that magazine too?
 Dialogue: 0,0:01:36.72,0:01:37.95,Default,,0,0,0,,I also love it.
 Dialogue: 0,0:01:37.97,0:01:39.61,Default,,0,0,0,,ONLY comes next week, wanna go?
 Dialogue: 0,0:01:40.61,0:01:41.48,Default,,0,0,0,,I can't leave.
@@ -79,7 +80,7 @@ Dialogue: 0,0:02:07.92,0:02:08.06,Default,,0,0,0,,That space magic is quite trou
 Dialogue: 0,0:02:08.06,0:02:08.19,Default,,0,0,0,,But it requires a magical artifact.
 Dialogue: 0,0:02:08.19,0:02:08.29,Default,,0,0,0,,They can return instantly to where the artifact is.
 Dialogue: 0,0:02:08.29,0:02:08.40,Default,,0,0,0,,While attacking, pay attention to the movement of the artifact!
-Dialogue: 0,0:02:09.21,0:02:10.29,Default,,0,0,0,,Things I usually do?
+Dialogue: 0,0:02:09.65,0:02:10.40,Default,,0,0,0,,Things I usually do?
 Dialogue: 0,0:02:11.29,0:02:15.14,Default,,0,0,0,,Read books, prepare the elixir of immortality, surf the internet...
 Dialogue: 0,0:02:16.34,0:02:17.60,Default,,0,0,0,,Does the Jade Emperor exist?
 Dialogue: 0,0:02:17.60,0:02:18.56,Default,,0,0,0,,No.
@@ -106,7 +107,7 @@ Dialogue: 0,0:02:55.94,0:02:57.99,Default,,0,0,0,,It's a deadlock. He has the ad
 Dialogue: 0,0:02:58.29,0:02:59.39,Default,,0,0,0,,We must use the Firestorm!
 Dialogue: 0,0:03:00.09,0:03:01.16,Default,,0,0,0,,Our last resort...
 Dialogue: 0,0:03:01.34,0:03:02.69,Default,,0,0,0,,Darn all this teleportation!
-Dialogue: 0,0:03:03.54,0:03:04.75,Default,,0,0,0,,They try to use the Firestorm?
+Dialogue: 0,0:03:03.54,0:03:04.75,Default,,0,0,0,,They're using the Firestorm?
 Dialogue: 0,0:03:06.39,0:03:06.96,Default,,0,0,0,,Come here!
 Dialogue: 0,0:03:09.41,0:03:10.44,Default,,0,0,0,,He absorbed it!
 Dialogue: 0,0:03:10.44,0:03:11.51,Default,,0,0,0,,How is this possible?
@@ -136,7 +137,7 @@ Dialogue: 0,0:03:49.19,0:03:51.31,Default,,0,0,0,,I need to ask for your forgive
 Dialogue: 0,0:03:51.31,0:03:52.91,Default,,0,0,0,,We will apologize after we're done.
 Dialogue: 0,0:03:56.09,0:03:56.71,Default,,0,0,0,,Darn!
 Dialogue: 0,0:04:03.34,0:04:04.14,Default,,0,0,0,,I've messed it up.
-Dialogue: 0,0:04:06.48,0:04:08.09,Default,,0,0,0,,They fell for the same as Diting.
+Dialogue: 0,0:04:06.48,0:04:08.09,Default,,0,0,0,,They fell for the same trick as Diting.
 Dialogue: 0,0:04:09.34,0:04:09.79,Default - Italic,,0,0,0,,Xiaobai is outside!
 Dialogue: 0,0:04:09.81,0:04:11.61,Default,,0,0,0,,What? Why did she go outside?
 Dialogue: 0,0:04:11.61,0:04:12.17,Default - Italic,,0,0,0,,To pee...
@@ -148,7 +149,7 @@ Dialogue: 0,0:04:24.86,0:04:25.86,Default,,0,0,0,,Another person?
 Dialogue: 0,0:04:26.04,0:04:27.66,Default,,0,0,0,,Is this a side-scrolling game?
 Dialogue: 0,0:04:27.66,0:04:29.24,Default,,0,0,0,,No one told us about this!
 Dialogue: 0,0:04:29.24,0:04:30.58,Default,,0,0,0,,I'll stop her. You go on!
-Dialogue: 0,0:04:30.71,0:04:31.79,Default,,0,0,0,,Hope she's no spirit beast!
+Dialogue: 0,0:04:30.71,0:04:31.79,Default,,0,0,0,,Hope she's not a spirit beast!
 Dialogue: 0,0:04:34.88,0:04:35.79,Default - Italic,,0,0,0,,Oh, no!
 Dialogue: 0,0:04:36.08,0:04:36.83,Default,,0,0,0,,Take my spirit part back!
 Dialogue: 0,0:04:57.51,0:04:58.46,Default,,0,0,0,,Xiaohei?
@@ -167,7 +168,7 @@ Dialogue: 0,0:05:56.17,0:05:57.02,Default,,0,0,0,,There's no chance.
 Dialogue: 0,0:05:58.19,0:05:58.73,Default,,0,0,0,,What the...?!
 Dialogue: 0,0:06:13.60,0:06:14.56,Default,,0,0,0,,Still want to fight?
 Dialogue: 0,0:06:15.76,0:06:17.90,Default,,0,0,0,,We surrender, for real this time.
-Dialogue: 0,0:06:18.33,0:06:21.27,Default,,0,0,0,,Summer must be cool with you.
+Dialogue: 0,0:06:18.33,0:06:21.27,Default,,0,0,0,,Summer must be cool with you around.
 Dialogue: 0,0:06:24.83,0:06:26.19,Default,,0,0,0,,Why did you come here?
 Dialogue: 0,0:06:26.48,0:06:28.17,Default,,0,0,0,,Laojun once said,
 Dialogue: 0,0:06:28.17,0:06:29.63,Default,,0,0,0,,that whoever forces him to attack,
@@ -211,7 +212,7 @@ Dialogue: 0,0:07:42.06,0:07:43.62,Default,,0,0,0,,But he's home now.
 Dialogue: 0,0:07:43.64,0:07:45.10,Default,,0,0,0,,He must be very happy.
 Dialogue: 0,0:07:57.47,0:07:59.03,Default,,0,0,0,,Is he all right?
 Dialogue: 0,0:08:00.84,0:08:02.36,Default,,0,0,0,,He forced himself to transform.
-Dialogue: 0,0:08:02.39,0:08:03.80,Default,,0,0,0,,Inflicted wounds upon wounds.
+Dialogue: 0,0:08:02.39,0:08:03.80,Default,,0,0,0,,Added injury to injury.
 Dialogue: 0,0:08:03.80,0:08:05.24,Default,,0,0,0,,What? Is it that serious?
 Dialogue: 0,0:08:05.27,0:08:06.31,Default,,0,0,0,,Not particularly.
 Dialogue: 0,0:08:06.49,0:08:08.53,Default,,0,0,0,,But he'll lose some years of cultivation.
@@ -223,8 +224,8 @@ Dialogue: 0,0:08:15.81,0:08:17.47,Default,,0,0,0,,I can only help him slowly rec
 Dialogue: 0,0:08:17.81,0:08:19.56,Default,,0,0,0,,After all, I'm not a healer.
 Dialogue: 0,0:08:19.90,0:08:21.04,Default,,0,0,0,,I think you are.
 Dialogue: 0,0:08:22.05,0:08:22.50,Default - Italic,,0,0,0,,{\an8}Year 13 of Wuxian
-Dialogue: 0,0:08:22.05,0:08:22.50,Default - Italic,,0,0,0,,No. 239\NThe one hunts the White-Feathered Silkie\NShall get the Silk Phoenix Elixer
-Dialogue: 0,0:08:22.49,0:08:23.80,Default - Italic,,0,0,0,,{\an1}No. 237\NThose who collect the inscriptions from all \Nthe memorial arches in town will get the Back Gold elixer
+Dialogue: 0,0:08:22.05,0:08:22.50,Default - Italic,,0,0,0,,No. 239\NWhoever hunts the White-Feathered Silkie\NShall get the Silk Phoenix Elixir
+Dialogue: 0,0:08:22.49,0:08:23.80,Default - Italic,,0,0,0,,{\an1}No. 237\NThose who collect the inscriptions from all \Nthe memorial arches in town will get the Black Gold Elixir
 Dialogue: 0,0:08:22.49,0:08:23.80,Default - Italic,,0,0,0,,{\an9}No. 238\NThose who beat me 3 times at Gomoku\Nwill get a Laojun statue
 Dialogue: 0,0:08:25.70,0:08:26.36,Default,,0,0,0,,All right.
 Dialogue: 0,0:08:27.58,0:08:28.43,Default,,0,0,0,,Is he healed?
@@ -350,8 +351,8 @@ Dialogue: 0,0:13:37.06,0:13:37.81,Default,,0,0,0,,How weird!
 Dialogue: 0,0:13:38.17,0:13:39.66,Default,,0,0,0,,So others can't hear you?
 Dialogue: 0,0:13:40.48,0:13:41.71,Default - Italic,,0,0,0,,No, I decide who I talk to.
 Dialogue: 0,0:13:42.56,0:13:44.07,Default,,0,0,0,,This is so very very cool!
-Dialogue: 0,0:13:44.09,0:13:45.01,Default,,0,0,0,,Next time I have an exam,
-Dialogue: 0,0:13:45.01,0:13:47.56,Default,,0,0,0,,you can under the window and tell me the answers!
+Dialogue: 0,0:13:44.09,0:13:45.10,Default,,0,0,0,,Next time I have an exam,
+Dialogue: 0,0:13:45.10,0:13:47.65,Default,,0,0,0,,you can hide under the window and tell me the answers!
 Dialogue: 0,0:13:47.89,0:13:49.02,Default - Italic,,0,0,0,,It's not meant for that...
 Dialogue: 0,0:13:50.73,0:13:52.00,Default,,0,0,0,,You got used to it quick.
 Dialogue: 0,0:13:51.16,0:13:56.13,Title 3,,0,0,0,,{\pos(1478,549)}{\fad(1600,0)}Spirit Force
@@ -374,7 +375,7 @@ Dialogue: 0,0:14:37.03,0:14:38.29,Default,,0,0,0,,Nice to meet you.
 Dialogue: 0,0:14:38.32,0:14:40.23,Default,,0,0,0,,You can call me Lil Bro Luo from now on.
 Dialogue: 0,0:14:40.63,0:14:41.54,Default - Italic,,0,0,0,,I'm still the younger one...
 Dialogue: 0,0:14:43.23,0:14:44.40,Default,,0,0,0,,Before I forget.
-Dialogue: 0,0:14:44.42,0:14:45.79,Default,,0,0,0,,Laojun sent you this.
+Dialogue: 0,0:14:44.40,0:14:45.79,Default,,0,0,0,,Laojun sent you this.
 Dialogue: 0,0:14:45.81,0:14:47.71,Default,,0,0,0,,Hoho, the money's here!
 Dialogue: 0,0:14:47.73,0:14:49.05,Default,,0,0,0,,Don't do this again.
 Dialogue: 0,0:14:49.22,0:14:53.61,Letter,,0,0,0,,{\pos(915,900)\frz15.0\i1\b1}Got no money
@@ -391,7 +392,7 @@ Dialogue: 0,0:15:00.43,0:15:01.38,Default,,0,0,0,,It's in the city.
 Dialogue: 0,0:15:01.91,0:15:03.47,Default,,0,0,0,,So he wants us to go there?
 Dialogue: 0,0:15:04.07,0:15:05.44,Default,,0,0,0,,What if it's a trap?
 Dialogue: 0,0:15:05.46,0:15:06.12,Default,,0,0,0,,No way.
-Dialogue: 0,0:15:08.17,0:15:11.05,Default,,0,0,0,,Xiaobai! We cook dinner, you can take a bath first.
+Dialogue: 0,0:15:08.17,0:15:11.05,Default,,0,0,0,,Xiaobai! We'll cook dinner, go take a bath first.
 Dialogue: 0,0:15:11.08,0:15:11.85,Default,,0,0,0,,Sure.
 Dialogue: 0,0:15:21.16,0:15:22.36,Default,,0,0,0,,It's so beautiful!
 Dialogue: 0,0:15:22.85,0:15:24.11,Default,,0,0,0,,It's like the sea.
@@ -403,7 +404,7 @@ Dialogue: 0,0:15:39.09,0:15:40.55,Default,,0,0,0,,Bidiu, be a good boy!
 Dialogue: 0,0:15:43.23,0:15:44.71,Default,,0,0,0,,If Bidiu's not a spirit,
 Dialogue: 0,0:15:44.71,0:15:46.33,Default,,0,0,0,,how come he can turn into a giant?
 Dialogue: 0,0:15:46.74,0:15:49.25,Default,,0,0,0,,"Spirit" is a name for a certain kind of lifeform,
-Dialogue: 0,0:15:49.34,0:15:51.24,Default,,0,0,0,,but they aren't the only ones who can control spririt force.
+Dialogue: 0,0:15:49.34,0:15:51.24,Default,,0,0,0,,but they aren't the only ones who can control spirit force.
 Dialogue: 0,0:15:51.49,0:15:53.77,Default,,0,0,0,,In theory, all living things can do it.
 Dialogue: 0,0:15:54.25,0:15:54.93,Default,,0,0,0,,Oh, right.
 Dialogue: 0,0:15:55.43,0:15:57.95,Default,,0,0,0,,Laojun said that a human can become an immortal too.
@@ -434,14 +435,14 @@ Dialogue: 0,0:16:49.12,0:16:51.74,Default,,0,0,0,,Then how come I don't know any
 Dialogue: 0,0:16:52.32,0:16:53.99,Default,,0,0,0,,It all depends on innate properties.
 Dialogue: 0,0:16:55.78,0:16:56.24,Default,,0,0,0,,Here.
 Dialogue: 0,0:16:57.40,0:16:58.07,Default,,0,0,0,,Wow, cool!
-Dialogue: 0,0:16:58.71,0:17:01.60,Default,,0,0,0,,If a human spends decades with mastering ice magic,
+Dialogue: 0,0:16:58.71,0:17:01.60,Default,,0,0,0,,If a human spends decades mastering ice magic,
 Dialogue: 0,0:17:01.60,0:17:03.04,Default,,0,0,0,,this is the level they can reach.
 Dialogue: 0,0:17:03.31,0:17:04.65,Default,,0,0,0,,But an ice type spirit
 Dialogue: 0,0:17:04.90,0:17:06.88,Default,,0,0,0,,is capable of much more from its birth.
 Dialogue: 0,0:17:07.07,0:17:09.12,Default,,0,0,0,,In the past, very few people reached that level.
 Dialogue: 0,0:17:09.14,0:17:11.08,Default,,0,0,0,,Let alone the people today.
 Dialogue: 0,0:17:11.46,0:17:14.87,Default,,0,0,0,,But didn't Laojun say today's mightiest immortal had been a human?
-Dialogue: 0,0:17:15.03,0:17:17.05,Default,,0,0,0,,He did. I talk about ordinary people.
+Dialogue: 0,0:17:15.03,0:17:17.05,Default,,0,0,0,,He did, I'm talking about ordinary people.
 Dialogue: 0,0:17:17.37,0:17:19.19,Default,,0,0,0,,Of course, there are always naturals.
 Dialogue: 0,0:17:19.46,0:17:21.78,Default,,0,0,0,,The skills depend on the size of the spirit space.
 Dialogue: 0,0:17:22.03,0:17:24.66,Default,,0,0,0,,An ordinary person has one about the size of a basketball.
@@ -460,23 +461,23 @@ Dialogue: 0,0:17:44.17,0:17:45.37,Default,,0,0,0,,Isn't it in the space?
 Dialogue: 0,0:17:45.71,0:17:46.91,Default,,0,0,0,,On the back of Blue Creek.
 Dialogue: 0,0:17:47.04,0:17:47.79,Default,,0,0,0,,What?!
 Dialogue: 0,0:17:48.24,0:17:50.01,Default,,0,0,0,,Imagine the spirit space is a sphere.
-Dialogue: 0,0:17:50.24,0:17:52.08,Default,,0,0,0,,Blue Creek is in one side of the sphere.
+Dialogue: 0,0:17:50.24,0:17:52.08,Default,,0,0,0,,Blue Creek is on one side of the sphere.
 Dialogue: 0,0:17:52.26,0:17:53.55,Default,,0,0,0,,Under it is Starry Night Lake.
 Dialogue: 0,0:17:53.69,0:17:54.71,Default,,0,0,0,,Mt. Laojun is here.
-Dialogue: 0,0:17:55.03,0:17:56.50,Default,,0,0,0,,Inbetween, the four palaces.
+Dialogue: 0,0:17:55.03,0:17:56.50,Default,,0,0,0,,In between are the four palaces.
 Dialogue: 0,0:17:56.85,0:17:58.95,Default,,0,0,0,,By the physical laws defined by Master Lao,
 Dialogue: 0,0:17:58.95,0:18:00.70,Default,,0,0,0,,each has its own direction of gravity.
-Dialogue: 0,0:18:01.00,0:18:01.25,Default,,0,0,0,,{\pos(449,270)}Xaobai's Worldview
+Dialogue: 0,0:18:01.00,0:18:01.25,Default,,0,0,0,,{\pos(449,270)}Xiaobai's Worldview
 Dialogue: 0,0:18:01.00,0:18:01.25,Default,,0,0,0,,{\pos(447,408)}Backup
 Dialogue: 0,0:18:01.00,0:18:01.25,Default,,0,0,0,,{\pos(447,543)}Refresh
 Dialogue: 0,0:18:01.00,0:18:01.25,Default,,0,0,0,,{\pos(449,684)}Rebuild
 Dialogue: 0,0:18:01.00,0:18:01.25,Default,,0,0,0,,{\pos(459,813)}Shutdown
-Dialogue: 0,0:18:01.42,0:18:01.55,Default,,0,0,0,,{\pos(449,270)}Xaobai's Worldview
+Dialogue: 0,0:18:01.42,0:18:01.55,Default,,0,0,0,,{\pos(449,270)}Xiaobai's Worldview
 Dialogue: 0,0:18:01.42,0:18:01.55,Default,,0,0,0,,{\pos(447,408)}Backup
 Dialogue: 0,0:18:01.42,0:18:01.55,Default,,0,0,0,,{\pos(447,543)}Refresh
 Dialogue: 0,0:18:01.42,0:18:01.55,Default,,0,0,0,,{\pos(449,684)}Rebuild
 Dialogue: 0,0:18:01.42,0:18:01.55,Default,,0,0,0,,{\pos(459,813)}Shutdown
-Dialogue: 0,0:18:01.71,0:18:01.87,Default,,0,0,0,,{\pos(449,270)}Xaobai's Worldview
+Dialogue: 0,0:18:01.71,0:18:01.87,Default,,0,0,0,,{\pos(449,270)}Xiaobai's Worldview
 Dialogue: 0,0:18:01.71,0:18:01.87,Default,,0,0,0,,{\pos(447,408)}Backup
 Dialogue: 0,0:18:01.71,0:18:01.87,Default,,0,0,0,,{\pos(447,543)}Refresh
 Dialogue: 0,0:18:01.71,0:18:01.87,Default,,0,0,0,,{\pos(449,684)}Rebuild
@@ -498,7 +499,7 @@ Dialogue: 0,0:18:37.22,0:18:38.73,Default,,0,0,0,,Will you leave here then?
 Dialogue: 0,0:18:39.15,0:18:39.94,Default - Italic,,0,0,0,,I don't know...
 Dialogue: 0,0:18:40.72,0:18:41.85,Default,,0,0,0,,It's fine not to know.
 Dialogue: 0,0:18:41.96,0:18:42.98,Default,,0,0,0,,You have time to decide.
-Dialogue: 0,0:18:43.36,0:18:45.29,Default,,0,0,0,,But some troubles may come to you...
+Dialogue: 0,0:18:43.36,0:18:45.29,Default,,0,0,0,,But trouble may come your way...
 Dialogue: 0,0:18:45.78,0:18:46.56,Default,,0,0,0,,Troubles?
 Dialogue: 0,0:18:47.10,0:18:48.06,Default,,0,0,0,,You don't know?
 Dialogue: 0,0:18:48.08,0:18:49.29,Default,,0,0,0,,The Sky Pearl invites trouble.
@@ -512,7 +513,7 @@ Dialogue: 0,0:19:47.73,0:19:52.47,Ending Song - Romaji,,0,0,0,,Yukisaki wa kitto
 Dialogue: 0,0:19:52.47,0:19:57.17,Ending Song - English,,0,0,0,,But with the scent of flowers in both hands
 Dialogue: 0,0:19:52.47,0:19:57.17,Ending Song - Romaji,,0,0,0,,Hana no kaori wo ryoute ni
 Dialogue: 0,0:19:57.17,0:20:03.37,Ending Song - English,,0,0,0,,I’ll carry it to the you I’ve yet to meet
-Dialogue: 0,0:19:57.17,0:20:03.37,Ending Song - Romaji,,0,0,0,,kore kara deau kimi e to
+Dialogue: 0,0:19:57.17,0:20:03.37,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:20:03.37,0:20:09.52,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
 Dialogue: 0,0:20:03.37,0:20:09.52,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
 Dialogue: 0,0:20:09.52,0:20:14.32,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
