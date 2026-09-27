@@ -36,21 +36,21 @@ Dialogue: 0,0:00:20.45,0:00:20.95,Default,,0,0,0,,Bite!
 Dialogue: 0,0:00:23.44,0:00:24.34,Default,,0,0,0,,Not me...
 Dialogue: 0,0:00:26.53,0:00:27.75,Default,,0,0,0,,I let you run now!
 Dialogue: 0,0:00:31.44,0:00:33.18,Default,,0,0,0,,What on earth did she want here?
-Dialogue: 0,0:00:42.66,0:00:43.05,Default,,0,0,0,,Bidiu!
+Dialogue: 0,0:00:42.52,0:00:43.23,Default,,0,0,0,,Bidiu!
 Dialogue: 0,0:00:45.61,0:00:46.36,Default,,0,0,0,,Bidiu!
 Dialogue: 0,0:00:56.14,0:00:59.60,Title,,0,0,0,,{\pos(350,570)}{\fad(1600,0)}Flower fairy
-Dialogue: 0,0:01:02.74,0:01:04.16,Default,,0,0,0,,You can't devour everything!
-Dialogue: 0,0:01:04.39,0:01:05.96,Default,,0,0,0,,You can eat only wood, you know?
+Dialogue: 0,0:01:02.64,0:01:04.16,Default,,0,0,0,,You can't devour everything!
+Dialogue: 0,0:01:04.29,0:01:05.96,Default,,0,0,0,,You're supposed to eat only wood, you know?
 Dialogue: 0,0:01:07.75,0:01:08.94,Default - Italic,,0,0,0,,She says you can't eat everything.
 Dialogue: 0,0:01:09.70,0:01:10.47,Default - Italic,,0,0,0,,Only wood.
 Dialogue: 0,0:01:10.94,0:01:11.44,Default - Italic,,0,0,0,,Okay!
-Dialogue: 0,0:01:12.34,0:01:14.45,Default,,0,0,0,,The news of the Sky Pearl have already spread.
+Dialogue: 0,0:01:12.34,0:01:14.45,Default,,0,0,0,,The news about the Sky Pearl has already spread.
 Dialogue: 0,0:01:15.06,0:01:15.73,Default - Italic,,0,0,0,,How do you know?
 Dialogue: 0,0:01:16.20,0:01:17.45,Default,,0,0,0,,It's already on the website.
 Dialogue: 0,0:01:17.89,0:01:18.52,Default - Italic,,0,0,0,,Website?
 Dialogue: 0,0:01:19.16,0:01:19.72,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:01:19.98,0:01:21.35,Default,,0,0,0,,It's only used by spirits.
-Dialogue: 0,0:01:21.46,0:01:22.74,Default,,0,0,0,,Humans can't reach it.
+Dialogue: 0,0:01:21.46,0:01:22.74,Default,,0,0,0,,Humans can't access it.
 Dialogue: 0,0:01:23.57,0:01:24.33,Default - Italic,,0,0,0,,Such a thing exists?
 Dialogue: 0,0:01:24.78,0:01:26.58,Default,,0,0,0,,Many spirits live in the human world.
 Dialogue: 0,0:01:26.78,0:01:28.42,Default,,0,0,0,,Only a few are on here.
@@ -59,11 +59,11 @@ Dialogue: 0,0:01:30.57,0:01:32.89,Default,,0,0,0,,The human world affects spirit
 Dialogue: 0,0:01:33.41,0:01:34.72,Default,,0,0,0,,This is a member-only board.
 Dialogue: 0,0:01:34.92,0:01:36.36,Default,,0,0,0,,It has about 3000 members,
 Dialogue: 0,0:01:36.55,0:01:37.55,Default,,0,0,0,,but it's quite lively.
-Dialogue: 0,0:01:37.25,0:01:37.84,ImageBoard - Title 2,,0,0,0,,{\pos(730,370)\fs(200)\frz1)\frx(3)\fry(3)}BOOK OF VOWS
-Dialogue: 0,0:01:37.81,0:01:37.93,ImageBoard - Title 2,,0,0,0,,{\pos(730,360)\fs(200)\frz1)\frx(3)\fry(3)}BOOK OF VOWS
-Dialogue: 0,0:01:37.93,0:01:38.51,ImageBoard - Title 2,,0,0,0,,{\pos(730,350)\fs(200)\frz1)\frx(3)\fry(3)}BOOK OF VOWS
+Dialogue: 0,0:01:37.25,0:01:37.84,ImageBoard - Title 2,,0,0,0,,{\pos(730,370)\fs(200)\frz1\frx3\fry3}BOOK OF VOWS
+Dialogue: 0,0:01:37.81,0:01:37.93,ImageBoard - Title 2,,0,0,0,,{\pos(730,360)\fs(200)\frz1\frx3\fry3}BOOK OF VOWS
+Dialogue: 0,0:01:37.93,0:01:38.51,ImageBoard - Title 2,,0,0,0,,{\pos(730,350)\fs(200)\frz1\frx3\fry3}BOOK OF VOWS
 Dialogue: -1000,0:01:37.25,0:01:38.51,BG_ImageBoard_S1,,0,0,0,,{\p1}m 0 0 l 1800 0 1400 310 113 309{\p0}
-Dialogue: 0,0:01:38.76,0:01:41.18,Default,,0,0,0,,Look, it's here that the Sky Pearl quest was accomplished.
+Dialogue: 0,0:01:38.76,0:01:41.18,Default,,0,0,0,,Look, it says here that the Sky Pearl quest was accomplished.
 Dialogue: 0,0:01:41.18,0:01:42.00,Default,,0,0,0,,I can't read well.
 Dialogue: 0,0:01:42.69,0:01:47.73,ImageBoard - Title,,0,0,0,,{\pos(615,90)}{\fs(65)\frx(5)\fry(-1)\frz(-1)\c(C7D6C9)}Sky Pearl Quest Has Been Completed
 Dialogue: 0,0:01:42.69,0:01:47.73,ImageBoard,,0,0,0,,{\pos(230,284)}{\fs(60)\frx(25)\fry(-15)\frz(-1)}Laojun
@@ -85,7 +85,7 @@ Dialogue: 0,0:01:52.56,0:01:54.73,Default,,0,0,0,,Yeah, because the originals ar
 Dialogue: 0,0:01:55.82,0:01:59.05,Default,,0,0,0,,Look. They were published after\NMaster Lao stopped making vows.
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(351,265)}Book of Vows 7
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(784,265)}Complete Collection of Vows
-Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(1205,300}The Twelve\N(Completed)
+Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(1205,300)}The Twelve\N(Completed)
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(1635,300)}The Twelve\N(Completed)
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(255,595)}Guide for The Twelve
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(716,635)}The Twelve\N(Lanxi Zhen)
@@ -97,20 +97,20 @@ Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(1155,1025)}
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(1650,1025)}[OUTDATED] Book of Vows
 Dialogue: -1000,0:01:59.24,0:02:03.66,BG_ImageBoard_S2,,0,0,0,,{\pos(0,0)\p1}m 252.8 649.6 l 236.8 555.2 39.2 554.4 -29.6 1071.2 278.4 1064.8 269.6 983.2 -11.2 979.2 -7.2 912.8 65.6 668{\p0}
 Dialogue: -1000,0:01:59.24,0:02:03.66,BG_ImageBoard_S3,,0,0,0,,{\pos(0,0)\p1}m 232 262 l 238 220 1760 222 1758 278 608 280 570.29 545.14 1793.14 542.86 1800 666.29 557.71 656 514.29 702.86 480 982.86 1810.29 977.14 1816 1072 437.71 1064 388.57 669.71 256 663.11 233.78 547.85 417.52 546.29 475.2 293.6{\p0}
-Dialogue: 0,0:01:59.59,0:02:01.76,Default,,0,0,0,,There are 12 books of vows without the manuals.
-Dialogue: 0,0:02:01.92,0:02:03.46,Default,,0,0,0,,Together the Collection of Twelve.
+Dialogue: 0,0:01:59.59,0:02:01.76,Default,,0,0,0,,Not counting the manuals, there are twelve books of vows.
+Dialogue: 0,0:02:01.92,0:02:03.46,Default,,0,0,0,,Together, they make the Collection of Twelve.
 Dialogue: 0,0:02:03.66,0:02:04.46,Default - Italic,,0,0,0,,So many of them...
 Dialogue: 0,0:02:04.82,0:02:06.58,Default,,0,0,0,,Many people follow these posts.
 Dialogue: 0,0:02:06.87,0:02:07.82,Default,,0,0,0,,You see my point?
 Dialogue: 0,0:02:08.73,0:02:09.49,Default - Italic,,0,0,0,,You mean...
 Dialogue: 0,0:02:09.49,0:02:10.30,Default - Italic,,0,0,0,,someone can take the prize away?
 Dialogue: 0,0:02:10.77,0:02:11.42,Default,,0,0,0,,Exactly.
-Dialogue: 0,0:02:11.74,0:02:13.68,Default,,0,0,0,,It's easier than to go to Master Lao's.
+Dialogue: 0,0:02:11.74,0:02:13.68,Default,,0,0,0,,It's easier than going to Master Lao's.
 Dialogue: 0,0:02:30.46,0:02:32.11,Default,,0,0,0,,Isn't this the fairy from yesterday?
 Dialogue: 0,0:02:32.84,0:02:34.22,Default,,0,0,0,,What are you doing here?
 Dialogue: 0,0:02:34.58,0:02:36.50,Default,,0,0,0,,You'll never know! Kill me if you want!
-Dialogue: 0,0:02:36.78,0:02:37.22,Default,,0,0,0,,Okay.
-Dialogue: 0,0:02:37.74,0:02:38.63,Default,,0,0,0,,Spare me, my lord.
+Dialogue: 0,0:02:36.64,0:02:37.22,Default,,0,0,0,,Okay.
+Dialogue: 0,0:02:37.70,0:02:38.63,Default,,0,0,0,,Spare me, my lord.
 Dialogue: 0,0:02:41.36,0:02:43.00,Default,,0,0,0,,I'm looking for a cure for my friend.
 Dialogue: 0,0:02:43.17,0:02:45.94,Default,,0,0,0,,I could feel strong spiritual energy in this direction.
 Dialogue: 0,0:02:46.09,0:02:46.88,Default - Italic,,0,0,0,,Fairy sense!
@@ -133,7 +133,7 @@ Dialogue: 0,0:03:14.24,0:03:15.05,Default,,0,0,0,,I see...
 Dialogue: 0,0:03:15.99,0:03:18.37,Default,,0,0,0,,But the thing you felt can't cure your friend.
 Dialogue: 0,0:03:19.24,0:03:20.62,Default,,0,0,0,,Could you take me to your friend?
 Dialogue: 0,0:03:20.93,0:03:22.21,Default,,0,0,0,,Maybe I can help him.
-Dialogue: 0,0:03:22.37,0:03:22.80,Default,,0,0,0,,Really?
+Dialogue: 0,0:03:22.31,0:03:22.93,Default,,0,0,0,,Really?
 Dialogue: 0,0:03:24.23,0:03:25.17,Default,,0,0,0,,Lingfeng Mountain?
 Dialogue: 0,0:03:25.86,0:03:27.32,Default,,0,0,0,,It's a long way from here.
 Dialogue: 0,0:03:27.72,0:03:29.17,Default,,0,0,0,,No wonder I've never met you.
@@ -182,11 +182,11 @@ Dialogue: 0,0:05:45.52,0:05:46.35,Default,,0,0,0,,Finish it!
 Dialogue: 0,0:05:46.64,0:05:47.82,Default,,0,0,0,,What happened to Qiguo?
 Dialogue: 0,0:05:48.04,0:05:49.18,Default,,0,0,0,,I don't know for sure...
 Dialogue: 0,0:05:51.18,0:05:51.77,Default - Italic,,0,0,0,,Spirit trap!
-Dialogue: 0,0:05:52.05,0:05:52.34,Default,,0,0,0,,What?!
+Dialogue: 0,0:05:52.05,0:05:52.46,Default,,0,0,0,,What?!
 Dialogue: 0,0:05:54.25,0:05:54.80,Default,,0,0,0,,Get out!
 Dialogue: 0,0:05:58.88,0:05:59.60,Default,,0,0,0,,A giantifying trap?!
 Dialogue: 0,0:06:05.70,0:06:06.38,Default,,0,0,0,,He's gone?
-Dialogue: 0,0:06:07.42,0:06:09.30,Default,,0,0,0,,Why run away, after we fell in his trap?
+Dialogue: 0,0:06:07.30,0:06:09.30,Default,,0,0,0,,Why run away after catching us in his trap?
 Dialogue: 0,0:06:13.76,0:06:14.75,Default,,0,0,0,,No way...
 Dialogue: 0,0:06:23.67,0:06:24.49,Default,,0,0,0,,What happened?
 Dialogue: 0,0:07:10.00,0:07:11.06,Default,,0,0,0,,You guys shrunk...
@@ -194,7 +194,7 @@ Dialogue: 0,0:07:11.51,0:07:12.67,Default,,0,0,0,,It's my fault...
 Dialogue: 0,0:07:12.95,0:07:13.83,Default,,0,0,0,,It's not your fault.
 Dialogue: 0,0:07:14.06,0:07:14.91,Default,,0,0,0,,I wasn't cautious enough.
 Dialogue: 0,0:07:15.78,0:07:17.91,Default,,0,0,0,,How could he set up such a strong trap?
-Dialogue: 0,0:07:18.35,0:07:19.92,Default,,0,0,0,,Why did I get shrunk?
+Dialogue: 0,0:07:18.35,0:07:19.92,Default,,0,0,0,,Why didn't I get shrunk?
 Dialogue: 0,0:07:20.31,0:07:21.55,Default,,0,0,0,,You have a fairy body.
 Dialogue: 0,0:07:21.86,0:07:23.88,Default,,0,0,0,,These traps only affect material sprites.
 Dialogue: 0,0:07:23.65,0:07:30.08,Title 2,,0,0,0,,{\fad(1600,0)\pos(1349,520)}Lingfeng Mountain
@@ -203,8 +203,8 @@ Dialogue: 0,0:07:26.15,0:07:27.79,Default,,0,0,0,,It will wear off after some ti
 Dialogue: 0,0:07:28.06,0:07:29.49,Default,,0,0,0,,But I don't know exactly when.
 Dialogue: 0,0:07:31.29,0:07:32.32,Default,,0,0,0,,And Qiguo?
 Dialogue: 0,0:07:32.74,0:07:33.89,Default,,0,0,0,,What if he's already...?
-Dialogue: 0,0:07:34.23,0:07:35.16,Default - Italic,,0,0,0,,The two souls depend on each other.
-Dialogue: 0,0:07:35.16,0:07:35.69,Default - Italic,,0,0,0,,Qiguo must be still alive.
+Dialogue: 0,0:07:34.20,0:07:35.16,Default - Italic,,0,0,0,,The two souls depend on each other.
+Dialogue: 0,0:07:35.16,0:07:35.89,Default - Italic,,0,0,0,,Qiguo must be still alive.
 Dialogue: 0,0:07:35.89,0:07:36.56,Default,,0,0,0,,Are you sure?
 Dialogue: 0,0:07:37.68,0:07:38.81,Default,,0,0,0,,But we need to hurry.
 Dialogue: 0,0:07:38.96,0:07:40.28,Default,,0,0,0,,We must find him quickly.
@@ -221,8 +221,8 @@ Dialogue: 0,0:07:57.95,0:07:58.91,Default,,0,0,0,,Can you trace him?
 Dialogue: 0,0:07:59.01,0:07:59.57,Default - Italic,,0,0,0,,Of course.
 Dialogue: 0,0:08:01.26,0:08:02.78,Default,,0,0,0,,No need to take the trouble!
 Dialogue: 0,0:08:03.01,0:08:05.45,Default,,0,0,0,,There's nothing I can't sense within 500 yards!
-Dialogue: 0,0:08:05.62,0:08:05.99,Default,,0,0,0,,Sense!
-Dialogue: 0,0:08:06.33,0:08:07.58,Default,,0,0,0,,He's out of range...
+Dialogue: 0,0:08:05.70,0:08:06.38,Default,,0,0,0,,Sense!
+Dialogue: 0,0:08:06.38,0:08:07.58,Default,,0,0,0,,He's out of range...
 Dialogue: 0,0:08:08.35,0:08:10.10,Default,,0,0,0,,Who would run away within 500 yards?
 Dialogue: 0,0:08:10.51,0:08:11.20,Default - Italic,,0,0,0,,I'll find him...
 Dialogue: 0,0:08:11.87,0:08:12.70,Default,,0,0,0,,We must hurry.
@@ -243,19 +243,19 @@ Dialogue: 0,0:09:04.74,0:09:05.57,Default,,0,0,0,,I'll carry her.
 Dialogue: 0,0:09:07.03,0:09:08.50,Default,,0,0,0,,You're so light!
 Dialogue: 0,0:09:11.86,0:09:12.95,Default,,0,0,0,,Are you all right?
 Dialogue: 0,0:09:13.21,0:09:13.88,Default - Italic,,0,0,0,,She was light a moment ago.
-Dialogue: 0,0:09:18.19,0:09:19.60,Default,,0,0,0,,It seems our mass has decreased,
-Dialogue: 0,0:09:19.63,0:09:21.62,Default,,0,0,0,,However, it seems our stamina has decreased too.
+Dialogue: 0,0:09:18.19,0:09:19.63,Default,,0,0,0,,Our mass may have decreased,
+Dialogue: 0,0:09:19.63,0:09:21.62,Default,,0,0,0,,but our stamina took a hit too.
 Dialogue: 0,0:09:22.23,0:09:23.88,Default,,0,0,0,,We've also gotten a lot smaller.
 Dialogue: 0,0:09:23.90,0:09:25.89,Default,,0,0,0,,One mile now feels like 20.
 Dialogue: 0,0:09:26.30,0:09:27.74,Default,,0,0,0,,We won't catch up by ourselves.
 Dialogue: 0,0:09:27.95,0:09:29.78,Default,,0,0,0,,We should get something to ride on.
-Dialogue: 0,0:09:32.19,0:09:32.64,Default,,0,0,0,,Got it!
+Dialogue: 0,0:09:32.19,0:09:32.97,Default,,0,0,0,,Got it!
 Dialogue: 0,0:09:37.88,0:09:38.93,Default,,0,0,0,,It feels even slower...
 Dialogue: 0,0:09:48.12,0:09:48.87,Default - Italic,,0,0,0,,The Heixius left us behind.
 Dialogue: 0,0:09:49.19,0:09:50.64,Default,,0,0,0,,I hope they'll soon find him...
 Dialogue: 0,0:09:51.12,0:09:51.84,Default - Italic,,0,0,0,,Fairies never get tired.
 Dialogue: 0,0:09:52.33,0:09:53.18,Default - Italic,,0,0,0,,Are you sure he stopped somewhere?
-Dialogue: 0,0:09:53.66,0:09:54.83,Default,,0,0,0,,He's in a bad condition.
+Dialogue: 0,0:09:53.66,0:09:54.83,Default,,0,0,0,,He's in bad shape.
 Dialogue: 0,0:09:54.94,0:09:56.67,Default,,0,0,0,,He needs a place to regenerate.
 Dialogue: 0,0:09:57.03,0:09:57.79,Default - Italic,,0,0,0,,But no idea how far away.
 Dialogue: 0,0:09:59.97,0:10:00.93,Default,,0,0,0,,A carnivorous squirrel?
@@ -286,30 +286,30 @@ Dialogue: 0,0:11:16.21,0:11:17.05,Default - Italic,,0,0,0,,The Heixius can't fin
 Dialogue: 0,0:11:17.08,0:11:17.67,Default,,0,0,0,,What?
 Dialogue: 0,0:11:19.97,0:11:20.74,Default,,0,0,0,,Let's eat first...
 Dialogue: 0,0:11:20.94,0:11:21.78,Default,,0,0,0,,Gaping mushroom.
-Dialogue: 0,0:11:21.78,0:11:23.46,Default,,0,0,0,,It gives you a terrible diarrhea.
-Dialogue: 0,0:11:23.66,0:11:24.28,Default,,0,0,0,,Inedible.
-Dialogue: 0,0:11:24.89,0:11:25.77,Default,,0,0,0,,Bud-sucking caterpillar.
-Dialogue: 0,0:11:25.77,0:11:27.25,Default,,0,0,0,,Nutritious and really tasty.
-Dialogue: 0,0:11:27.25,0:11:27.66,Default,,0,0,0,,No.
+Dialogue: 0,0:11:21.78,0:11:23.66,Default,,0,0,0,,It gives you terrible diarrhea.
+Dialogue: 0,0:11:23.66,0:11:24.66,Default,,0,0,0,,Inedible.
+Dialogue: 0,0:11:24.89,0:11:25.82,Default,,0,0,0,,Bud-sucking caterpillar.
+Dialogue: 0,0:11:25.82,0:11:27.25,Default,,0,0,0,,Nutritious and really tasty.
+Dialogue: 0,0:11:27.25,0:11:28.04,Default,,0,0,0,,No.
 Dialogue: 0,0:11:28.33,0:11:29.11,Default,,0,0,0,,Cloud mushroom.
 Dialogue: 0,0:11:29.11,0:11:31.45,Default,,0,0,0,,Hard as steel, used for making tools.
 Dialogue: 0,0:11:31.45,0:11:32.12,Default,,0,0,0,,Inedible.
-Dialogue: 0,0:11:32.48,0:11:32.82,Default,,0,0,0,,No.
-Dialogue: 0,0:11:33.17,0:11:33.63,Default,,0,0,0,,Inedible.
-Dialogue: 0,0:11:33.79,0:11:34.09,Default,,0,0,0,,Inedible.
-Dialogue: 0,0:11:34.39,0:11:34.66,Default,,0,0,0,,No.
-Dialogue: 0,0:11:35.10,0:11:35.61,Default,,0,0,0,,Inedible.
-Dialogue: 0,0:11:35.66,0:11:36.31,Default,,0,0,0,,Don't touch it!
-Dialogue: 0,0:11:38.02,0:11:38.95,Default,,0,0,0,,Exploding chrysanthemum.
+Dialogue: 0,0:11:32.50,0:11:33.20,Default,,0,0,0,,No.
+Dialogue: 0,0:11:33.20,0:11:33.76,Default,,0,0,0,,Inedible.
+Dialogue: 0,0:11:33.76,0:11:34.42,Default,,0,0,0,,Inedible.
+Dialogue: 0,0:11:34.42,0:11:35.01,Default,,0,0,0,,No.
+Dialogue: 0,0:11:35.01,0:11:35.76,Default,,0,0,0,,Inedible.
+Dialogue: 0,0:11:35.76,0:11:36.35,Default,,0,0,0,,Don't touch it!
+Dialogue: 0,0:11:38.02,0:11:39.11,Default,,0,0,0,,Exploding chrysanthemum.
 Dialogue: 0,0:11:39.11,0:11:40.57,Default,,0,0,0,,Pollen bursts out of it on touch.
 Dialogue: 0,0:11:40.77,0:11:42.24,Default,,0,0,0,,It makes animals pollinate it.
 Dialogue: 0,0:11:43.46,0:11:44.53,Default,,0,0,0,,But its fruit is edible.
 Dialogue: 0,0:11:51.49,0:11:52.33,Default,,0,0,0,,Much faster now.
 Dialogue: 0,0:12:08.20,0:12:08.99,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:12:09.58,0:12:10.30,Default,,0,0,0,,Hei-xiu!
-Dialogue: 0,0:12:10.86,0:12:11.60,Default - Italic,,0,0,0,,He left traces everywhere,
-Dialogue: 0,0:12:11.63,0:12:12.32,Default - Italic,,0,0,0,,and there was more to find.
-Dialogue: 0,0:12:12.34,0:12:13.03,Default - Italic,,0,0,0,,But now there's nothing.
+Dialogue: 0,0:12:10.86,0:12:11.63,Default - Italic,,0,0,0,,There were traces before,
+Dialogue: 0,0:12:11.63,0:12:12.34,Default - Italic,,0,0,0,,and more to follow...
+Dialogue: 0,0:12:12.34,0:12:13.13,Default - Italic,,0,0,0,,but now there's nothing.
 Dialogue: 0,0:12:13.57,0:12:15.01,Default,,0,0,0,,Then he must be nearby.
 Dialogue: 0,0:12:15.34,0:12:16.50,Default,,0,0,0,,Now we need your help.
 Dialogue: 0,0:12:25.51,0:12:26.22,Default,,0,0,0,,Did you find him?
@@ -321,7 +321,7 @@ Dialogue: 0,0:12:37.27,0:12:38.22,Default,,0,0,0,,Are these the places?
 Dialogue: 0,0:12:38.79,0:12:40.33,Default,,0,0,0,,Yes, I feel him at those places.
 Dialogue: 0,0:12:40.58,0:12:41.42,Default,,0,0,0,,How did you know?
 Dialogue: 0,0:13:26.89,0:13:28.15,Default,,0,0,0,,Stronger than I expected...
-Dialogue: 0,0:13:30.64,0:13:33.09,Default,,0,0,0,,You're strong without being integrated to that body.
+Dialogue: 0,0:13:30.56,0:13:33.09,Default,,0,0,0,,You're this strong without being fully merged with that body?
 Dialogue: 0,0:13:33.37,0:13:34.87,Default,,0,0,0,,If you were in your own body,
 Dialogue: 0,0:13:34.87,0:13:36.10,Default,,0,0,0,,I wouldn't be a match for you.
 Dialogue: 0,0:13:37.39,0:13:38.41,Default,,0,0,0,,So you realized it.
@@ -329,7 +329,7 @@ Dialogue: 0,0:13:38.98,0:13:41.54,Default,,0,0,0,,You didn't attack us when we f
 Dialogue: 0,0:13:41.85,0:13:43.30,Default,,0,0,0,,I don't think we're enemies.
 Dialogue: 0,0:13:43.68,0:13:45.26,Default,,0,0,0,,Can we help you with something?
 Dialogue: 0,0:13:46.88,0:13:47.90,Default,,0,0,0,,Mind your own business.
-Dialogue: 0,0:13:48.23,0:13:49.73,Default,,0,0,0,,The tree fairy who you possess,
+Dialogue: 0,0:13:48.23,0:13:49.73,Default,,0,0,0,,The tree fairy you're possessing
 Dialogue: 0,0:13:49.93,0:13:51.12,Default,,0,0,0,,will die very soon.
 Dialogue: 0,0:13:51.68,0:13:55.06,Default,,0,0,0,,You want me to give my life up for this fairy?
 Dialogue: 0,0:13:55.36,0:13:55.97,Default,,0,0,0,,No.
@@ -350,7 +350,7 @@ Dialogue: 0,0:14:24.40,0:14:25.15,Default,,0,0,0,,You're right.
 Dialogue: 0,0:14:26.50,0:14:27.51,Default,,0,0,0,,You leave me no choice.
 Dialogue: 0,0:14:36.87,0:14:37.82,Default,,0,0,0,,You want to kill him?!
 Dialogue: 0,0:14:44.22,0:14:46.44,Default,,0,0,0,,Strange... Where did this attack come from?
-Dialogue: 0,0:14:46.81,0:14:49.52,Default,,0,0,0,,Now you can't scatter\Nnor regenerate your body, can you?
+Dialogue: 0,0:14:46.81,0:14:49.52,Default,,0,0,0,,Now you can't scatter\Nor regenerate your body, can you?
 Dialogue: 0,0:14:50.05,0:14:51.15,Default,,0,0,0,,What have you done to me?
 Dialogue: 0,0:14:51.49,0:14:53.38,Default,,0,0,0,,Weird question to ask during a fight.
 Dialogue: 0,0:14:53.81,0:14:54.70,Default,,0,0,0,,Just so you know,
@@ -367,13 +367,13 @@ Dialogue: 0,0:15:25.43,0:15:26.65,Default,,0,0,0,,I'll never accept it.
 Dialogue: 0,0:15:28.42,0:15:29.85,Default,,0,0,0,,I can't force you.
 Dialogue: 0,0:15:34.72,0:15:35.40,Default,,0,0,0,,What are you up to?!
 Dialogue: 0,0:15:36.34,0:15:37.36,Default,,0,0,0,,The least that I can do,
-Dialogue: 0,0:15:38.02,0:15:39.23,Default,,0,0,0,,Is send you into the next life.
+Dialogue: 0,0:15:38.02,0:15:39.23,Default,,0,0,0,,is send you into the next life.
 Dialogue: 0,0:15:39.69,0:15:41.13,Default,,0,0,0,,You're willing to kill him?
 Dialogue: 0,0:15:41.49,0:15:42.63,Default,,0,0,0,,Technically, no.
 Dialogue: 0,0:15:43.03,0:15:44.58,Default,,0,0,0,,But I can't force you out.
 Dialogue: 0,0:15:44.70,0:15:45.94,Default,,0,0,0,,The fairy's as good as dead.
 Dialogue: 0,0:15:46.40,0:15:47.94,Default,,0,0,0,,I know you won't do it.
-Dialogue: 0,0:15:48.62,0:15:50.49,Default,,0,0,0,,Where'd you get that assumption?
+Dialogue: 0,0:15:48.62,0:15:50.49,Default,,0,0,0,,What makes you so sure?
 Dialogue: 0,0:15:50.86,0:15:52.35,Default,,0,0,0,,I was only asked for help.
 Dialogue: 0,0:15:52.74,0:15:54.73,Default,,0,0,0,,However, I don't want to lose the soul core.
 Dialogue: 0,0:15:55.50,0:15:56.24,Default,,0,0,0,,After all,
@@ -389,8 +389,8 @@ Dialogue: 0,0:16:12.48,0:16:13.07,Default,,0,0,0,,Farewell.
 Dialogue: 0,0:16:13.22,0:16:14.23,Default,,0,0,0,,I accept it! I accept it!
 Dialogue: 0,0:16:20.99,0:16:21.68,Default,,0,0,0,,Qiguo!
 Dialogue: 0,0:16:22.31,0:16:23.34,Default,,0,0,0,,Qiguo!
-Dialogue: 0,0:16:27.06,0:16:27.55,Default - Italic,,0,0,0,,It's all right!
-Dialogue: 0,0:16:32.97,0:16:36.77,Default,,0,0,0,,I've never thought you'd be able to hide\Nin a plant within such a short time.
+Dialogue: 0,0:16:27.06,0:16:27.65,Default - Italic,,0,0,0,,It's all right!
+Dialogue: 0,0:16:32.97,0:16:36.77,Default,,0,0,0,,I never thought you could hide inside a plant so quickly.
 Dialogue: 0,0:16:40.19,0:16:41.92,Default,,0,0,0,,Should I destroy your new place?
 Dialogue: 0,0:16:41.95,0:16:43.26,Default,,0,0,0,,Or will you come out on your own?
 Dialogue: 0,0:16:44.65,0:16:47.02,Default,,0,0,0,,Do you kill everything around you?
@@ -399,8 +399,8 @@ Dialogue: 0,0:16:49.50,0:16:51.26,Default,,0,0,0,,Could you please revert the ma
 Dialogue: 0,0:16:51.26,0:16:53.07,Default,,0,0,0,,Otherwise I can't summon the soul core.
 Dialogue: 0,0:16:53.27,0:16:55.81,Default,,0,0,0,,You just killed the tree fairy!
 Dialogue: 0,0:16:56.15,0:16:58.27,Default,,0,0,0,,How could I believe you have a soul core?
-Dialogue: 0,0:16:58.73,0:16:59.99,Default,,0,0,0,,You know, that tree fairy...
-Dialogue: 0,0:16:59.99,0:17:00.83,Default,,0,0,0,,I've saved him.
+Dialogue: 0,0:16:58.73,0:16:59.99,Default,,0,0,0,,About that tree fairy...
+Dialogue: 0,0:16:59.99,0:17:00.83,Default,,0,0,0,,I already saved him.
 Dialogue: 0,0:17:01.14,0:17:01.67,Default,,0,0,0,,Fenmo!
 Dialogue: 0,0:17:02.43,0:17:03.27,Default,,0,0,0,,Qiguo!
 Dialogue: 0,0:17:03.38,0:17:04.51,Default,,0,0,0,,How's this possible?
@@ -416,7 +416,7 @@ Dialogue: 0,0:17:30.44,0:17:32.75,Default,,0,0,0,,You left me no choice.
 Dialogue: 0,0:17:34.76,0:17:36.14,Default,,0,0,0,,A tree type soul core!
 Dialogue: 0,0:17:36.41,0:17:37.95,Default,,0,0,0,,You're still willing to give it to me?
 Dialogue: 0,0:17:38.43,0:17:39.95,Default,,0,0,0,,Are you afraid it's a fake?
-Dialogue: 0,0:17:40.06,0:17:42.75,Default,,0,0,0,,You wouldn't go that far just to destroy a roaming soul.
+Dialogue: 0,0:17:40.06,0:17:42.77,Default,,0,0,0,,You wouldn't go that far just to destroy a roaming soul.
 Dialogue: 0,0:17:42.77,0:17:43.94,Default,,0,0,0,,I accept it.
 Dialogue: 0,0:17:50.78,0:17:52.65,Default,,0,0,0,,I'm finally revived!
 Dialogue: 0,0:18:00.44,0:18:02.13,Default,,0,0,0,,It's a good body indeed!
@@ -433,7 +433,7 @@ Dialogue: 0,0:18:21.49,0:18:22.39,Default,,0,0,0,,Shame on you!
 Dialogue: 0,0:18:22.59,0:18:24.23,Default,,0,0,0,,You can't toy with our lives!
 Dialogue: 0,0:18:26.69,0:18:27.44,Default,,0,0,0,,You're right...
 Dialogue: 0,0:18:27.83,0:18:29.21,Default,,0,0,0,,I am ashamed of myself...
-Dialogue: 0,0:18:29.51,0:18:31.37,Default,,0,0,0,,I take whatever punishment you see fit.
+Dialogue: 0,0:18:29.51,0:18:31.37,Default,,0,0,0,,I'll take whatever punishment you see fit.
 Dialogue: 0,0:18:32.24,0:18:32.90,Default - Italic,,0,0,0,,What will you do?
 Dialogue: 0,0:18:33.66,0:18:34.82,Default,,0,0,0,,I don't know...
 Dialogue: 0,0:18:35.70,0:18:37.31,Default,,0,0,0,,What would you have done?
@@ -444,8 +444,8 @@ Dialogue: 0,0:18:45.02,0:18:46.27,Default,,0,0,0,,but those two ladybugs?
 Dialogue: 0,0:18:54.67,0:18:55.76,Default,,0,0,0,,I don't know...
 Dialogue: 0,0:18:56.10,0:18:57.90,Default,,0,0,0,,How can you say such a thing?
 Dialogue: 0,0:18:58.14,0:18:59.48,Default,,0,0,0,,They can't be compared...
-Dialogue: 0,0:18:59.81,0:19:00.94,Default,,0,0,0,,What's wrong with ladybugs?!
-Dialogue: 0,0:19:00.26,0:19:00.94,Default,,0,0,0,,Nothing!
+Dialogue: 0,0:18:59.81,0:19:01.20,Default,,0,100,0,,{\an3}What's wrong with ladybugs?!
+Dialogue: 0,0:19:00.26,0:19:01.20,Default,,100,0,0,,{\an1}Nothing!
 Dialogue: 0,0:19:01.63,0:19:03.14,Default,,0,0,0,,I think I'd have done the same...
 Dialogue: 0,0:19:03.42,0:19:04.73,Default,,0,0,0,,Of course you wouldn't...
 Dialogue: 0,0:19:05.42,0:19:06.77,Default,,0,0,0,,I have no right to condemn you.
@@ -461,7 +461,7 @@ Dialogue: 0,0:19:26.21,0:19:27.76,Default,,0,0,0,,But my spirit space abilities 
 Dialogue: 0,0:19:28.25,0:19:31.48,Default,,0,0,0,,If you ever need my help, you can call me with this.
 Dialogue: 0,0:19:32.27,0:19:33.29,Default,,0,0,0,,I'll gladly accept it.
 Dialogue: 0,0:19:35.87,0:19:36.73,Default,,0,0,0,,We're leaving now.
-Dialogue: 0,0:19:36.97,0:19:39.01,Default,,0,0,0,,I will take care of the two.
+Dialogue: 0,0:19:36.97,0:19:39.01,Default,,0,0,0,,I'll look after the two of them.
 Dialogue: 0,0:19:39.30,0:19:40.54,Default,,0,0,0,,Thank you, Gen.
 Dialogue: 0,0:19:40.69,0:19:42.73,Default,,0,0,0,,We'll visit you when Qiguo's recovered.
 Dialogue: 0,0:19:50.65,0:19:52.19,Default,,0,0,0,,We can go back too.
@@ -483,7 +483,7 @@ Dialogue: 0,0:20:25.23,0:20:26.37,Default - Italic,,0,0,0,,So a sparrow's life's
 Dialogue: 0,0:20:27.45,0:20:28.21,Default,,0,0,0,,Of course not.
 Dialogue: 0,0:20:28.70,0:20:30.38,Default,,0,0,0,,The immortal can be the sparrow, too.
 Dialogue: 0,0:20:31.69,0:20:32.35,Default - Italic,,0,0,0,,Okay...
-Dialogue: 0,0:20:33.30,0:20:35.98,Default,,0,0,0,,Prolongation of life always requires sacrifices.
+Dialogue: 0,0:20:33.30,0:20:35.98,Default,,0,0,0,,Prolongation of life always demands sacrifices.
 Dialogue: 0,0:20:36.33,0:20:37.23,Default - Italic,,0,0,0,,So you don't want to live?
 Dialogue: 0,0:20:38.61,0:20:40.07,Default,,0,0,0,,I'll cherish life even more.
 Dialogue: 0,0:21:26.28,0:21:32.66,Ending Song - English,,0,0,0,,Stay with me - let's walk on, kicking pebbles as we go
@@ -493,7 +493,7 @@ Dialogue: 0,0:21:32.66,0:21:37.40,Ending Song - Romaji,,0,0,0,,Yukisaki wa kitto
 Dialogue: 0,0:21:37.40,0:21:42.10,Ending Song - English,,0,0,0,,But with the scent of flowers in both hands
 Dialogue: 0,0:21:37.40,0:21:42.10,Ending Song - Romaji,,0,0,0,,Hana no kaori wo ryoute ni
 Dialogue: 0,0:21:42.10,0:21:48.30,Ending Song - English,,0,0,0,,I’ll carry it to the you I’ve yet to meet
-Dialogue: 0,0:21:42.10,0:21:48.30,Ending Song - Romaji,,0,0,0,,kore kara deau kimi e to
+Dialogue: 0,0:21:42.10,0:21:48.30,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:21:48.30,0:21:54.45,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
 Dialogue: 0,0:21:48.30,0:21:54.45,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
 Dialogue: 0,0:21:54.45,0:21:59.25,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
