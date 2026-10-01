@@ -23,10 +23,10 @@ Dialogue: 1,0:00:12.96,0:00:13.64,Default,,0,0,0,,Wow!
 Dialogue: 1,0:00:16.54,0:00:17.88,Default,,0,0,0,,How did you do this?
 Dialogue: 1,0:00:18.59,0:00:22.73,Default,,0,0,0,,I created it from spirit force taken from you\Nand material sprites I stocked up.
 Dialogue: 1,0:00:23.33,0:00:25.27,Default,,0,0,0,,This is creation magic, right?
-Dialogue: 1,0:00:25.46,0:00:25.95,Default,,0,0,0,,Yeah.
+Dialogue: 1,0:00:25.46,0:00:26.10,Default,,0,0,0,,Yeah.
 Dialogue: 1,0:00:26.22,0:00:27.80,Default,,0,0,0,,How can I control it?
 Dialogue: 1,0:00:28.13,0:00:29.22,Default,,0,0,0,,It's your spirit energy.
-Dialogue: 1,0:00:29.35,0:00:30.59,Default,,0,0,0,,You should know better.
+Dialogue: 1,0:00:29.35,0:00:30.59,Default,,0,0,0,,You should know how.
 Dialogue: 1,0:00:32.42,0:00:33.36,Default,,0,0,0,,How will you use it?
 Dialogue: 1,0:00:33.46,0:00:34.38,Default,,0,0,0,,It'll be the bait.
 Dialogue: 1,0:00:34.75,0:00:37.37,Default,,0,0,0,,We can't leave this space even if it was open,
@@ -36,7 +36,7 @@ Dialogue: 1,0:00:41.20,0:00:42.46,Default,,0,0,0,,or you lose cultivation.
 Dialogue: 1,0:00:42.63,0:00:43.47,Default,,0,0,0,,I know.
 Dialogue: 1,0:00:43.68,0:00:45.65,Default,,0,0,0,,So we'll let them believe we can leave.
 Dialogue: 1,0:00:45.98,0:00:46.96,Default,,0,0,0,,What's your plan?
-Dialogue: 1,0:00:47.51,0:00:49.27,Default,,0,0,0,,I've got Muluo immortal's soul stone.
+Dialogue: 1,0:00:47.51,0:00:49.27,Default,,0,0,0,,I've got Immortal Muluo's soul stone.
 Dialogue: 1,0:00:49.67,0:00:50.22,Default,,0,0,0,,Oh?
 Dialogue: 1,0:00:56.39,0:00:57.97,Default,,0,0,0,,It's the same two as before.
 Dialogue: 1,0:00:58.41,0:00:59.07,Default,,0,0,0,,Perfect.
@@ -58,11 +58,11 @@ Dialogue: 1,0:01:16.50,0:01:17.70,Default - Italic,,0,0,0,,{\an8}Don't be so sur
 Dialogue: 1,0:01:17.83,0:01:19.39,Default - Italic,,0,0,0,,{\an8}None of you are space type.
 Dialogue: 1,0:01:19.53,0:01:21.13,Default - Italic,,0,0,0,,{\an8}How do you know we can't leave?
 Dialogue: 1,0:01:21.13,0:01:22.57,Default,,0,0,0,,He's going to doubt himself.
-Dialogue: 1,0:01:22.93,0:01:23.69,Default - Italic,,0,0,0,,{\an8}Qiuxian.
+Dialogue: 1,0:01:22.93,0:01:23.69,Default - Italic,,0,0,0,,{\an8}Jiuxian.
 Dialogue: 1,0:01:24.50,0:01:27.41,Default,,0,0,0,,Among them, only the old frog can sense spirit bodies.
 Dialogue: 1,0:01:27.64,0:01:29.18,Default,,0,0,0,,So if they don't see you,
 Dialogue: 1,0:01:29.32,0:01:31.78,Default,,0,0,0,,they will believe you aren't there.
-Dialogue: 1,0:01:33.09,0:01:35.23,Default,,0,0,0,,We move the moment I retrieved the copy.
+Dialogue: 1,0:01:33.09,0:01:35.23,Default,,0,0,0,,We move the moment I retrieve the copy.
 Dialogue: 1,0:01:35.59,0:01:37.78,Default,,0,0,0,,As fast as we can, we hide on him.
 Dialogue: 1,0:01:38.93,0:01:40.31,Default,,0,0,0,,We will be so light,
 Dialogue: 1,0:01:40.52,0:01:41.87,Default,,0,0,0,,he surely won't notice us.
@@ -70,22 +70,22 @@ Dialogue: 1,0:01:43.47,0:01:44.69,Default,,0,0,0,,Unless they discover us,
 Dialogue: 1,0:01:44.85,0:01:48.20,Default,,0,0,0,,there's no way for the two of them\Nto tell we're still there.
 Dialogue: 1,0:01:48.44,0:01:49.57,Default - Italic,,0,0,0,,{\an8}Impossible...
 Dialogue: 1,0:01:50.29,0:01:51.10,Default - Italic,,0,0,0,,{\an8}Stay here and watch.
-Dialogue: 1,0:01:51.44,0:01:52.37,Default - Italic,,0,0,0,,{\an8}I call Polao in.
+Dialogue: 1,0:01:51.44,0:01:52.37,Default - Italic,,0,0,0,,{\an8}I'll call Polao in.
 Dialogue: 1,0:01:53.48,0:01:54.88,Default,,0,0,0,,He controls this space.
 Dialogue: 1,0:01:55.26,0:01:57.33,Default,,0,0,0,,Only he can bring people in and out.
-Dialogue: 1,0:01:57.51,0:01:59.98,Default,,0,0,0,,We don't know where he takes us,\Nthis can pose a risk.
+Dialogue: 1,0:01:57.51,0:01:59.98,Default,,0,0,0,,We don't know where he'll take us,\Nthis could be risky.
 Dialogue: 1,0:02:00.67,0:02:02.44,Default,,0,0,0,,Since they already found the Pearl,
 Dialogue: 1,0:02:02.64,0:02:04.43,Default,,0,0,0,,they must be somewhere in the city.
 Dialogue: 1,0:02:05.14,0:02:07.67,Default,,0,0,0,,The top of a building would be the best for us.
 Dialogue: 1,0:02:07.98,0:02:11.42,Default,,0,0,0,,They'll be distracted while he's explaining the situation to the others.
 Dialogue: 1,0:02:11.53,0:02:13.85,Default,,0,0,0,,They won't notice a rice-sized object falling.
-Dialogue: 1,0:02:14.32,0:02:16.48,Default,,0,0,0,,We teleport before the space switch could be cut.
+Dialogue: 1,0:02:14.32,0:02:16.48,Default,,0,0,0,,We teleport before the space switch can be cut.
 Dialogue: 1,0:02:17.19,0:02:18.49,Default,,0,0,0,,And that's when we escape.
 Dialogue: 1,0:02:22.78,0:02:23.58,Default,,0,0,0,,So adorable!
 Dialogue: 1,0:02:23.67,0:02:24.43,Default,,0,0,0,,So cute!
 Dialogue: 1,0:02:25.43,0:02:26.24,Default,,0,0,0,,So kawaii!
 Dialogue: 1,0:02:29.13,0:02:30.73,Default,,0,0,0,,Xiaohei, are you okay?
-Dialogue: 1,0:02:31.03,0:02:31.99,Default,,0,0,0,,Should've stayed home...
+Dialogue: 1,0:02:31.03,0:02:31.99,Default - Italic,,0,0,0,,Should've stayed home...
 Dialogue: 1,0:02:40.07,0:02:40.91,Default,,0,0,0,,What's happening?
 Dialogue: 1,0:02:41.93,0:02:43.55,Default,,0,0,0,,I think it's your friend.
 Dialogue: 1,0:02:44.35,0:02:48.27,Title,,0,0,0,,{\pos(500,600)}Escape and Battle
@@ -96,7 +96,7 @@ Dialogue: 1,0:02:53.06,0:02:54.53,Default,,0,0,0,,The unknown is to be feared.
 Dialogue: 1,0:02:55.02,0:02:58.20,Default,,0,0,0,,Even the strongest spirit space can't nullify every power.
 Dialogue: 1,0:02:58.79,0:03:01.70,Default,,0,0,0,,I can't even imagine what ability could take them out of there.
 Dialogue: 1,0:03:03.13,0:03:04.79,Default,,0,0,0,,I could have stayed to watch them.
-Dialogue: 1,0:03:05.01,0:03:06.63,Default,,0,0,0,,What a bunch of promise breakers...
+Dialogue: 1,0:03:05.01,0:03:06.63,Default,,0,0,0,,So much for keeping a promise...
 Dialogue: 1,0:03:07.08,0:03:08.78,Default,,0,0,0,,Remember, they aren't our objective.
 Dialogue: 1,0:03:09.25,0:03:10.72,Default,,0,0,0,,Though we must act quickly.
 Dialogue: 1,0:03:13.92,0:03:15.42,Default,,0,0,0,,As I thought, we're near the con.
@@ -105,7 +105,6 @@ Dialogue: 1,0:03:18.03,0:03:20.46,Default,,0,0,0,,I still remember you guys are 
 Dialogue: 1,0:03:23.21,0:03:24.08,Default,,0,0,0,,You're frank.
 Dialogue: 1,0:03:24.68,0:03:25.76,Default,,0,0,0,,We take our leave now.
 Dialogue: 1,0:03:25.97,0:03:26.64,Default,,0,0,0,,We won't steal it?
-Dialogue: 1,0:03:26.64,0:03:26.93,Default,,0,0,0,,
 Dialogue: 1,0:03:27.30,0:03:28.85,Default,,0,0,0,,It was fun working with you.
 Dialogue: 1,0:03:29.00,0:03:31.49,Default,,0,0,0,,I hope next time we can have a good long talk.
 Dialogue: 1,0:03:33.60,0:03:34.33,Default,,0,0,0,,Mr. Luo.
@@ -135,9 +134,9 @@ Dialogue: 1,0:04:20.45,0:04:22.78,Default,,0,0,0,,It's a contest! I can win a li
 Dialogue: 1,0:04:24.74,0:04:26.07,Default,,0,0,0,,It looks like...
 Dialogue: 1,0:04:27.00,0:04:29.16,Default,,0,0,0,,How come there's not a single place to hide...
 Dialogue: 1,0:04:29.50,0:04:31.37,Default,,0,0,0,,If I just cross the road, they'll see me.
-Dialogue: 1,0:04:32.31,0:04:34.54,Default,,0,0,0,,Had I known, I'd have brought my cell phone...
+Dialogue: 1,0:04:32.31,0:04:34.56,Default,,0,0,0,,Had I known, I'd have brought my cell phone...
 Dialogue: 1,0:04:34.56,0:04:36.60,Default,,0,0,0,,But I don't know Xiaobai's number...
-Dialogue: 1,0:04:37.59,0:04:38.71,Default,,0,0,0,,They walk in plain sight?!
+Dialogue: 1,0:04:37.59,0:04:38.71,Default,,0,0,0,,They're walking in plain sight?!
 Dialogue: 1,0:04:39.14,0:04:40.47,Default,,0,0,0,,Are you sure this is safe?
 Dialogue: 1,0:04:40.73,0:04:41.95,Default,,0,0,0,,I have observed the place.
 Dialogue: 1,0:04:42.15,0:04:43.81,Default,,0,0,0,,It's some kind of masquerade.
@@ -145,11 +144,11 @@ Dialogue: 1,0:04:44.33,0:04:46.65,Default,,0,0,0,,If we keep a low profile,\Nno 
 Dialogue: 1,0:04:46.67,0:04:47.63,Default,,0,0,0,,All right.
 Dialogue: 1,0:04:52.06,0:04:53.20,Default,,0,0,0,,You may have been mistaken.
 Dialogue: 1,0:04:53.64,0:04:55.08,Default - Italic,,0,0,0,,{\an8}So lifelike!\NWhat game is this?
-Dialogue: 1,0:04:55.08,0:04:56.02,Default - Italic,,0,0,0,,{\an8}Can we make some photos?
 Dialogue: 1,0:04:54.65,0:04:56.02,Default,,0,0,0,,What's happening?
+Dialogue: 1,0:04:55.08,0:04:56.02,Default - Italic,,0,0,0,,{\an8}Can we take some photos?
 Dialogue: 1,0:04:57.71,0:04:58.43,Default,,0,0,0,,Diting?
-Dialogue: 1,0:04:58.62,0:04:59.59,Default,,0,0,0,,Do I sense it wrong?
-Dialogue: 1,0:05:00.14,0:05:00.73,Default,,0,0,0,,No.
+Dialogue: 1,0:04:58.62,0:04:59.59,Default,,0,0,0,,Did I sense that wrong?
+Dialogue: 1,0:05:00.14,0:05:00.82,Default,,0,0,0,,No.
 Dialogue: 1,0:05:01.32,0:05:02.71,Default,,0,0,0,,"Double Deadly Alliance"?
 Dialogue: 1,0:05:03.25,0:05:04.65,Default,,0,0,0,,But it's a two-player game.
 Dialogue: 1,0:05:05.11,0:05:07.04,Default,,0,0,0,,Rules allow any console game, right?
@@ -200,7 +199,7 @@ Dialogue: 1,0:06:50.77,0:06:51.66,Default,,0,0,0,,Thank you.
 Dialogue: 1,0:06:52.05,0:06:53.55,Default,,0,0,0,,We leave it to you, old frog.
 Dialogue: 1,0:06:55.60,0:06:56.35,Default,,0,0,0,,Old frog?
 Dialogue: 1,0:06:57.53,0:06:58.61,Default,,0,0,0,,He's already gone.
-Dialogue: 1,0:07:00.25,0:07:01.00,Title 2,,0,0,0,,{\pos(1100,759)}Unwritten Rule
+Dialogue: 1,0:07:00.25,0:07:01.00,Title 2,,0,0,0,,{\pos(1110,765)\frz0.5}Unwritten Rule
 Dialogue: 1,0:07:03.11,0:07:04.59,Default,,0,0,0,,That must be him.
 Dialogue: 1,0:07:07.59,0:07:08.07,Default,,0,0,0,,Diting?!
 Dialogue: 1,0:07:11.40,0:07:13.12,Default,,0,0,0,,He must have heard me...
@@ -216,15 +215,15 @@ Dialogue: 1,0:07:39.87,0:07:41.56,Default,,0,0,0,,You left without a word.
 Dialogue: 1,0:07:42.06,0:07:44.08,Default,,0,0,0,,Don't you want to keep your promise?
 Dialogue: 1,0:07:44.66,0:07:46.28,Default,,0,0,0,,I said I'd tell him to give it to you.
 Dialogue: 1,0:07:46.70,0:07:48.06,Default,,0,0,0,,Xiaohei, give it to them.
-Dialogue: 1,0:07:48.80,0:07:49.45,Default,,0,0,0,,Hell no.
-Dialogue: 1,0:07:50.66,0:07:52.89,Default,,0,0,0,,You're angry only because I could escape.
+Dialogue: 1,0:07:48.80,0:07:49.45,Default - Italic,,0,0,0,,Hell no.
+Dialogue: 1,0:07:50.66,0:07:52.89,Default,,0,0,0,,You're only angry because I escaped.
 Dialogue: 1,0:07:53.25,0:07:55.64,Default,,0,0,0,,Don't you think it was rather impolite?
 Dialogue: 1,0:07:55.83,0:07:57.87,Default,,0,0,0,,Was locking me up a polite thing to do?
 Dialogue: 1,0:07:58.09,0:08:02.52,Default,,0,0,0,,Anyone who possesses the prize of a vow quest, must bear the risk of robbery.
 Dialogue: 1,0:08:03.00,0:08:05.14,Default,,0,0,0,,It's an unwritten rule of vow quests.
 Dialogue: 1,0:08:05.26,0:08:06.65,Default,,0,0,0,,How is this an unwritten rule?
 Dialogue: 1,0:08:06.85,0:08:08.47,Default,,0,0,0,,It's just that Laojun won't intervene.
-Dialogue: 1,0:08:09.20,0:08:11.56,Default,,0,0,0,,Everyone knows he can't deal with events on Earth.
+Dialogue: 1,0:08:09.20,0:08:11.56,Default,,0,0,0,,Everyone knows he can't interfere in worldly affairs.
 Dialogue: 1,0:08:11.76,0:08:15.27,Default,,0,0,0,,When some people started to say this, the others accepted it as a rule.
 Dialogue: 1,0:08:15.89,0:08:20.02,Default,,0,0,0,,In the end, you're just looking for a reason to justify robbery.
 Dialogue: 1,0:08:20.73,0:08:23.36,Default,,0,0,0,,Or do you really think this is fair?
@@ -248,11 +247,11 @@ Dialogue: 1,0:09:02.56,0:09:03.34,Default - Italic,,0,0,0,,Why do you need it?
 Dialogue: 1,0:09:03.59,0:09:04.73,Default,,0,0,0,,No need for you to know.
 Dialogue: 1,0:09:05.53,0:09:06.32,Default - Italic,,0,0,0,,What if I don't give it up?
 Dialogue: 1,0:09:06.51,0:09:07.89,Default,,0,0,0,,Then we'll take it by force.
-Dialogue: 1,0:09:08.26,0:09:09.39,Default - Italic,,0,0,0,,And what if the moment you attack,
-Dialogue: 1,0:09:09.42,0:09:10.40,Default - Italic,,0,0,0,,I give it to Diting?
+Dialogue: 1,0:09:08.26,0:09:09.50,Default - Italic,,0,0,0,,What if you attack...
+Dialogue: 1,0:09:09.50,0:09:10.53,Default - Italic,,0,0,0,,and I hand it to Diting?
 Dialogue: 1,0:09:12.51,0:09:14.12,Default,,0,0,0,,What good would it do you?
-Dialogue: 1,0:09:14.26,0:09:15.03,Default - Italic,,0,0,0,,If I can't keep it,
-Dialogue: 1,0:09:15.05,0:09:15.89,Default - Italic,,0,0,0,,I'd feel better if you felt bad.
+Dialogue: 1,0:09:14.26,0:09:15.03,Default - Italic,,0,0,0,,If I can't have it,
+Dialogue: 1,0:09:15.03,0:09:15.91,Default - Italic,,0,0,0,,neither can you.
 Dialogue: 1,0:09:20.69,0:09:21.59,Default - Italic,,0,0,0,,Think I won't do it?
 Dialogue: 1,0:09:21.84,0:09:23.26,Default,,0,0,0,,You two made up this scheme!
 Dialogue: 1,0:09:25.26,0:09:26.57,Default,,0,0,0,,I didn't know about this.
@@ -280,19 +279,19 @@ Dialogue: 1,0:10:27.98,0:10:31.19,Default,,0,0,0,,To avoid being deceived, Maste
 Dialogue: 1,0:10:31.61,0:10:32.58,Default,,0,0,0,,How convenient.
 Dialogue: 1,0:10:32.98,0:10:34.15,Default,,0,0,0,,Just give it to them.
 Dialogue: 1,0:10:34.40,0:10:37.18,Default,,0,0,0,,If it was that simple, we wouldn't have done all this!
-Dialogue: 1,0:10:37.74,0:10:39.43,Default,,0,0,0,,Do have any idea what it is?
+Dialogue: 1,0:10:37.74,0:10:39.43,Default,,0,0,0,,Do you have any idea what it is?
 Dialogue: 1,0:10:40.02,0:10:40.95,Default,,0,0,0,,Easier said than done.
 Dialogue: 1,0:10:41.43,0:10:42.11,Default,,0,0,0,,This is...
 Dialogue: 1,0:10:45.08,0:10:46.45,Default,,0,0,0,,Are you really giving it to us?
 Dialogue: 1,0:10:46.83,0:10:47.65,Default - Italic,,0,0,0,,You should have told us earlier.
 Dialogue: 1,0:10:48.75,0:10:49.40,Default,,0,0,0,,But...
-Dialogue: 1,0:10:50.25,0:10:53.04,Default,,0,0,0,,It's the Sky Pearl! The hell thought you'd just give it away!
+Dialogue: 1,0:10:50.25,0:10:53.04,Default,,0,0,0,,It's the Sky Pearl! Who the hell thought you'd just give it away?!
 Dialogue: 1,0:10:53.14,0:10:54.69,Default,,0,0,0,,Don't you know what it can do?!
-Dialogue: 1,0:10:54.72,0:10:55.56,Default - Italic,,0,0,0,,Do you not want it?
+Dialogue: 1,0:10:54.72,0:10:55.56,Default - Italic,,0,0,0,,Don't want it?
 Dialogue: 1,0:10:57.60,0:10:58.50,Default,,0,0,0,,Shame on us...
 Dialogue: 1,0:10:59.09,0:11:00.57,Default,,0,0,0,,We humbly accept the Pearl.
 Dialogue: 1,0:11:01.13,0:11:03.06,Default,,0,0,0,,If you are ever in need of our help,
-Dialogue: 1,0:11:03.47,0:11:04.97,Default,,0,0,0,,just inquire at the club hall.
+Dialogue: 1,0:11:03.47,0:11:04.97,Default,,0,0,0,,just inquire at the Guild Hall.
 Dialogue: 1,0:11:05.57,0:11:06.86,Default,,0,0,0,,We will be at your service.
 Dialogue: 1,0:11:08.46,0:11:10.11,Default,,0,0,0,,We are brothers now!
 Dialogue: 1,0:11:10.15,0:11:10.94,Default,,0,0,0,,Sweet!
@@ -302,17 +301,16 @@ Dialogue: 1,0:11:15.21,0:11:16.38,Default,,0,0,0,,We must say goodbye now.
 Dialogue: 1,0:11:16.86,0:11:17.40,Default,,0,0,0,,Goodbye.
 Dialogue: 1,0:11:19.25,0:11:20.98,Default,,0,0,0,,See ya later, little spirits!
 Dialogue: 1,0:11:23.16,0:11:23.67,Default,,0,0,0,,Huh?
-Dialogue: 1,0:11:24.03,0:11:25.51,Default,,0,0,0,,They're clients of the club hall.
-Dialogue: 1,0:11:25.71,0:11:27.31,Default,,0,0,0,,Couldn't Laozi have helped them?
+Dialogue: 1,0:11:24.03,0:11:25.51,Default,,0,0,0,,They're clients of the Guild Hall.
+Dialogue: 1,0:11:25.71,0:11:27.31,Default,,0,0,0,,Couldn't Laojun have helped them?
 Dialogue: 1,0:11:27.63,0:11:28.98,Default,,0,0,0,,If it was that simple,
-Dialogue: 1,0:11:29.41,0:11:32.22,Default,,0,0,0,,the Pearl wouldn't have stayed at Master Lao for centuries.
+Dialogue: 1,0:11:29.41,0:11:32.22,Default,,0,0,0,,the Pearl wouldn't have stayed with Master Lao for centuries.
 Dialogue: 1,0:11:33.15,0:11:35.05,Default,,0,0,0,,Then how could Xiaohei take it?
 Dialogue: 1,0:11:35.58,0:11:36.86,Default,,0,0,0,,With his ability.
 Dialogue: 1,0:11:37.40,0:11:38.73,Default,,0,0,0,,And because he's strong.
 Dialogue: 1,0:11:39.53,0:11:41.37,Default,,0,0,0,,Is he stronger even than Gen?
 Dialogue: 1,0:11:41.81,0:11:43.16,Default,,0,0,0,,Before I wounded him,
 Dialogue: 1,0:11:43.61,0:11:45.34,Default,,0,0,0,,he was stronger than Xuanli right now.
-Dialogue: 1,0:11:45.34,0:11:46.23,Default,,0,0,0,,
 Dialogue: 1,0:11:46.46,0:11:47.68,Default - Italic,,0,0,0,,Not at all.
 Dialogue: 1,0:11:48.20,0:11:49.10,Default,,0,0,0,,Right now?
 Dialogue: 1,0:11:51.95,0:11:53.10,Default,,0,0,0,,I've said too much.
@@ -351,7 +349,7 @@ Dialogue: 1,0:13:35.18,0:13:36.64,Default,,0,0,0,,if he's within a certain range
 Dialogue: 1,0:13:36.86,0:13:38.80,Default,,0,0,0,,barriers are as if they're not there.
 Dialogue: 1,0:13:39.87,0:13:40.65,Default,,0,0,0,,That's right...
 Dialogue: 1,0:13:40.92,0:13:42.66,Default,,0,0,0,,It's the perfect ability for stealing.
-Dialogue: 1,0:13:42.90,0:13:43.57,Default - Italic,,0,0,0,,Don't be jealous...
+Dialogue: 1,0:13:42.90,0:13:43.57,Default - Italic,,0,0,0,,Jealous?
 Dialogue: 1,0:13:44.93,0:13:47.48,Default,,0,0,0,,And aren't there any very strong spirits who need it?
 Dialogue: 1,0:13:47.94,0:13:48.58,Default,,0,0,0,,There are.
 Dialogue: 1,0:13:48.85,0:13:49.93,Default,,0,0,0,,But those spirits
@@ -360,7 +358,7 @@ Dialogue: 1,0:13:52.72,0:13:55.37,Default,,0,0,0,,After all it's just a game he 
 Dialogue: 1,0:13:56.83,0:13:57.46,Default,,0,0,0,,So...
 Dialogue: 1,0:13:57.65,0:14:00.17,Default,,0,0,0,,you just gave up on the chance to become an immortal?
 Dialogue: 1,0:14:00.37,0:14:01.10,Default - Italic,,0,0,0,,I can't use it.
-Dialogue: 1,0:14:01.33,0:14:02.11,Default - Italic,,0,0,0,,And it just brings trouble.
+Dialogue: 1,0:14:01.33,0:14:02.20,Default - Italic,,0,0,0,,It just brings trouble.
 Dialogue: 1,0:14:04.11,0:14:06.30,Default,,0,0,0,,So why did all the trouble find me...?
 Dialogue: 1,0:14:10.98,0:14:11.57,Default,,0,0,0,,Hmph.
 Dialogue: 1,0:14:11.93,0:14:13.52,Default,,0,0,0,,I hoped for a bit of a fight.
@@ -376,7 +374,7 @@ Dialogue: 1,0:14:33.03,0:14:33.84,Default,,0,0,0,,Only 1000 were made.
 Dialogue: 1,0:14:34.28,0:14:35.48,Default,,0,0,0,,1000 pieces?
 Dialogue: 1,0:14:35.62,0:14:37.01,Default,,0,0,0,,Isn't that a lot?
 Dialogue: 1,0:14:38.62,0:14:40.22,Default,,0,0,0,,You're still so clueless.
-Dialogue: 1,0:14:40.55,0:14:42.66,Default,,0,0,0,,There were 10 million preorders on it.
+Dialogue: 1,0:14:40.55,0:14:42.66,Default,,0,0,0,,There were 10 million preorders for it.
 Dialogue: 1,0:14:42.96,0:14:44.14,Default,,0,0,0,,And what's the difference?
 Dialogue: 1,0:14:44.85,0:14:45.72,Default,,0,0,0,,I don't know.
 Dialogue: 1,0:14:47.05,0:14:48.49,Default,,0,0,0,,We'll know when the time comes.
@@ -398,7 +396,7 @@ Dialogue: 1,0:15:20.39,0:15:21.03,Default,,0,0,0,,Alrighty.
 Dialogue: 1,0:15:29.65,0:15:31.37,Default,,0,0,0,,What are they doing at the door?
 Dialogue: 1,0:15:31.80,0:15:33.27,Default,,0,0,0,,And they're pretty dirty too.
 Dialogue: 1,0:15:39.74,0:15:40.98,Default,,0,0,0,,We're leaving now.
-Dialogue: 1,0:15:41.14,0:15:41.66,Default,,0,0,0,,Okay.
+Dialogue: 1,0:15:41.14,0:15:41.74,Default,,0,0,0,,Okay.
 Dialogue: 1,0:15:41.94,0:15:42.61,Default,,0,0,0,,Huang.
 Dialogue: 1,0:15:42.75,0:15:43.76,Default,,0,0,0,,Say goodbye to Xiaohei.
 Dialogue: 1,0:15:57.30,0:15:58.81,Default,,0,0,0,,Grandpa, we're back!
@@ -427,7 +425,7 @@ Dialogue: 0,0:20:19.16,0:20:26.00,Ending Song - English,,0,0,0,,And surely, they
 Dialogue: 0,0:18:56.43,0:19:02.81,Ending Song - Romaji,,0,0,0,,Stay with me aruite yukou ishikoro wo kette
 Dialogue: 0,0:19:02.81,0:19:07.55,Ending Song - Romaji,,0,0,0,,Yukisaki wa kitto kimagure demo 
 Dialogue: 0,0:19:07.55,0:19:12.25,Ending Song - Romaji,,0,0,0,,Hana no kaori wo ryoute ni
-Dialogue: 0,0:19:12.25,0:19:18.45,Ending Song - Romaji,,0,0,0,,kore kara deau kimi e to
+Dialogue: 0,0:19:12.25,0:19:18.45,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:19:18.45,0:19:24.60,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
 Dialogue: 0,0:19:24.60,0:19:29.40,Ending Song - Romaji,,0,0,0,,Hajimemashite wa gikochinaku temo
 Dialogue: 0,0:19:29.40,0:19:34.08,Ending Song - Romaji,,0,0,0,,Mochiyotta hako aketara

@@ -6,7 +6,6 @@ PlayDepth: 0
 ScaledBorderAndShadow: Yes
 PlayResX: 1920
 PlayResY: 1080
-WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

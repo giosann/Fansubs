@@ -21,15 +21,15 @@ Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:15.16,0:00:15.93,Default,,0,0,0,,Gen!
-Dialogue: 0,0:00:15.95,0:00:16.56,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:00:15.93,0:00:16.56,Default,,0,0,0,,Yeah?
 Dialogue: 0,0:00:16.87,0:00:19.03,Default,,0,0,0,,Will you take these vegetables to Old Lü?
 Dialogue: 0,0:00:19.03,0:00:19.54,Default,,0,0,0,,Sure.
 Dialogue: 0,0:00:46.32,0:00:47.45,Default,,0,0,0,,I'm Xiaobai, your teacher.
-Dialogue: 0,0:00:47.63,0:00:48.26,Default,,0,0,0,,I'm the interpretator.
-Dialogue: 0,0:00:50.04,0:00:51.69,Default,,0,0,0,,On today's lesson,
+Dialogue: 0,0:00:47.63,0:00:48.26,Default,,0,0,0,,I'm the interpreter.
+Dialogue: 0,0:00:50.04,0:00:51.69,Default,,0,0,0,,In today's lesson,
 Dialogue: 0,0:00:53.01,0:00:54.97,Default,,0,0,0,,we'll learn what not to eat.
 Dialogue: 0,0:00:57.98,0:00:59.45,Default,,0,0,0,,What are those supposed to be?
-Dialogue: 0,0:01:00.43,0:01:03.82,Title,,0,0,0,,{\fad()}{\pos(1400,520)}Peace and Quiet
+Dialogue: 0,0:01:00.43,0:01:03.82,Title,,0,0,0,,{\pos(1400,520)}Peace and Quiet
 Dialogue: 0,0:01:00.49,0:01:02.19,Default,,0,0,0,,Grandpa, don't disturb my lesson!
 Dialogue: 0,0:01:03.06,0:01:03.81,Default,,0,0,0,,I'll see myself out.
 Dialogue: 0,0:01:05.93,0:01:07.40,Default,,0,0,0,,I've brought some things for demonstration.
@@ -48,16 +48,16 @@ Dialogue: 0,0:01:43.73,0:01:44.55,Default,,0,0,0,,Don't translate this.
 Dialogue: 0,0:01:56.48,0:01:57.55,Default,,0,0,0,,This is convenient!
 Dialogue: 0,0:01:58.10,0:02:00.61,Default,,0,0,0,,It's a shame it caused so much damage.
 Dialogue: 0,0:02:04.06,0:02:04.75,Default,,0,0,0,,A shark?!
-Dialogue: 0,0:02:37.53,0:02:41.54,BG_Sign,,0,0,0,,{\p1}m 100.13 545.13 l 96.88 609.56 l 117.74 609.56 l 174.76 599.83 l 177.54 580.36 l 185.88 590.09 l 191.91 603.53 l 212.77 599.83 l 220.18 579.43 l 232.24 591.95 l 248.46 601.22 l 263.29 609.56 l 268.39 598.44 l 279.05 601.68 l 292.5 597.04 l 300.84 600.29 l 312.43 607.71 l 392.62 607.24 l 446.86 607.71 l 449.17 543.27 l 361.56 543.27 l 274.88 543.74 l 175.22 543.27{\p0}
 Dialogue: 0,0:02:12.35,0:02:12.95,Default,,0,0,0,,It's no shark.
 Dialogue: 0,0:02:16.75,0:02:17.91,Default,,0,0,0,,It's quite big...
 Dialogue: 0,0:02:18.57,0:02:19.86,Default,,0,0,0,,A water spirit?
 Dialogue: 0,0:02:20.52,0:02:22.14,Default,,0,0,0,,Was it drawn here by the flood?
-Dialogue: 0,0:02:23.22,0:02:24.96,Default,,0,0,0,,Or driven out from the village by it...
+Dialogue: 0,0:02:23.22,0:02:24.96,Default,,0,0,0,,Or driven out of the village by it...
 Dialogue: 0,0:02:25.23,0:02:26.77,Default,,0,0,0,,I hope it can understand me...
 Dialogue: 0,0:02:30.67,0:02:31.52,Default,,0,0,0,,Stay away!
 Dialogue: 0,0:02:34.67,0:02:35.48,Default,,0,0,0,,Shoot...
 Dialogue: 0,0:02:35.94,0:02:37.19,Default,,0,0,0,,Now I've gone and done it.
+Dialogue: 0,0:02:37.53,0:02:41.54,BG_Sign,,0,0,0,,{\p1}m 100.13 545.13 l 96.88 609.56 l 117.74 609.56 l 174.76 599.83 l 177.54 580.36 l 185.88 590.09 l 191.91 603.53 l 212.77 599.83 l 220.18 579.43 l 232.24 591.95 l 248.46 601.22 l 263.29 609.56 l 268.39 598.44 l 279.05 601.68 l 292.5 597.04 l 300.84 600.29 l 312.43 607.71 l 392.62 607.24 l 446.86 607.71 l 449.17 543.27 l 361.56 543.27 l 274.88 543.74 l 175.22 543.27{\p0}
 Dialogue: 0,0:02:37.53,0:02:41.54,Sign,,0,0,0,,{\pos(278,615)\fs(40)}Ancestral Shrine of \NThe Wei Family
 Dialogue: 0,0:02:39.08,0:02:39.95,Default,,0,0,0,,Get out of there!
 Dialogue: 0,0:03:11.52,0:03:12.41,Default - Italic,,0,0,0,,Can I eat this?
@@ -114,28 +114,28 @@ Dialogue: 0,0:06:01.61,0:06:02.69,Default,,0,0,0,,So we must look into it.
 Dialogue: 0,0:06:03.54,0:06:05.05,Default,,0,0,0,,But if it's really Xuanli,
 Dialogue: 0,0:06:05.67,0:06:07.21,Default,,0,0,0,,we can't stand up against him.
 Dialogue: 0,0:06:07.95,0:06:09.96,Default,,0,0,0,,Head-on attacks are not my style.
-Dialogue: 0,0:06:15.07,0:06:16.59,Default,,0,0,0,,'Cause you're weak at close combat?
-Dialogue: 0,0:06:15.92,0:06:16.59,Default,,0,0,0,,Silence.
+Dialogue: 0,0:06:15.07,0:06:16.59,Default,,0,80,0,,{\an3}'Cause you're weak at close combat?
+Dialogue: 0,0:06:15.92,0:06:16.59,Default,,240,0,0,,{\an1}Silence.
 Dialogue: 0,0:06:43.08,0:06:44.84,Default,,0,0,0,,The flood has finally gone!
 Dialogue: 0,0:06:45.18,0:06:46.12,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:07:04.63,0:07:06.88,Default,,0,0,0,,We'll need to tear down the whole roof...
 Dialogue: 0,0:07:05.35,0:07:09.41,Title,,0,0,0,,{\pos(455,670)}Power Struggle
-Dialogue: 0,0:07:07.19,0:07:08.59,Default,,0,0,0,,It's gonna be big work...
+Dialogue: 0,0:07:07.19,0:07:08.59,Default,,0,0,0,,It's gonna be a lot of work...
 Dialogue: 0,0:07:09.71,0:07:11.95,Default,,0,0,0,,Are you sure I can't ask Laojun for compensation?
 Dialogue: 0,0:07:12.24,0:07:13.22,Default,,0,0,0,,Don't worry.
 Dialogue: 0,0:07:13.22,0:07:14.42,Default,,0,0,0,,It's not that big a deal.
 Dialogue: 0,0:07:14.67,0:07:15.78,Default,,0,0,0,,I can fix it easily.
-Dialogue: 0,0:07:16.85,0:07:18.09,Default,,0,0,0,,My saved money...
+Dialogue: 0,0:07:16.85,0:07:18.09,Default,,0,0,0,,My savings...
 Dialogue: 0,0:07:47.60,0:07:49.42,Default,,0,0,0,,The house gets much more light now.
 Dialogue: 0,0:07:49.71,0:07:51.87,Default,,0,0,0,,So should I build an open-air kitchen?
 Dialogue: 0,0:07:51.87,0:07:52.56,Default,,0,0,0,,No.
-Dialogue: 0,0:07:52.56,0:07:54.70,Default,,0,0,0,,I'd die of heat when the air con doesn't run.
-Dialogue: 0,0:07:53.80,0:07:54.44,Default,,0,0,0,,{\pos(1138,375)}{\fs(55)}Air \Ncon
+Dialogue: 0,0:07:52.56,0:07:54.70,Default,,0,0,0,,I'd die of heat without the AC.
+Dialogue: 0,0:07:53.80,0:07:54.44,Default,,0,0,0,,{\pos(1138,375)}{\fs55}A\NC
 Dialogue: 0,0:07:56.96,0:07:59.22,Default,,0,0,0,,It seems it will be very hot today.
 Dialogue: 0,0:08:00.09,0:08:01.03,Default,,0,0,0,,Xiaobai!
 Dialogue: 0,0:08:01.27,0:08:02.18,Default,,0,0,0,,I'll do the sweeping.
-Dialogue: 0,0:08:02.39,0:08:04.37,Default,,0,0,0,,You bring two watermelons from Big Ji's.
-Dialogue: 0,0:08:04.37,0:08:04.82,Default,,0,0,0,,Okay.
+Dialogue: 0,0:08:02.39,0:08:04.37,Default,,0,0,0,,Go get two watermelons from Big Ji's.
+Dialogue: 0,0:08:04.37,0:08:04.87,Default,,0,0,0,,Okay.
 Dialogue: 0,0:08:06.68,0:08:07.48,Default,,0,0,0,,All set.
 Dialogue: 0,0:08:07.76,0:08:08.34,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:08:11.54,0:08:12.55,Default,,0,0,0,,Hello, Auntie Cow!
@@ -157,15 +157,15 @@ Dialogue: 0,0:08:59.37,0:09:00.05,Default,,0,0,0,,I will.
 Dialogue: 0,0:09:01.51,0:09:02.13,Default,,0,0,0,,They're here.
 Dialogue: 0,0:09:03.25,0:09:03.95,Default,,0,0,0,,Get them!
 Dialogue: 0,0:09:10.25,0:09:11.39,Default,,0,0,0,,Are these two fine?
-Dialogue: 0,0:09:11.65,0:09:13.16,Default,,0,0,0,,What you choose is perfect.
-Dialogue: 0,0:09:14.43,0:09:15.66,Default,,0,0,0,,Only you guys are home?
+Dialogue: 0,0:09:11.65,0:09:13.16,Default,,0,0,0,,Whatever you pick is perfect.
+Dialogue: 0,0:09:14.43,0:09:15.66,Default,,0,0,0,,Are you guys the only ones home?
 Dialogue: 0,0:09:15.82,0:09:17.99,Default,,0,0,0,,Dad and Mom are out at the watermelon fields.
 Dialogue: 0,0:09:19.70,0:09:20.66,Default,,0,0,0,,What's with these guys?
-Dialogue: 0,0:09:24.01,0:09:25.67,Default,,0,0,0,,Why didn't you tell me he's that strong?\NWould you have believed me?
-Dialogue: 0,0:09:25.67,0:09:27.29,Default,,0,0,0,,I still can't believe it!\NExactly!
-Dialogue: 0,0:09:28.48,0:09:29.37,Default,,0,0,0,,It found us!\NThis one's not so bad!
+Dialogue: 0,0:09:24.01,0:09:25.67,Default,,0,0,0,,- Why didn't you tell me he's that strong?\N- Would you have believed me?
+Dialogue: 0,0:09:25.67,0:09:27.29,Default,,0,0,0,,- I still can't believe it!\N- Exactly!
+Dialogue: 0,0:09:28.48,0:09:29.37,Default,,0,0,0,,- It found us!\N- This one's not so bad!
 Dialogue: 0,0:09:29.37,0:09:29.91,Default,,0,0,0,,What do we do?
-Dialogue: 0,0:09:29.91,0:09:31.29,Default,,0,0,0,,Run!\NWe're already running!
+Dialogue: 0,0:09:29.91,0:09:31.29,Default,,0,0,0,,- Run!\N- We're already running!
 Dialogue: 0,0:09:38.98,0:09:39.73,Default,,0,0,0,,A gathering?
 Dialogue: 0,0:09:53.55,0:09:54.92,Default,,0,0,0,,What the heck is this?
 Dialogue: 0,0:09:55.20,0:09:56.52,Default,,0,0,0,,There you go.
@@ -174,12 +174,12 @@ Dialogue: 0,0:09:58.44,0:09:59.02,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:10:01.10,0:10:02.75,Default,,0,0,0,,Heixiu, where's everyone else?
 Dialogue: 0,0:10:15.01,0:10:16.23,Default,,0,0,0,,Well, well. A cat beat you?
 Dialogue: 0,0:10:16.56,0:10:17.52,Default,,0,0,0,,You're useless.
-Dialogue: 0,0:10:17.94,0:10:19.51,Default,,0,0,0,,Told you not to mess with us, cats!
+Dialogue: 0,0:10:17.94,0:10:19.51,Default,,0,0,0,,Told you not to mess with us cats!
 Dialogue: 0,0:10:19.82,0:10:21.21,Default,,0,0,0,,He's stronger than you!\NYou talk like a loser!
 Dialogue: 0,0:10:21.21,0:10:22.63,Default,,0,0,0,,Then fight him!\NYou don't scare me!
 Dialogue: 0,0:10:22.63,0:10:24.01,Default,,0,0,0,,And who gave you that scar on your face?\NWhat about yours?
 Dialogue: 0,0:10:24.01,0:10:25.47,Default,,0,0,0,,I got it when I tripped!\NWe tripped up together!
-Dialogue: 0,0:10:33.46,0:10:33.99,Default,,0,0,0,,Is that him?
+Dialogue: 0,0:10:33.46,0:10:34.01,Default,,0,0,0,,Is that him?
 Dialogue: 0,0:10:34.01,0:10:34.73,Default,,0,0,0,,He looks weak.
 Dialogue: 0,0:10:34.84,0:10:35.35,Default,,0,0,0,,You'll regret that.
 Dialogue: 0,0:10:35.99,0:10:37.29,Default,,0,0,0,,Listen, newcomer. I am...
@@ -202,15 +202,15 @@ Dialogue: 0,0:12:19.13,0:12:21.54,Default,,0,0,0,,Everyone's home is in a mess n
 Dialogue: 0,0:12:21.79,0:12:23.25,Default,,0,0,0,,I'm afraid no one can donate.
 Dialogue: 0,0:12:26.23,0:12:27.59,Default - Italic,,0,0,0,,I almost forgot about it...
 Dialogue: 0,0:12:29.52,0:12:31.14,Default,,0,0,0,,What are you doing up there?
-Dialogue: 0,0:12:31.47,0:12:33.20,Default,,0,0,0,,Looking if we have some money left.
+Dialogue: 0,0:12:31.47,0:12:33.20,Default,,0,0,0,,Checking if we have any money left.
 Dialogue: 0,0:12:33.88,0:12:34.83,Default,,0,0,0,,It's all right.
 Dialogue: 0,0:12:34.83,0:12:35.82,Default,,0,0,0,,I'll take care of it.
 Dialogue: 0,0:12:37.87,0:12:38.60,Default,,0,0,0,,You?
 Dialogue: 0,0:12:39.03,0:12:40.65,Default,,0,0,0,,You just tell the mayor about it.
 Dialogue: 0,0:12:40.83,0:12:42.09,Default,,0,0,0,,I'll renovate the shrine.
-Dialogue: 0,0:12:42.83,0:12:43.85,Default,,0,0,0,,How do you get money?
+Dialogue: 0,0:12:42.83,0:12:44.08,Default,,0,0,0,,Where are you gonna get the money?
 Dialogue: 0,0:12:45.13,0:12:46.76,Default,,0,0,0,,As far as I know, we've got a check.
-Dialogue: 0,0:12:50.23,0:12:51.45,Default,,0,0,0,,So we can claim it?
+Dialogue: 0,0:12:50.23,0:12:51.45,Default,,0,0,0,,So we can cash it in?
 Dialogue: 0,0:12:51.93,0:12:52.59,Default,,0,0,0,,Sure.
 Dialogue: 0,0:12:53.39,0:12:55.88,Default,,0,0,0,,This would be a great help for the village.
 Dialogue: 0,0:12:56.70,0:12:57.40,Default,,0,0,0,,It's nothing...
@@ -221,11 +221,11 @@ Dialogue: 0,0:13:05.86,0:13:07.66,Default,,0,0,0,,And I can visit Shan Xin.
 Dialogue: 0,0:13:08.00,0:13:09.35,Default,,0,0,0,,Isn't it dangerous?
 Dialogue: 0,0:13:09.64,0:13:10.36,Default,,0,0,0,,Don't worry.
 Dialogue: 0,0:13:10.80,0:13:12.19,Default,,0,0,0,,It's weird you have clothes on.
-Dialogue: 0,0:13:12.84,0:13:14.93,Default,,0,0,0,,You say it like I usually had none on.
+Dialogue: 0,0:13:12.84,0:13:14.93,Default,,0,0,0,,You make it sound like I'm usually naked.
 Dialogue: 0,0:13:20.96,0:13:23.29,Default,,0,0,0,,City Park
 Dialogue: 0,0:13:57.44,0:13:58.69,Default,,0,0,0,,Is this really the place?
 Dialogue: 0,0:14:00.84,0:14:02.63,Default,,0,0,0,,It should be, according to the address...
-Dialogue: 0,0:14:04.80,0:14:05.45,Default,,0,0,0,,Children!
+Dialogue: 0,0:14:04.80,0:14:05.45,Default,,0,0,0,,Hey, kids!
 Dialogue: 0,0:14:05.80,0:14:06.99,Default,,0,0,0,,Who are you looking for?
 Dialogue: 0,0:14:08.94,0:14:11.42,Default,,0,0,0,,Good morning! We'd like to meet the manager.
 Dialogue: 0,0:14:12.04,0:14:13.05,Default,,0,0,0,,Do you have an appointment?
@@ -237,8 +237,8 @@ Dialogue: 0,0:14:18.22,0:14:18.96,Default,,0,0,0,,Is this it?
 Dialogue: 0,0:14:20.10,0:14:20.94,Default,,0,0,0,,It's from Laojun.
 Dialogue: 0,0:14:24.24,0:14:25.58,Default,,0,0,0,,Where are your parents?
 Dialogue: 0,0:14:26.42,0:14:27.40,Default,,0,0,0,,No good?
-Dialogue: 0,0:14:28.03,0:14:28.70,Default,,0,0,0,,Children.
-Dialogue: 0,0:14:29.13,0:14:31.59,Default,,0,0,0,,A paper with a scribble on is not an access card.
+Dialogue: 0,0:14:28.03,0:14:28.70,Default,,0,0,0,,Look, kids.
+Dialogue: 0,0:14:29.13,0:14:31.59,Default,,0,0,0,,Paper with scribbles on it isn't an access card.
 Dialogue: 0,0:14:35.39,0:14:36.89,Default,,0,0,0,,Is this supposed to be a joke?
 Dialogue: 0,0:14:39.25,0:14:41.02,Default,,0,0,0,,It's not completely impossible...
 Dialogue: 0,0:14:42.49,0:14:43.79,Default,,0,0,0,,So what do we do now?
@@ -248,7 +248,7 @@ Dialogue: 0,0:14:48.62,0:14:50.20,Default,,0,0,0,,Just get further from the gate
 Dialogue: 0,0:14:51.04,0:14:51.70,Default,,0,0,0,,Bidiu!
 Dialogue: 0,0:14:57.90,0:14:59.14,Default,,0,0,0,,We can get in from here.
 Dialogue: 0,0:14:59.71,0:15:01.58,Default,,0,0,0,,But this wall's quite tall...
-Dialogue: 0,0:15:01.85,0:15:02.77,Default,,0,0,0,,How do we get in?
+Dialogue: 0,0:15:01.85,0:15:02.77,Default,,0,0,0,,How do we get over it?
 Dialogue: 0,0:15:03.43,0:15:04.28,Default,,0,0,0,,Xiaohei can help.
 Dialogue: 0,0:15:04.63,0:15:05.14,Default,,0,0,0,,Come here!
 Dialogue: 0,0:15:08.59,0:15:09.37,Default,,0,0,0,,He's inside!
@@ -259,14 +259,14 @@ Dialogue: 0,0:15:18.90,0:15:19.55,Default,,0,0,0,,We're inside!
 Dialogue: 0,0:15:22.95,0:15:24.11,Default,,0,0,0,,Xiaohei, you're awesome!
 Dialogue: 0,0:15:29.61,0:15:31.13,Default,,0,0,0,,It's like the forest all over again.
 Dialogue: 0,0:15:31.32,0:15:31.92,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:15:33.83,0:15:35.74,Default,,0,0,0,,We'd be here if we entered at the gate.
+Dialogue: 0,0:15:33.83,0:15:35.74,Default,,0,0,0,,If we'd come through the gate, we'd be here.
 Dialogue: 0,0:15:35.96,0:15:37.68,Default,,0,0,0,,Now we should be around here.
 Dialogue: 0,0:15:37.85,0:15:39.29,Default,,0,0,0,,Our destination is here.
 Dialogue: 0,0:15:39.96,0:15:41.50,Default,,0,0,0,,We don't know the scale of the map.
 Dialogue: 0,0:15:41.50,0:15:43.05,Default,,0,0,0,,But we'll need to pass a hill.
 Dialogue: 0,0:15:43.45,0:15:45.00,Default,,0,0,0,,Looks pretty far away...
 Dialogue: 0,0:15:45.54,0:15:48.52,Default,,0,0,0,,Wait a minute! Xiaohei could teleport us there!
-Dialogue: 0,0:15:49.05,0:15:50.21,Default - Italic,,0,0,0,,My limit is 5 yards at the moment...
+Dialogue: 0,0:15:49.05,0:15:50.21,Default - Italic,,0,0,0,,5 meters is my current limit...
 Dialogue: 0,0:15:50.90,0:15:51.67,Default,,0,0,0,,I see...
 Dialogue: 0,0:15:56.83,0:15:57.99,Default,,0,0,0,,This is strange...
 Dialogue: 0,0:15:59.31,0:16:01.55,Default,,0,0,0,,The trees here are bigger than the ones in the mountain.
@@ -294,7 +294,7 @@ Dialogue: 0,0:16:56.91,0:16:57.79,Default,,0,0,0,,Do you know him?
 Dialogue: 0,0:16:59.87,0:17:00.51,Default,,0,0,0,,Naturally.
 Dialogue: 0,0:17:00.88,0:17:02.94,Default,,0,0,0,,That means you are Lord Xuanli.
 Dialogue: 0,0:17:03.35,0:17:04.62,Default,,0,0,0,,Please, call me Gen.
-Dialogue: 0,0:17:04.81,0:17:06.58,Default,,0,0,0,,Excuse us for breaking in.
+Dialogue: 0,0:17:04.81,0:17:06.58,Default,,0,0,0,,Excuse us for sneaking in..
 Dialogue: 0,0:17:06.88,0:17:07.84,Default,,0,0,0,,Don't worry about it.
 Dialogue: 0,0:17:08.20,0:17:09.51,Default,,0,0,0,,Everyone enters like that.
 Dialogue: 0,0:17:10.27,0:17:11.96,Default,,0,0,0,,I am Tu Bei, the secretary.
@@ -307,9 +307,9 @@ Dialogue: 0,0:17:40.00,0:17:41.00,Default,,0,0,0,,A tiger?
 Dialogue: 0,0:17:41.44,0:17:42.11,Default,,0,0,0,,Mr. Fu.
 Dialogue: 0,0:17:42.52,0:17:43.56,Default,,0,0,0,,Please don't do that.
 Dialogue: 0,0:17:43.98,0:17:45.47,Default,,0,0,0,,I didn't do anything dangerous.
-Dialogue: 0,0:17:46.07,0:17:46.91,Default,,0,0,0,,He can talk!
+Dialogue: 0,0:17:46.07,0:17:46.91,Default,,0,0,0,,{\an8}He can talk!
 Dialogue: 0,0:17:46.60,0:17:48.23,Default,,0,0,0,,I can't believe you let a human in.
-Dialogue: 0,0:17:48.41,0:17:49.24,Default,,0,0,0,,He really can talk!
+Dialogue: 0,0:17:48.41,0:17:49.24,Default,,0,0,0,,{\an8}He really can talk!
 Dialogue: 0,0:17:49.24,0:17:50.09,Default,,0,0,0,,Why in godforsaken hell?!
 Dialogue: 0,0:17:50.70,0:17:51.59,Default,,0,0,0,,A Siberian tiger.
 Dialogue: 0,0:17:51.61,0:17:53.88,Default,,0,0,0,,You think I'm some country bumpkin because of some words?!
@@ -320,14 +320,14 @@ Dialogue: 0,0:18:04.89,0:18:05.66,Default,,0,0,0,,So cool!
 Dialogue: 0,0:18:06.87,0:18:08.56,Default,,0,0,0,,This won't make me like humans!
 Dialogue: 0,0:18:08.56,0:18:09.88,Default,,0,0,0,,But you wear human clothes.
 Dialogue: 0,0:18:09.88,0:18:10.60,Default,,0,0,0,,Not with pleasure!
-Dialogue: 0,0:18:10.72,0:18:11.31,Default,,0,0,0,,Then take them off.
+Dialogue: 0,0:18:10.60,0:18:11.31,Default,,0,0,0,,Then take them off.
 Dialogue: 0,0:18:11.55,0:18:12.38,Default,,0,0,0,,Don't mess with me!
 Dialogue: 0,0:18:12.50,0:18:13.48,Default,,0,0,0,,I swear I will devour her!
 Dialogue: 0,0:18:15.36,0:18:17.91,Default,,0,0,0,,I must apologize for Mr. Fu's behavior.
 Dialogue: 0,0:18:18.10,0:18:18.89,Default,,0,0,0,,Who is he?
 Dialogue: 0,0:18:19.32,0:18:22.07,Default,,0,0,0,,Mr. Fu is a spirit, one of our clients.
 Dialogue: 0,0:18:22.40,0:18:24.11,Default,,0,0,0,,What is this place, exactly?
-Dialogue: 0,0:18:24.80,0:18:26.24,Default,,0,0,0,,Didn't Laojun tell about it?
+Dialogue: 0,0:18:24.80,0:18:26.24,Default,,0,0,0,,Didn't Laojun tell you about it?
 Dialogue: 0,0:18:26.32,0:18:27.05,Default,,0,0,0,,No.
 Dialogue: 0,0:18:27.68,0:18:29.23,Default,,0,0,0,,Then the hall manager will.
 Dialogue: 0,0:18:29.59,0:18:30.79,Default,,0,0,0,,After all, it's his job.
@@ -341,7 +341,7 @@ Dialogue: 0,0:18:47.31,0:18:48.62,Default,,0,0,0,,Lord Xuanli has arrived.
 Dialogue: 0,0:18:48.84,0:18:50.31,Default,,0,0,0,,This hole is pretty deep.
 Dialogue: 0,0:18:50.95,0:18:52.56,Default,,0,0,0,,What is he doing down there?
 Dialogue: 0,0:18:55.87,0:18:57.12,Default,,0,0,0,,I'm Kali, the hall manager.
-Dialogue: 0,0:18:57.40,0:18:59.04,Default,,0,0,0,,Welcome to our Spirit Club Hall,
+Dialogue: 0,0:18:57.40,0:18:59.04,Default,,0,0,0,,Welcome to our Spirit Guild Hall,
 Dialogue: 0,0:18:59.83,0:19:01.22,Default,,0,0,0,,Lord Xuanli.
 Dialogue: 0,0:19:02.25,0:19:03.80,Default,,0,0,0,,Lord Xuanli is this person here.
 Dialogue: 0,0:19:06.92,0:19:07.31,Default,,0,0,0,,Oh.
@@ -352,7 +352,7 @@ Dialogue: 0,0:19:17.74,0:19:22.48,Ending Song - Romaji,,0,0,0,,Yukisaki wa kitto
 Dialogue: 0,0:19:22.48,0:19:27.18,Ending Song - English,,0,0,0,,But with the scent of flowers in both hands
 Dialogue: 0,0:19:22.48,0:19:27.18,Ending Song - Romaji,,0,0,0,,Hana no kaori wo ryoute ni
 Dialogue: 0,0:19:27.18,0:19:33.38,Ending Song - English,,0,0,0,,I’ll carry it to the you I’ve yet to meet
-Dialogue: 0,0:19:27.18,0:19:33.38,Ending Song - Romaji,,0,0,0,,kore kara deau kimi e to
+Dialogue: 0,0:19:27.18,0:19:33.38,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:19:33.38,0:19:39.53,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
 Dialogue: 0,0:19:33.38,0:19:39.53,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
 Dialogue: 0,0:19:39.53,0:19:44.33,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward

@@ -23,7 +23,7 @@ Dialogue: 1,0:00:07.78,0:00:11.41,Title,,0,0,0,,{\fad(2000,0)\pos(1548,630)}The 
 Dialogue: 1,0:00:09.89,0:00:11.42,Default,,0,0,0,,Guild Hall?
 Dialogue: 1,0:00:11.71,0:00:12.46,Default,,0,0,0,,Do you know about them?
 Dialogue: 1,0:00:12.69,0:00:13.75,Default,,0,0,0,,I've heard of them,
-Dialogue: 1,0:00:13.95,0:00:15.51,Default,,0,0,0,,but I didn't realize there's one here.
+Dialogue: 1,0:00:13.95,0:00:15.51,Default,,0,0,0,,but I didn't realize there was one here.
 Dialogue: 1,0:00:15.90,0:00:17.09,Default,,0,0,0,,We try to avoid attention.
 Dialogue: 1,0:00:17.23,0:00:18.58,Default,,0,0,0,,So if you don't know where to look,
 Dialogue: 1,0:00:18.76,0:00:20.42,Default,,0,0,0,,the Guild tends to stay hidden. 
@@ -38,7 +38,7 @@ Dialogue: 1,0:00:32.34,0:00:34.85,Default,,0,0,0,,It should have more than enoug
 Dialogue: 1,0:00:35.61,0:00:36.97,Default,,0,0,0,,Did Laojun tell you anything?
 Dialogue: 1,0:00:37.30,0:00:38.45,Default,,0,0,0,,No, he didn't.
 Dialogue: 1,0:00:38.94,0:00:41.16,Default,,0,0,0,,This card is also a pass to every guild hall.
-Dialogue: 1,0:00:41.35,0:00:43.73,Default,,0,0,0,,We offer services for all Elfin who visit us.
+Dialogue: 1,0:00:41.35,0:00:43.73,Default,,0,0,0,,We offer services to all spirits who visit us.
 Dialogue: 1,0:00:44.46,0:00:45.59,Default,,0,0,0,,Everyone?
 Dialogue: 1,0:00:46.14,0:00:48.18,Default,,0,0,0,,You probably don't know how the Guild operates now.
 Dialogue: 1,0:00:48.36,0:00:49.85,Default,,0,0,0,,Would you like me to explain?
@@ -69,11 +69,11 @@ Dialogue: 1,0:02:11.94,0:02:12.52,Default,,0,0,0,,Yes.
 Dialogue: 1,0:02:12.75,0:02:14.85,Default,,0,0,0,,Then how come they can't take a human form?
 Dialogue: 1,0:02:15.16,0:02:16.99,Default,,0,0,0,,All spirits have their true form.
 Dialogue: 1,0:02:17.22,0:02:18.73,Default,,0,0,0,,It's not about cultivation.
-Dialogue: 1,0:02:18.76,0:02:20.79,Default,,0,0,0,,A human form is good only for blending in.
+Dialogue: 1,0:02:18.76,0:02:20.79,Default,,0,0,0,,A human form is only good for blending in.
 Dialogue: 1,0:02:21.57,0:02:24.09,Default,,0,0,0,,Even those who can't transform can find an expert.
 Dialogue: 1,0:02:24.60,0:02:26.72,Default,,0,0,0,,They simply think it's below them to look human.
 Dialogue: 1,0:02:27.07,0:02:28.01,Default,,0,0,0,,I see...
-Dialogue: 1,0:02:28.69,0:02:30.82,Default,,0,0,0,,Who's the strongest between you guys?
+Dialogue: 1,0:02:28.69,0:02:30.82,Default,,0,0,0,,Who's the strongest out of you guys?
 Dialogue: 1,0:02:31.39,0:02:32.87,Default,,0,0,0,,I'd say I'm the weakest.
 Dialogue: 1,0:02:33.21,0:02:35.07,Default,,0,0,0,,Then how come you're the hall manager?
 Dialogue: 1,0:02:35.30,0:02:36.41,Default,,0,0,0,,I can make money.
@@ -95,7 +95,7 @@ Dialogue: 1,0:03:06.57,0:03:08.03,Default,,0,0,0,,There's one more floor?
 Dialogue: 1,0:03:12.95,0:03:13.78,Default,,0,0,0,,Stand still.
 Dialogue: 1,0:03:25.34,0:03:26.86,Default,,0,0,0,,This is the core of our hall.
 Dialogue: 1,0:03:27.26,0:03:29.68,Default,,0,0,0,,You can see the location and data of every guild hall.
-Dialogue: 1,0:03:29.94,0:03:31.48,Default,,0,0,0,,It's quite the spectical.
+Dialogue: 1,0:03:29.94,0:03:31.48,Default,,0,0,0,,It's quite the spectacle.
 Dialogue: 1,0:03:33.63,0:03:35.59,Default,,0,0,0,,It's better at places with more bandwidth.
 Dialogue: 1,0:03:36.51,0:03:37.31,Default - Italic,,0,0,0,,Space fluctuations...?
 Dialogue: 1,0:03:37.91,0:03:38.79,Default - Italic,,0,0,0,,This isn't just a map, is it?
@@ -124,12 +124,12 @@ Dialogue: 1,0:04:21.25,0:04:23.99,Default,,0,0,0,,The color of the upper dot sho
 Dialogue: 1,0:04:24.37,0:04:26.73,Default,,0,0,0,,Ours is gold, as we do mainly commerce.
 Dialogue: 1,0:04:27.49,0:04:29.60,Default,,0,0,0,,The dots below stand for the resident spirits.
 Dialogue: 1,0:04:29.84,0:04:32.31,Default,,0,0,0,,There's three of us here, including Tu Bei and me.
-Dialogue: 1,0:04:32.67,0:04:34.88,Default,,0,0,0,,But also human assistants work in every hall.
+Dialogue: 1,0:04:32.67,0:04:34.88,Default,,0,0,0,,Human assistants also work in every hall.
 Dialogue: 1,0:04:35.00,0:04:37.89,Default,,0,0,0,,How do others offer support if they can't earn money?
 Dialogue: 1,0:04:38.16,0:04:39.81,Default,,0,0,0,,Resources are shared among halls.
 Dialogue: 1,0:04:40.01,0:04:42.33,Default,,0,0,0,,Like capital, space, military force,
 Dialogue: 1,0:04:42.54,0:04:44.11,Default,,0,0,0,,magic weapons and tools.
-Dialogue: 1,0:04:45.04,0:04:47.58,Default,,0,0,0,,The hall manager can use them within their discretion.
+Dialogue: 1,0:04:45.04,0:04:47.58,Default,,0,0,0,,The hall manager can use them at their discretion.
 Dialogue: 1,0:04:47.92,0:04:49.44,Default,,0,0,0,,If there are humans here,
 Dialogue: 1,0:04:49.46,0:04:52.35,Default,,0,0,0,,why is it a rule that you can't reveal yourself to humans?
 Dialogue: 1,0:04:52.94,0:04:55.06,Default,,0,0,0,,Many humans already know about our existence.
@@ -142,7 +142,7 @@ Dialogue: 1,0:05:09.23,0:05:11.05,Default,,0,0,0,,This is the best way to get al
 Dialogue: 1,0:05:11.58,0:05:12.81,Default,,0,0,0,,I don't really get it...
 Dialogue: 1,0:05:13.93,0:05:16.17,Default,,0,0,0,,Why do you have to earn money in the first place?
 Dialogue: 1,0:05:16.31,0:05:18.32,Default,,0,0,0,,Can't you just create gold or money?
-Dialogue: 1,0:05:18.71,0:05:20.84,Default,,0,0,0,,It would wreck up the human financial world.
+Dialogue: 1,0:05:18.71,0:05:20.84,Default,,0,0,0,,It would wreck the human economy.
 Dialogue: 1,0:05:21.03,0:05:24.59,Default,,0,0,0,,In the long run, it's best to follow their rules.
 Dialogue: 1,0:05:25.08,0:05:26.93,Default,,0,0,0,,That means I should open an ice warehouse.
 Dialogue: 1,0:05:27.07,0:05:27.67,Default - Italic,,0,0,0,,I'm gonna steal.
@@ -161,7 +161,7 @@ Dialogue: 1,0:06:02.18,0:06:03.16,Default,,0,0,0,,This is for you.
 Dialogue: 1,0:06:05.26,0:06:05.99,Default,,0,0,0,,For me?
 Dialogue: 1,0:06:07.07,0:06:08.08,Default,,0,0,0,,Feel free to accept it.
 Dialogue: 1,0:06:08.39,0:06:09.48,Default,,0,0,0,,It's from Laojun.
-Dialogue: 1,0:06:09.92,0:06:11.38,Default,,0,0,0,,Didn't you promise anime merch to him?
+Dialogue: 1,0:06:09.92,0:06:11.38,Default,,0,0,0,,Didn't you promise him anime merch?
 Dialogue: 1,0:06:11.54,0:06:12.16,Default,,0,0,0,,Oh...
 Dialogue: 1,0:06:26.18,0:06:27.82,Default,,0,0,0,,Should I take you to Shanxin's?
 Dialogue: 1,0:06:28.61,0:06:30.57,Default,,0,0,0,,We're going to an anime con tomorrow.
@@ -178,7 +178,7 @@ Dialogue: 1,0:06:46.60,0:06:47.82,Default,,0,0,0,,I came for Xiaobai.
 Dialogue: 1,0:06:48.31,0:06:49.53,Default,,0,0,0,,And Xiaohei, for Huang.
 Dialogue: 1,0:06:51.79,0:06:52.67,Default - Italic,,0,0,0,,I'd rather go home...
 Dialogue: 1,0:06:57.29,0:06:57.97,Default,,0,0,0,,What's wrong?
-Dialogue: 1,0:06:58.47,0:06:59.82,Default,,0,0,0,,Mr. Fu and co. have left.
+Dialogue: 1,0:06:58.47,0:06:59.82,Default,,0,0,0,,Mr. Fu and his group left.
 Dialogue: 1,0:07:00.07,0:07:01.25,Default,,0,0,0,,They went to the city.
 Dialogue: 1,0:07:02.34,0:07:03.57,Default,,0,0,0,,They know how to behave.
 Dialogue: 1,0:07:04.41,0:07:06.10,Default,,0,0,0,,They might be following Lord Xuanli.
@@ -186,7 +186,7 @@ Dialogue: 1,0:07:09.93,0:07:10.85,Default,,0,0,0,,They know how to behave.
 Dialogue: 1,0:07:21.27,0:07:22.02,Default - Italic,,0,0,0,,Get off.
 Dialogue: 1,0:07:23.33,0:07:25.19,Default - Italic,,0,0,0,,Unless you want to be attacked on the bus.
 Dialogue: 1,0:07:44.38,0:07:45.52,Default,,0,0,0,,How can I help?
-Dialogue: 1,0:07:45.96,0:07:47.21,Default,,0,0,0,,I need a sparing partner.
+Dialogue: 1,0:07:45.96,0:07:47.21,Default,,0,0,0,,I need a sparring partner.
 Dialogue: 1,0:07:48.84,0:07:49.99,Default,,0,0,0,,What are we doing here?
 Dialogue: 1,0:07:50.44,0:07:51.53,Default,,0,0,0,,Conflict means an opening.
 Dialogue: 1,0:07:52.25,0:07:53.27,Default,,0,0,0,,What if they see us?
@@ -209,7 +209,7 @@ Dialogue: 1,0:09:19.04,0:09:19.67,Default,,0,0,0,,You and him.
 Dialogue: 1,0:09:19.83,0:09:21.10,Default,,0,0,0,,Shut up, dumb toad!
 Dialogue: 1,0:09:21.54,0:09:22.34,Default,,0,0,0,,This is bad...
 Dialogue: 1,0:09:24.20,0:09:24.78,Default,,0,0,0,,Axian.
-Dialogue: 1,0:09:26.68,0:09:27.14,Default,,0,0,0,,Let's go!
+Dialogue: 1,0:09:26.68,0:09:27.30,Default,,0,0,0,,Let's go!
 Dialogue: 1,0:09:32.37,0:09:33.43,Default,,0,0,0,,Don't cut me down...
 Dialogue: 1,0:09:34.05,0:09:35.48,Default,,0,0,0,,Why are you in such a hurry?
 Dialogue: 1,0:09:36.02,0:09:37.33,Default,,0,0,0,,He cut the space switch.
@@ -224,19 +224,19 @@ Dialogue: 1,0:09:50.85,0:09:51.71,Default,,0,0,0,,Just as I thought.
 Dialogue: 1,0:09:52.45,0:09:53.37,Default,,0,0,0,,What do you mean?
 Dialogue: 1,0:09:54.01,0:09:56.36,Default,,0,0,0,,The prizes of vow quests can be robbed.
 Dialogue: 1,0:09:56.69,0:09:58.21,Default,,0,0,0,,I suppose you knew about this.
-Dialogue: 1,0:09:58.59,0:09:59.74,Default,,0,0,0,,You get the wrong idea.
+Dialogue: 1,0:09:58.59,0:09:59.74,Default,,0,0,0,,You've got the wrong idea.
 Dialogue: 1,0:10:00.03,0:10:02.68,Default,,0,0,0,,You say the Sky Pearl you have is not from Laojun?
 Dialogue: 1,0:10:02.98,0:10:04.45,Default,,0,0,0,,I don't have any Sky Pearl.
 Dialogue: 1,0:10:08.19,0:10:08.84,Default,,0,0,0,,Oh, no...
 Dialogue: 1,0:10:09.24,0:10:10.03,Default,,0,0,0,,What's wrong?
 Dialogue: 1,0:10:10.76,0:10:12.57,Default,,0,0,0,,He really doesn't have the Pearl.
 Dialogue: 1,0:10:13.02,0:10:14.22,Default,,0,0,0,,So even you can be wrong?
-Dialogue: 1,0:10:14.45,0:10:17.19,Default,,0,0,0,,Then it must be at the girl or the cat, surprisingly.
+Dialogue: 1,0:10:14.45,0:10:17.19,Default,,0,0,0,,Then it must be with the girl or the cat, surprisingly.
 Dialogue: 1,0:10:17.63,0:10:18.52,Default,,0,0,0,,I was careless.
 Dialogue: 1,0:10:19.15,0:10:20.13,Default,,0,0,0,,So may I leave now?
 Dialogue: 1,0:10:20.46,0:10:22.41,Default,,0,0,0,,You shall keep us company for a few days.
 Dialogue: 1,0:10:22.68,0:10:23.72,Default,,0,0,0,,You really have it wrong.
-Dialogue: 1,0:10:23.87,0:10:25.32,Default,,0,0,0,,I can tell truth and lies apart.
+Dialogue: 1,0:10:23.87,0:10:25.32,Default,,0,0,0,,I can tell when someone is lying.
 Dialogue: 1,0:10:25.52,0:10:27.07,Default,,0,0,0,,It's useless to try to deny.
 Dialogue: 1,0:10:27.64,0:10:29.76,Default,,0,0,0,,If you want to leave, you must defeat all of us.
 Dialogue: 1,0:10:31.17,0:10:31.98,Default,,0,0,0,,Darn...
@@ -262,7 +262,7 @@ Dialogue: 1,0:11:30.95,0:11:31.71,Default,,0,0,0,,It's nothing.
 Dialogue: 1,0:11:31.95,0:11:33.10,Default,,0,0,0,,I'm a pro after all.
 Dialogue: 1,0:11:35.24,0:11:36.01,Default - Italic,,0,0,0,,I'm so tired...
 Dialogue: 1,0:11:51.12,0:11:51.92,Default - Italic,,0,0,0,,What does it say?
-Dialogue: 1,0:11:52.99,0:11:53.45,Default - Italic,,0,0,0,,Can I eat it?
+Dialogue: 1,0:11:52.99,0:11:53.65,Default - Italic,,0,0,0,,Can I eat it?
 Dialogue: 1,0:12:08.89,0:12:10.85,Default,,0,0,0,,This spirit space is quite comfortable.
 Dialogue: 1,0:12:11.68,0:12:12.98,Default,,0,0,0,,Aren't you worried?
 Dialogue: 1,0:12:13.47,0:12:14.28,Default,,0,0,0,,Why would I be?
@@ -271,7 +271,7 @@ Dialogue: 1,0:12:16.96,0:12:18.21,Default,,0,0,0,,It makes no sense to worry.
 Dialogue: 1,0:12:18.71,0:12:19.61,Default,,0,0,0,,I can't do anything.
 Dialogue: 1,0:12:19.97,0:12:21.64,Default,,0,0,0,,But last time you beat us hard.
 Dialogue: 1,0:12:22.43,0:12:23.60,Default,,0,0,0,,Because you guys are weak.
-Dialogue: 1,0:12:26.87,0:12:27.32,Default,,0,0,0,,Oh.
+Dialogue: 1,0:12:26.87,0:12:27.48,Default,,0,0,0,,Oh.
 Dialogue: 1,0:12:33.52,0:12:34.75,Default,,0,0,0,,Why is there a wall here?
 Dialogue: 1,0:12:36.35,0:12:36.98,Default,,0,0,0,,Axian!
 Dialogue: 1,0:12:37.97,0:12:39.10,Default,,0,0,0,,The space ends here!
@@ -285,8 +285,8 @@ Dialogue: 1,0:12:47.71,0:12:49.33,Default,,0,0,0,,Since we're together in troubl
 Dialogue: 1,0:12:49.74,0:12:52.17,Default,,0,0,0,,will you tell me now why you came here?
 Dialogue: 1,0:12:55.66,0:12:57.11,Default,,0,0,0,,'River Fu' Spirit Elixir.
 Dialogue: 1,0:12:57.70,0:12:59.87,Default,,0,0,0,,The day after a stable state is reached,
-Dialogue: 1,0:13:00.07,0:13:03.25,Default,,0,0,0,,take one pill in the morning,\Nduring the day and at the evening,
-Dialogue: 1,0:13:03.63,0:13:05.00,Default,,0,0,0,,and you are cured.
+Dialogue: 1,0:13:00.07,0:13:03.25,Default,,0,0,0,,take one pill in the morning, noon, and night,
+Dialogue: 1,0:13:03.63,0:13:05.00,Default,,0,0,0,,and you'll be cured.
 Dialogue: 1,0:13:05.24,0:13:06.63,Default,,0,0,0,,P.S.!
 Dialogue: 1,0:13:07.23,0:13:08.94,Default,,0,0,0,,Say hello to Wuxian for me.
 Dialogue: 1,0:13:09.16,0:13:10.53,Default,,0,0,0,,This is written here.
@@ -297,7 +297,7 @@ Dialogue: 1,0:13:14.71,0:13:16.26,Default,,0,0,0,,Keep on dreaming, girl...
 Dialogue: 1,0:13:16.77,0:13:17.97,Default,,0,0,0,,Xiaohei can understand me.
 Dialogue: 1,0:13:18.23,0:13:19.47,Default,,0,0,0,,And Xiaohuang understands me.
 Dialogue: 1,0:13:20.94,0:13:21.62,Default,,0,0,0,,Huang!
-Dialogue: 1,0:13:31.91,0:13:33.63,Default,,0,0,0,,Why are acting so weird...
+Dialogue: 1,0:13:31.91,0:13:33.63,Default,,0,0,0,,Why are you acting so weird...
 Dialogue: 1,0:13:34.37,0:13:35.77,Default,,0,0,0,,Can he understand a lot?
 Dialogue: 1,0:13:37.58,0:13:38.18,Default,,0,0,0,,Be happy!
 Dialogue: 1,0:13:38.88,0:13:39.47,Default,,0,0,0,,Smile!
@@ -309,12 +309,12 @@ Dialogue: 1,0:13:45.62,0:13:46.31,Default,,0,0,0,,Be happy!
 Dialogue: 1,0:13:47.19,0:13:47.86,Default,,0,0,0,,Be scared!
 Dialogue: 1,0:13:48.43,0:13:49.16,Default,,0,0,0,,Convinced yet?
 Dialogue: 1,0:13:49.16,0:13:50.41,Default,,0,0,0,,I'm not lying.
-Dialogue: 1,0:13:51.96,0:13:53.21,Default,,0,0,0,,Not only he can understand me,
+Dialogue: 1,0:13:51.96,0:13:53.21,Default,,0,0,0,,Not only can he understand me,
 Dialogue: 1,0:13:53.42,0:13:54.95,Default,,0,0,0,,but I can understand him too.
 Dialogue: 1,0:13:55.55,0:13:56.41,Default,,0,0,0,,How is this possible?
 Dialogue: 1,0:13:56.84,0:13:57.55,Default - Italic,,0,0,0,,Xiaobai.
-Dialogue: 1,0:13:57.92,0:13:59.06,Default - Italic,,0,0,0,,You can tell her that we can communicate,
-Dialogue: 1,0:13:59.06,0:13:59.71,Default - Italic,,0,0,0,,but don't talk about spirits.
+Dialogue: 1,0:13:57.88,0:13:58.86,Default - Italic,,0,0,0,,You can tell her we can talk,
+Dialogue: 1,0:13:58.86,0:13:59.71,Default - Italic,,0,0,0,,but don't mention spirits.
 Dialogue: 1,0:13:59.71,0:14:00.45,Default,,0,0,0,,Okay.
 Dialogue: 1,0:14:00.68,0:14:01.95,Default,,0,0,0,,What if it's true...?
 Dialogue: 1,0:14:02.15,0:14:03.70,Default,,0,0,0,,I need to test it.
@@ -369,8 +369,8 @@ Dialogue: 1,0:16:44.89,0:16:45.71,Default,,0,0,0,,Well, yeah.
 Dialogue: 1,0:16:45.92,0:16:47.92,Default,,0,0,0,,It's the biggest anime convention in town.
 Dialogue: 1,0:16:48.57,0:16:50.79,Default,,0,0,0,,I didn't know Xiaohei was interested in this.
 Dialogue: 1,0:16:50.96,0:16:51.97,Default,,0,0,0,,It's rare for a cat.
-Dialogue: 1,0:16:52.13,0:16:53.10,Default,,0,0,0,,I didn't want to stay there...
-Dialogue: 0,0:17:27.09,0:17:29.51,Title 3,,0,0,0,,{\pos(1350,725)}Anime Convention
+Dialogue: 1,0:16:52.13,0:16:53.33,Default - Italic,,0,0,0,,Better than staying there...
+Dialogue: 0,0:17:26.97,0:17:29.40,Title 3,,0,0,0,,{\pos(1350,725)}Anime Convention
 Dialogue: 1,0:18:06.96,0:18:08.04,Default,,0,0,0,,I've sensed them.
 Dialogue: 1,0:18:13.45,0:18:14.29,Default,,0,0,0,,This one, please.
 Dialogue: 1,0:18:14.40,0:18:15.52,Default,,0,0,0,,Thanks for your purchase!
@@ -393,8 +393,8 @@ Dialogue: 1,0:19:16.79,0:19:17.86,Default,,0,0,0,,I'm going now.
 Dialogue: 1,0:19:17.86,0:19:18.62,Default,,0,0,0,,I'll call you.
 Dialogue: 1,0:19:18.90,0:19:19.45,Default,,0,0,0,,Okay.
 Dialogue: 1,0:19:20.52,0:19:21.73,Default,,0,0,0,,Feeling better, kitten?
-Dialogue: 1,0:19:21.84,0:19:22.57,Default - Italic,,0,0,0,,Much better.
-Dialogue: 1,0:19:22.60,0:19:23.58,Default - Italic,,0,0,0,,Why didn't you come back to the tower last time?
+Dialogue: 1,0:19:21.73,0:19:22.45,Default - Italic,,0,0,0,,Much better.
+Dialogue: 1,0:19:22.45,0:19:23.65,Default - Italic,,0,0,0,,Why didn't you come back to the tower last time?
 Dialogue: 1,0:19:25.17,0:19:26.42,Default,,0,0,0,,Leave the past alone...
 Dialogue: 1,0:19:27.81,0:19:28.54,Default,,0,0,0,,What's the topic?
 Dialogue: 1,0:19:28.69,0:19:29.57,Default,,0,0,0,,World politics.
@@ -407,10 +407,10 @@ Dialogue: 1,0:19:40.16,0:19:40.99,Default - Italic,,0,0,0,,You come here often?
 Dialogue: 1,0:19:41.01,0:19:41.48,Default,,0,0,0,,Yes.
 Dialogue: 1,0:19:42.02,0:19:43.25,Default,,0,0,0,,I can be myself here.
 Dialogue: 1,0:19:43.38,0:19:44.38,Default,,0,0,0,,You like conventions?
-Dialogue: 1,0:19:44.75,0:19:46.73,Default,,0,0,0,,Hi, can we make some pictures with you?
+Dialogue: 1,0:19:44.75,0:19:46.73,Default,,0,0,0,,Hi, can we take some pictures with you?
 Dialogue: 1,0:19:46.94,0:19:47.48,Default,,0,0,0,,Sure.
 Dialogue: 1,0:19:49.25,0:19:50.08,Default,,0,0,0,,Thank you!
-Dialogue: 1,0:19:50.11,0:19:50.57,Default,,0,0,0,,You're welcome.
+Dialogue: 1,0:19:50.08,0:19:50.78,Default,,0,0,0,,You're welcome.
 Dialogue: 1,0:19:51.37,0:19:52.36,Default,,0,0,0,,What character is he?
 Dialogue: 1,0:19:52.45,0:19:53.69,Default,,0,0,0,,No idea, but he's so cute!
 Dialogue: 1,0:19:53.82,0:19:54.60,Default,,0,0,0,,Oho...
@@ -437,7 +437,6 @@ Dialogue: 1,0:20:34.23,0:20:34.80,Default,,0,0,0,,That's right.
 Dialogue: 1,0:20:35.15,0:20:36.47,Default,,0,0,0,,May I ask your family name?
 Dialogue: 1,0:20:36.78,0:20:37.36,Default,,0,0,0,,Luo.
 Dialogue: 1,0:20:37.65,0:20:38.43,Default,,0,0,0,,Wolverine?
-Dialogue: 1,0:20:38.73,0:20:39.26,Default,,0,0,0,,
 Dialogue: 1,0:20:39.92,0:20:40.67,Default,,0,0,0,,Never mind...
 Dialogue: 1,0:20:42.40,0:20:43.81,Default,,0,0,0,,Will we stay here forever?
 Dialogue: 1,0:20:44.53,0:20:45.38,Default,,0,0,0,,Of course not.
@@ -457,8 +456,8 @@ Dialogue: 1,0:21:09.58,0:21:11.10,Default,,0,0,0,,Why don't you take it yourself
 Dialogue: 1,0:21:11.22,0:21:12.18,Default,,0,0,0,,I wanted to.
 Dialogue: 1,0:21:12.35,0:21:15.90,Default,,0,0,0,,But Gen said the Blue Jade Disc can be used only once in a month.
 Dialogue: 1,0:21:16.08,0:21:17.27,Default,,0,0,0,,Then I'll take it to him.
-Dialogue: 1,0:21:17.68,0:21:18.77,Default - Italic,,0,0,0,,Isn't it Laojun's personal creation?
-Dialogue: 1,0:21:19.12,0:21:20.52,Default - Italic,,0,0,0,,How come it can't be used more often?
+Dialogue: 1,0:21:17.76,0:21:18.77,Default - Italic,,0,0,0,,Didn't Laojun make it himself?
+Dialogue: 1,0:21:19.12,0:21:20.52,Default - Italic,,0,0,0,,Why can't you use it more often?
 Dialogue: 1,0:21:20.65,0:21:23.72,Default,,0,0,0,,The Disc is a first-rate magic tool for fixed-point teleportation.
 Dialogue: 1,0:21:23.92,0:21:26.45,Default,,0,0,0,,I suppose the limit was set especially for you.
 Dialogue: 1,0:21:27.20,0:21:28.11,Default,,0,0,0,,But why?
@@ -505,7 +504,7 @@ Dialogue: 0,0:23:32.38,0:23:37.12,Ending Song - Romaji,,0,0,0,,Yukisaki wa kitto
 Dialogue: 0,0:23:32.38,0:23:37.12,Ending Song - English,,0,0,0,,Our destination may be whimsical
 Dialogue: 0,0:23:37.12,0:23:41.82,Ending Song - Romaji,,0,0,0,,Hana no kaori wo ryoute ni
 Dialogue: 0,0:23:37.12,0:23:41.82,Ending Song - English,,0,0,0,,But with the scent of flowers in both hands
-Dialogue: 0,0:23:41.82,0:23:48.02,Ending Song - Romaji,,0,0,0,,kore kara deau kimi e to
+Dialogue: 0,0:23:41.82,0:23:48.02,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:23:41.82,0:23:48.02,Ending Song - English,,0,0,0,,I’ll carry it to the you I’ve yet to meet
 Dialogue: 0,0:23:48.02,0:23:54.17,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
 Dialogue: 0,0:23:48.02,0:23:54.17,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
