@@ -16,6 +16,9 @@ Style: Title 2,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00267C63,&H00267C63,-1,-1,
 Style: Title 3,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00B9C167,&H00B9C167,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
 Style: Ending Song - English,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,3.5,0,2,50,50,25,1
 Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,3.5,0,9,59,50,25,1
+Style: Dad,Gandhi Serif,75,&H009CC5BA,&H0000FFFF,&H00FFFFFF,&H009CC5BA,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: BG_Dad,Arial,20,&H00C6E2DD,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: AssaDrawWhite,Arial,20,&H00C7E7DC,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -232,13 +235,9 @@ Dialogue: 1,0:16:05.16,0:16:05.74,Default,,0,0,0,,Yes.
 Dialogue: 1,0:16:06.04,0:16:07.75,Default,,0,0,0,,He only wanted to stay while he recovered.
 Dialogue: 1,0:16:12.60,0:16:14.59,Default,,0,0,0,,I miss Dad and Mom a little...
 Dialogue: 1,0:16:15.68,0:16:17.16,Default,,0,0,0,,They'd be happy to hear this.
-Dialogue: 1,0:16:17.23,0:16:18.24,Default,,0,0,0,,Hi, Xiaobai!!
-Dialogue: 1,0:16:18.77,0:16:19.72,Default,,0,0,0,,What??
-Dialogue: 1,0:16:18.55,0:16:21.43,Default - Italic,,0,0,0,,{\an8}Long time no see
-Dialogue: 1,0:16:18.55,0:16:21.43,Default - Italic,,0,0,0,,{\an8}We are fine
-Dialogue: 1,0:16:18.55,0:16:21.43,Default - Italic,,0,0,0,,{\an8}We're on\Na rollercoaster
-Dialogue: 1,0:16:18.60,0:16:21.43,Default - Italic,,0,0,0,,{\an8}Please don't\Ncall now
-Dialogue: 1,0:16:19.81,0:16:20.99,Default,,0,0,0,,I can't hear you!!
+Dialogue: 3,0:16:17.23,0:16:18.24,Default,,0,0,0,,Hi, Xiaobai!!
+Dialogue: 3,0:16:18.77,0:16:19.72,Default,,0,0,0,,What?
+Dialogue: 1,0:16:19.81,0:16:20.99,Default,,0,0,0,,I can't hear you!
 Dialogue: 1,0:16:23.07,0:16:32.49,Title 3,,0,0,0,,{\pos(1500,540)}Parting and Reunion
 Dialogue: 1,0:16:23.40,0:16:25.11,Default - Italic,,0,0,0,,{\an8}Grandpa, I'm going swimming!
 Dialogue: 1,0:16:25.23,0:16:25.73,Default - Italic,,0,0,0,,{\an8}Okay.
@@ -266,8 +265,8 @@ Dialogue: 1,0:17:17.41,0:17:19.67,Default,,0,0,0,,She isn't covered by my huntin
 Dialogue: 1,0:17:20.18,0:17:21.37,Default,,0,0,0,,I just came to travel.
 Dialogue: 1,0:17:21.77,0:17:23.72,Default,,0,0,0,,I'll go up by myself, Manager.
 Dialogue: 1,0:17:23.97,0:17:24.49,Default,,0,0,0,,Okay.
-Dialogue: 1,0:17:28.37,0:17:29.99,Default,,0,0,0,,You permit hunting humans?!
-Dialogue: 1,0:17:31.68,0:17:32.59,Default,,0,0,0,,He's special.
+Dialogue: 1,0:17:28.37,0:17:29.99,Default,,0,0,0,,You permit hunting humans?
+Dialogue: 1,0:17:31.68,0:17:32.59,Default,,0,0,0,,He's a special case.
 Dialogue: 1,0:17:34.43,0:17:35.37,Default,,0,0,0,,His name is Niepa.
 Dialogue: 1,0:17:35.58,0:17:36.50,Default,,0,0,0,,He's a man-eater.
 Dialogue: 1,0:17:36.99,0:17:38.18,Default,,0,0,0,,Man-eater?
@@ -282,7 +281,7 @@ Dialogue: 1,0:17:56.61,0:18:00.34,Default,,0,0,0,,All we can do is to inform the
 Dialogue: 1,0:18:00.54,0:18:01.44,Default,,0,0,0,,Likewise,
 Dialogue: 1,0:18:01.78,0:18:03.52,Default,,0,0,0,,if humans hunt them down,
 Dialogue: 1,0:18:03.71,0:18:05.15,Default,,0,0,0,,we don't intervene.
-Dialogue: 1,0:18:06.74,0:18:08.86,Default,,0,0,0,,Can you... really do this?
+Dialogue: 1,0:18:06.74,0:18:08.86,Default,,0,0,0,,Can you... really allow this?
 Dialogue: 1,0:18:09.38,0:18:10.74,Default,,0,0,0,,What else could we do?
 Dialogue: 1,0:18:11.15,0:18:13.50,Default,,0,0,0,,We can't deprive them of their right to live.
 Dialogue: 1,0:18:15.51,0:18:16.63,Default,,0,0,0,,Ultimately,
@@ -293,7 +292,7 @@ Dialogue: 1,0:18:24.34,0:18:26.29,Default,,0,0,0,,But they simply have no choice
 Dialogue: 1,0:18:26.67,0:18:28.78,Default,,0,0,0,,So you guys just let them hunt humans?
 Dialogue: 1,0:18:29.46,0:18:30.25,Default,,0,0,0,,What other choice is there?
 Dialogue: 1,0:18:30.53,0:18:31.77,Default,,0,0,0,,Do we provide their food?
-Dialogue: 1,0:18:31.97,0:18:33.91,Default,,0,0,0,,Or farm them like humans do?
+Dialogue: 1,0:18:31.97,0:18:33.91,Default,,0,0,0,,Or hunt them like humans do?
 Dialogue: 1,0:18:41.73,0:18:44.57,Default,,0,0,0,,A few days ago, I met Wuxian in Longyou.
 Dialogue: 1,0:18:44.57,0:18:45.54,Default,,0,0,0,,He's in Longyou?
 Dialogue: 1,0:18:45.70,0:18:47.57,Default,,0,0,0,,No, he already left.
@@ -310,7 +309,7 @@ Dialogue: 1,0:19:11.50,0:19:13.31,Default,,0,0,0,,Okay, okay, I'll be there on t
 Dialogue: 1,0:19:13.50,0:19:14.68,Default,,0,0,0,,Don't you forget it!
 Dialogue: 1,0:19:14.78,0:19:15.77,Default,,0,0,0,,I won't.
 Dialogue: 1,0:19:16.12,0:19:16.90,Default,,0,0,0,,Bye!
-Dialogue: 1,0:19:16.95,0:19:18.04,Default,,0,0,0,,Bye, bye!
+Dialogue: 1,0:19:16.95,0:19:18.04,Default,,0,0,0,,{}Bye bye!
 Dialogue: 1,0:19:20.38,0:19:22.66,Default,,0,0,0,,She just can't stop talking when it comes to games.
 Dialogue: 1,0:19:24.92,0:19:27.22,Default,,0,0,0,,Sometimes I don't see Shanxin for days.
 Dialogue: 1,0:19:27.36,0:19:28.74,Default,,0,0,0,,How come I don't miss her?

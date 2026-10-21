@@ -73,7 +73,7 @@ Dialogue: 0,0:01:42.69,0:01:47.73,ImageBoard,,0,0,0,,{\pos(780,640)}{\frx(8)\fry
 Dialogue: 0,0:01:42.69,0:01:47.73,ImageBoard,,0,0,0,,{\pos(480,760)}{\frx(10)\fry(0)\frz(0)}laojun!!!
 Dialogue: 0,0:01:42.69,0:01:47.73,ImageBoard,,0,0,0,,{\pos(790,900)}{\frx(8)\fry(0)\frz(0)}respect to the god who pulled it off.
 Dialogue: 0,0:01:42.69,0:01:47.73,ImageBoard,,0,0,0,,{\pos(520,1035)}{\frx(8)\fry(0)\frz(0)}How's Diting?
-Dialogue: -1000,0:01:42.69,0:01:47.73,BG_ImageBoard_S3,,0,0,0,,{\p1}m 891.8 85.8 l 890 19 241 21 239 95 372 133 345 257 205 257 200 290 211 305 296.5 306 304.59 273.93 304.44 267.26 344 268.15 415.63 192.35 489.5 193 474.91 331.64 1712 328 1718 360 466 356 462 436 1742 446 1742 476 430 474 432 554 1758 566 1758 596 438 594 426 686 1778 684 1780 714 426 722 422 794 1816 824 1812 846 396 860 402 938 1824 968 1824 984 405.94 1025.03 422.75 1076.25 736.25 1073.75 1903 1057 1742.4 105.6{\p0}
+Dialogue: -1000,0:01:42.69,0:01:47.73,BG_ImageBoard_S3,,0,0,0,,{\p1}m 891.8 85.8 l 890 19 241 21 239 95 372 133 345 257 205 257 200 290 211 305 296.5 306 304.6 273.9 304.4 267.3 344 268.2 415.6 192.4 489.5 193 474.9 331.6 1712 328 1718 360 466 356 462 436 1742 446 1742 476 430 474 432 554 1758 566 1758 596 438 594 426 686 1778 684 1780 714 426 722 422 794 1816 824 1812 846 396 860 402 938 1824 968 1824 984 405.9 1025 422.8 1076.3 736.3 1073.8 1903 1057 1742.4 105.6{\p0}
 Dialogue: -1000,0:01:42.69,0:01:47.73,BG_ImageBoard_S2,,0,0,0,,{\pos(0,0)}{\p1}m 425 1080 l 405 1021 356 1066{\p0}
 Dialogue: 0,0:01:43.60,0:01:45.01,Default,,0,0,0,,This was posted by Master Lao.
 Dialogue: 0,0:01:45.09,0:01:45.73,Default,,0,0,0,,Does he have to post it?
@@ -96,7 +96,7 @@ Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(642,1025)}S
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(1155,1025)}Book of Vows 3
 Dialogue: 0,0:01:59.24,0:02:03.66,ImageBoard - Title 3,,0,0,0,,{\pos(1650,1025)}[OUTDATED] Book of Vows
 Dialogue: -1000,0:01:59.24,0:02:03.66,BG_ImageBoard_S2,,0,0,0,,{\pos(0,0)\p1}m 252.8 649.6 l 236.8 555.2 39.2 554.4 -29.6 1071.2 278.4 1064.8 269.6 983.2 -11.2 979.2 -7.2 912.8 65.6 668{\p0}
-Dialogue: -1000,0:01:59.24,0:02:03.66,BG_ImageBoard_S3,,0,0,0,,{\pos(0,0)\p1}m 232 262 l 238 220 1760 222 1758 278 608 280 570.29 545.14 1793.14 542.86 1800 666.29 557.71 656 514.29 702.86 480 982.86 1810.29 977.14 1816 1072 437.71 1064 388.57 669.71 256 663.11 233.78 547.85 417.52 546.29 475.2 293.6{\p0}
+Dialogue: -1000,0:01:59.24,0:02:03.66,BG_ImageBoard_S3,,0,0,0,,{\pos(0,0)\p1}m 232 262 l 238 220 1760 222 1758 278 608 280 570.3 545.1 1793.1 542.9 1800 666.3 557.7 656 514.3 702.9 480 982.9 1810.3 977.1 1816 1072 437.7 1064 388.6 669.7 256 663.1 233.8 547.9 417.5 546.3 475.2 293.6{\p0}
 Dialogue: 0,0:01:59.59,0:02:01.76,Default,,0,0,0,,Not counting the manuals, there are twelve books of vows.
 Dialogue: 0,0:02:01.92,0:02:03.46,Default,,0,0,0,,Together, they make the Collection of Twelve.
 Dialogue: 0,0:02:03.66,0:02:04.46,Default - Italic,,0,0,0,,So many of them...
@@ -365,10 +365,10 @@ Dialogue: 0,0:15:20.16,0:15:22.38,Default,,0,0,0,,If you are willing to leave th
 Dialogue: 0,0:15:22.38,0:15:23.94,Default,,0,0,0,,my offer is still valid.
 Dialogue: 0,0:15:25.43,0:15:26.65,Default,,0,0,0,,I'll never accept it.
 Dialogue: 0,0:15:28.42,0:15:29.85,Default,,0,0,0,,I can't force you.
-Dialogue: 0,0:15:34.72,0:15:35.40,Default,,0,0,0,,What are you up to?!
+Dialogue: 0,0:15:34.72,0:15:35.40,Default,,0,0,0,,What are you doing?!
 Dialogue: 0,0:15:36.34,0:15:37.36,Default,,0,0,0,,The least that I can do,
 Dialogue: 0,0:15:38.02,0:15:39.23,Default,,0,0,0,,is send you into the next life.
-Dialogue: 0,0:15:39.69,0:15:41.13,Default,,0,0,0,,You're willing to kill him?
+Dialogue: 0,0:15:39.69,0:15:41.13,Default,,0,0,0,,You're just going to kill him?
 Dialogue: 0,0:15:41.49,0:15:42.63,Default,,0,0,0,,Technically, no.
 Dialogue: 0,0:15:43.03,0:15:44.58,Default,,0,0,0,,But I can't force you out.
 Dialogue: 0,0:15:44.70,0:15:45.94,Default,,0,0,0,,The fairy's as good as dead.
@@ -391,7 +391,7 @@ Dialogue: 0,0:16:20.99,0:16:21.68,Default,,0,0,0,,Qiguo!
 Dialogue: 0,0:16:22.31,0:16:23.34,Default,,0,0,0,,Qiguo!
 Dialogue: 0,0:16:27.06,0:16:27.65,Default - Italic,,0,0,0,,It's all right!
 Dialogue: 0,0:16:32.97,0:16:36.77,Default,,0,0,0,,I never thought you could hide inside a plant so quickly.
-Dialogue: 0,0:16:40.19,0:16:41.92,Default,,0,0,0,,Should I destroy your new place?
+Dialogue: 0,0:16:40.19,0:16:41.92,Default,,0,0,0,,Should I destroy your new home?
 Dialogue: 0,0:16:41.95,0:16:43.26,Default,,0,0,0,,Or will you come out on your own?
 Dialogue: 0,0:16:44.65,0:16:47.02,Default,,0,0,0,,Do you kill everything around you?
 Dialogue: 0,0:16:47.90,0:16:48.97,Default,,0,0,0,,You're being dramatic.
@@ -418,7 +418,7 @@ Dialogue: 0,0:17:36.41,0:17:37.95,Default,,0,0,0,,You're still willing to give i
 Dialogue: 0,0:17:38.43,0:17:39.95,Default,,0,0,0,,Are you afraid it's a fake?
 Dialogue: 0,0:17:40.06,0:17:42.77,Default,,0,0,0,,You wouldn't go that far just to destroy a roaming soul.
 Dialogue: 0,0:17:42.77,0:17:43.94,Default,,0,0,0,,I accept it.
-Dialogue: 0,0:17:50.78,0:17:52.65,Default,,0,0,0,,I'm finally revived!
+Dialogue: 0,0:17:50.78,0:17:52.65,Default,,0,0,0,,I'm finally reborn!
 Dialogue: 0,0:18:00.44,0:18:02.13,Default,,0,0,0,,It's a good body indeed!
 Dialogue: 0,0:18:02.56,0:18:04.37,Default,,0,0,0,,I've gotten much stronger now.
 Dialogue: 0,0:18:04.75,0:18:06.40,Default,,0,0,0,,Are you not afraid I'll attack you?
@@ -426,7 +426,7 @@ Dialogue: 0,0:18:07.11,0:18:08.56,Default,,0,0,0,,You couldn't trust me first,
 Dialogue: 0,0:18:08.73,0:18:10.21,Default,,0,0,0,,so I have to trust you first.
 Dialogue: 0,0:18:12.54,0:18:13.55,Default,,0,0,0,,All right.
 Dialogue: 0,0:18:13.84,0:18:15.35,Default,,0,0,0,,What's your name, son?
-Dialogue: 0,0:18:15.79,0:18:17.02,Default,,0,0,0,,You can call me Gen.
+Dialogue: 0,0:18:15.79,0:18:17.02,Default,,0,0,0,,You can call me A-Gen.
 Dialogue: 0,0:18:17.70,0:18:19.82,Default,,0,0,0,,My name is Muluo, I am an immortal.
 Dialogue: 0,0:18:20.69,0:18:21.37,Default,,0,0,0,,You are Muluo...?
 Dialogue: 0,0:18:21.49,0:18:22.39,Default,,0,0,0,,Shame on you!
