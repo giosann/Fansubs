@@ -35,40 +35,40 @@ Dialogue: 0,0:00:33.20,0:00:35.61,Default,,0,0,0,,and learn to handle all kinds 
 Dialogue: 0,0:00:35.74,0:00:36.78,Default,,0,0,0,,Oh!
 Dialogue: 0,0:00:38.83,0:00:41.33,Default,,0,0,0,,Time's up. We can open the third quest now.
 Dialogue: 0,0:00:45.17,0:00:46.85,Default,,0,0,0,,What does it say?
-Dialogue: 0,0:00:47.26,0:00:53.01,Default - Italic,,0,0,0,,{\an8}"Mission 3: By New Year's Eve\NEarn the Praise of the Elfin King Folan"
-Dialogue: 0,0:00:47.75,0:00:51.92,Default,,0,0,0,,"Earn the praise of Elfin King Folan. Complete before New Year's Eve."
+Dialogue: 0,0:00:47.26,0:00:53.01,Default - Italic,,0,0,0,,{\an8}"Mission 3: By New Year's Eve\NEarn the Praise of the Spirit King Folan"
+Dialogue: 0,0:00:47.75,0:00:51.92,Default,,0,0,0,,"Earn the praise of Spirit King Folan. Complete before New Year's Eve."
 Dialogue: 0,0:00:52.14,0:00:54.87,Default,,0,0,0,,Uh... that's several months away.
 Dialogue: 0,0:00:55.47,0:00:58.51,Default,,0,0,0,,Folan... I've never heard of him...
 Dialogue: 0,0:00:58.80,0:01:01.64,Default,,0,0,0,,So the goal is to find this Folan,
 Dialogue: 0,0:01:01.77,0:01:03.43,Default,,0,0,0,,and get him to compliment you?
 Dialogue: 0,0:01:03.56,0:01:05.77,Default,,0,0,0,,Uh... that's a weird quest.
 Dialogue: 0,0:01:05.89,0:01:08.77,Default,,0,0,0,,Maybe you have to help this person with something.
-Dialogue: 0,0:01:08.90,0:01:11.78,Default,,0,0,0,,Elfin King...
-Dialogue: 0,0:01:12.07,0:01:14.24,Default,,0,0,0,,How many Elfin Kings are there?
-Dialogue: 0,0:01:14.44,0:01:16.15,Default,,0,0,0,,"Elfin King" is a title among elfin.
+Dialogue: 0,0:01:08.90,0:01:11.78,Default,,0,0,0,,Spirit King...
+Dialogue: 0,0:01:12.07,0:01:14.24,Default,,0,0,0,,How many Spirit Kings are there?
+Dialogue: 0,0:01:14.44,0:01:16.15,Default,,0,0,0,,"Spirit King" is a title among spirits.
 Dialogue: 0,0:01:16.28,0:01:17.59,Default,,0,0,0,,The famous ones are:
 Dialogue: 0,0:01:17.59,0:01:19.43,Default,,0,0,0,,Sun Wukong and Nezha.
 Dialogue: 0,0:01:19.46,0:01:21.34,Default,,0,0,0,,Mainly because they were written into novels.
 Dialogue: 0,0:01:21.70,0:01:22.95,Default,,0,0,0,,Oh!
-Dialogue: 0,0:01:23.08,0:01:24.71,Default,,0,0,0,,Nezha is an Elfin King?
+Dialogue: 0,0:01:23.08,0:01:24.71,Default,,0,0,0,,Nezha is an Spirit King?
 Dialogue: 0,0:01:24.83,0:01:26.33,Default,,0,0,0,,You know Nezha?
 Dialogue: 0,0:01:26.46,0:01:27.12,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:01:27.25,0:01:28.04,Default,,0,0,0,,Wow!
-Dialogue: 0,0:01:28.33,0:01:30.63,Default,,0,0,0,,What's the difference between an Elfin King and an immortal?
-Dialogue: 0,0:01:30.75,0:01:33.21,Default,,0,0,0,,Kings are usually elfin that rule a certain region.
+Dialogue: 0,0:01:28.33,0:01:30.63,Default,,0,0,0,,What's the difference between a Spirit King and an immortal?
+Dialogue: 0,0:01:30.75,0:01:33.21,Default,,0,0,0,,Kings are usually spirits that rule a certain region.
 Dialogue: 0,0:01:33.34,0:01:35.17,Default,,0,0,0,,It's been a long time since anyone used that title.
 Dialogue: 0,0:01:35.34,0:01:38.09,Default,,0,0,0,,No wonder Master rarely mentioned it.
 Dialogue: 0,0:01:38.22,0:01:39.85,Default,,0,0,0,,Besides, Nezha is already recognized as a diety.
-Dialogue: 0,0:01:39.87,0:01:42.32,Default,,0,0,0,,So no one really talks about how he used to be an Elfin King.
-Dialogue: 0,0:01:42.91,0:01:46.25,Default,,0,0,0,,So maybe Folan isn't a Elfin King anymore now.
+Dialogue: 0,0:01:39.87,0:01:42.32,Default,,0,0,0,,So no one really talks about how he used to be a Spirit King.
+Dialogue: 0,0:01:42.91,0:01:46.25,Default,,0,0,0,,So maybe Folan isn't a Spirit King anymore now.
 Dialogue: 0,0:01:46.77,0:01:49.06,Default,,0,0,0,,Yeah, we might need to ask around.
 Dialogue: 0,0:01:49.40,0:01:50.73,Default,,0,0,0,,Can't find anything online either.
-Dialogue: 0,0:01:50.86,0:01:52.73,Default,,0,0,0,,I'll ask on the elfin forum.
+Dialogue: 0,0:01:50.86,0:01:52.73,Default,,0,0,0,,I'll ask on the spirit forum.
 Dialogue: 0,0:01:52.86,0:01:56.03,Default,,0,0,0,,The deadline is Chinese New Year, so we have plenty of time.
 Dialogue: 0,0:01:56.49,0:01:58.74,Default,,0,0,0,,Let's wait and check the replies tomorrow morning.
 Dialogue: 0,0:01:59.37,0:02:00.03,Default,,0,0,0,,Okay.
 Dialogue: 0,0:02:09.00,0:02:09.96,Default,,0,0,0,,Hm...
-Dialogue: 0,0:02:10.96,0:02:12.47,Default - Italic,,0,0,0,,{\an8}"A Elfin King nowadays?"
+Dialogue: 0,0:02:10.96,0:02:12.47,Default - Italic,,0,0,0,,{\an8}"A Spirit King nowadays?"
 Dialogue: 0,0:02:11.25,0:02:12.92,Default,,0,0,0,,No one knows.
 Dialogue: 0,0:02:12.59,0:02:14.18,Default - Italic,,0,0,0,,{\an8}"Definitely doesn't exist"
 Dialogue: 0,0:02:13.92,0:02:16.63,Default,,0,0,0,,I'll leave the post up for now and keep looking.
@@ -86,36 +86,36 @@ Dialogue: 0,0:02:34.83,0:02:36.94,Default,,0,0,0,,I wish someone would come visi
 Dialogue: 0,0:02:37.19,0:02:38.58,Default,,0,0,0,,Di-Ting! Di-Ting! Di-Ting! 
 Dialogue: 0,0:02:38.60,0:02:40.05,Default,,0,0,0,,Stop it, I'm reading.
 Dialogue: 0,0:02:40.99,0:02:41.82,Default,,0,0,0,,Hmph!
-Dialogue: 0,0:02:48.37,0:02:50.17,Default,,0,0,0,,Elfin King Folan?
+Dialogue: 0,0:02:48.37,0:02:50.17,Default,,0,0,0,,Spirit King Folan?
 Dialogue: 0,0:02:50.46,0:02:52.83,Default,,0,0,0,,Hmm, never heard of him.
 Dialogue: 0,0:02:53.81,0:02:56.30,Default,,0,0,0,,I've seen a lot in my time,
 Dialogue: 0,0:02:56.42,0:02:59.01,Default,,0,0,0,,but I don't know of anyone by that name, truly.
-Dialogue: 0,0:02:59.88,0:03:02.59,Default,,0,0,0,,Elfin Kings are different from reclusive sages.
+Dialogue: 0,0:02:59.88,0:03:02.59,Default,,0,0,0,,Spirit Kings are different from reclusive sages.
 Dialogue: 0,0:03:02.72,0:03:07.85,Default,,0,0,0,,They usually have enough power and influence to earn that title through fame.
 Dialogue: 0,0:03:08.18,0:03:12.94,Default,,0,0,0,,So I'm quite sure there's no such figure within the mainland.
-Dialogue: 0,0:03:13.06,0:03:16.32,Default,,0,0,0,,You mean he might be a Elfin King from elsewhere?
+Dialogue: 0,0:03:13.06,0:03:16.32,Default,,0,0,0,,You mean he might be a Spirit King from elsewhere?
 Dialogue: 0,0:03:16.82,0:03:21.07,Default,,0,0,0,,I don't know, but I'm certain he's not here.
 Dialogue: 0,0:03:21.36,0:03:23.49,Default,,0,0,0,,Alright, thank you, sir.
 Dialogue: 0,0:03:27.99,0:03:28.87,Default,,0,0,0,,What'd he say?
 Dialogue: 0,0:03:29.08,0:03:30.83,Default,,0,0,0,,He said definitely not within the mainland.
 Dialogue: 0,0:03:31.21,0:03:33.46,Default,,0,0,0,,Could this be an overseas mission?
-Dialogue: 0,0:03:33.83,0:03:35.42,Default,,0,0,0,,Are there elfin are in other countries?
+Dialogue: 0,0:03:33.83,0:03:35.42,Default,,0,0,0,,Are there spirits are in other countries?
 Dialogue: 0,0:03:35.54,0:03:36.86,Default,,0,0,0,,Haha, of course.
-Dialogue: 0,0:03:37.17,0:03:40.26,Default,,0,0,0,,It's thought wherever there are living beings, there are elfin.
+Dialogue: 0,0:03:37.17,0:03:40.26,Default,,0,0,0,,It's thought wherever there are living beings, there are also spirits.
 Dialogue: 0,0:03:40.38,0:03:43.68,Default,,0,0,0,,So every country has its own myths and legends.
 Dialogue: 0,0:03:44.23,0:03:46.69,Default,,0,0,0,,Do they all hide among humans now?
 Dialogue: 0,0:03:47.17,0:03:50.70,Default,,0,0,0,,Well, most of the elfins here follow the rules of the guild.
 Dialogue: 0,0:03:51.89,0:03:53.60,Default,,0,0,0,,What about elsewhere?
 Dialogue: 0,0:03:53.71,0:03:56.15,Default,,0,0,0,,Currently, this way of coexistance is the norm.
-Dialogue: 0,0:03:56.17,0:03:58.92,Default,,0,0,0,,However, there are some religious states ruled by elfin.
+Dialogue: 0,0:03:56.17,0:03:58.92,Default,,0,0,0,,However, there are some religious states ruled by spirits.
 Dialogue: 0,0:03:58.96,0:04:01.62,Default,,0,0,0,,They tend to seek humans to be their proxies.
 Dialogue: 0,0:04:01.65,0:04:03.66,Default,,0,0,0,,Then, people usually worship them as prophets.
-Dialogue: 0,0:04:03.69,0:04:08.58,Default,,0,0,0,,Most other countries play down the influence\Nof elfin and treat them as myths and legends.
+Dialogue: 0,0:04:03.69,0:04:08.58,Default,,0,0,0,,Most other countries play down the influence\Nof spirits and treat them as myths and legends.
 Dialogue: 0,0:04:08.95,0:04:10.85,Default,,0,0,0,,Humans are now focused on technology.
-Dialogue: 0,0:04:10.87,0:04:12.71,Default,,0,0,0,,They walk a different path from Elfin.
+Dialogue: 0,0:04:10.87,0:04:12.71,Default,,0,0,0,,They walk a different path from spirits.
 Dialogue: 0,0:04:12.91,0:04:14.46,Default,,0,0,0,,Which one is better?
 Dialogue: 0,0:04:14.67,0:04:16.42,Default,,0,0,0,,Neither is one is better than the other.
-Dialogue: 0,0:04:16.54,0:04:20.46,Default,,0,0,0,,No matter human or elfin, \Nwe all play a small part in this massive world.
+Dialogue: 0,0:04:16.54,0:04:20.46,Default,,0,0,0,,No matter human or spirit, \Nwe all play a small part in this massive world.
 Dialogue: 0,0:04:20.59,0:04:23.47,Default,,0,0,0,,Each of us with our limits against so many unknowns.
 Dialogue: 0,0:04:23.59,0:04:24.59,Default,,0,0,0,,Oh. 
 Dialogue: 0,0:04:25.30,0:04:26.60,Default,,0,0,0,,So what now?
@@ -135,15 +135,15 @@ Dialogue: 0,0:04:48.66,0:04:49.83,Default,,0,0,0,,What mission?
 Dialogue: 0,0:04:51.83,0:04:52.95,Default,,0,0,0,,Can we say?
 Dialogue: 0,0:04:53.46,0:04:54.58,Default,,0,0,0,,Can we?
 Dialogue: 0,0:04:54.71,0:04:56.17,Default,,0,0,0,,Who are you asking...
-Dialogue: 0,0:04:56.72,0:05:00.15,Default,,0,0,0,,We might go abroad to find an elfin.
+Dialogue: 0,0:04:56.72,0:05:00.15,Default,,0,0,0,,We might go abroad to find a spirit.
 Dialogue: 0,0:05:00.42,0:05:02.30,Default,,0,0,0,,Oh? Which country?
 Dialogue: 0,0:05:02.42,0:05:05.05,Default,,0,0,0,,No idea, we don't even know where he is.
 Dialogue: 0,0:05:05.18,0:05:06.93,Default,,0,0,0,,So we need to do some research first.
 Dialogue: 0,0:05:07.05,0:05:08.05,Default,,0,0,0,,Oh, wow.
-Dialogue: 0,0:05:08.43,0:05:11.31,Default,,0,0,0,,It's a Elfin King named Folan. Do you know him?
+Dialogue: 0,0:05:08.43,0:05:11.31,Default,,0,0,0,,It's a Spirit King named Folan. Do you know him?
 Dialogue: 0,0:05:10.26,0:05:12.22,Default - Italic,,0,0,0,,{\an8}Why would Shanxin know?
 Dialogue: 0,0:05:11.72,0:05:12.81,Default,,0,0,0,,Folan?
-Dialogue: 0,0:05:13.27,0:05:15.35,Default,,0,0,0,,Is the quest "Earn the praise of Elfin King Folan"?
+Dialogue: 0,0:05:13.27,0:05:15.35,Default,,0,0,0,,Is the quest "Earn the praise of Spirit King Folan"?
 Dialogue: 0,0:05:15.98,0:05:17.35,Default,,0,0,0,,How did you know?
 Dialogue: 0,0:05:18.77,0:05:21.19,Default,,0,0,0,,It's quest from "All Living Creatures"?!
 Dialogue: 0,0:05:21.32,0:05:24.44,Default,,0,0,0,,Yeah, they released over a hundred quests this morning.
@@ -163,7 +163,7 @@ Dialogue: 0,0:06:24.84,0:06:28.05,Default,,0,0,0,,So your last quest is just to 
 Dialogue: 0,0:06:28.34,0:06:29.01,Default,,0,0,0,,Yep.
 Dialogue: 0,0:06:29.22,0:06:31.14,Default,,0,0,0,,What is this quest exactly?
 Dialogue: 0,0:06:31.26,0:06:34.10,Default,,0,0,0,,Today the game released over a hundred quests, right?
-Dialogue: 0,0:06:34.22,0:06:37.52,Default,,0,0,0,,"Earn the praise of Elfin King Folan" was the last one released,
+Dialogue: 0,0:06:34.22,0:06:37.52,Default,,0,0,0,,"Earn the praise of Spirit King Folan" was the last one released,
 Dialogue: 0,0:06:37.64,0:06:39.39,Default,,0,0,0,,and it's the hardest one.
 Dialogue: 0,0:06:37.65,0:06:41.86,Default - Italic,,0,0,0,,{\an8}"Challenge for this quest is\Nlimited to one attempt per person"
 Dialogue: 0,0:06:39.81,0:06:41.86,Default,,0,0,0,,This is practically a whole quest list in itself...
@@ -477,7 +477,7 @@ Dialogue: 0,0:20:20.76,0:20:23.01,Default,,0,0,0,,And each respawn is at a diffe
 Dialogue: 0,0:20:23.13,0:20:25.72,Default,,0,0,0,,But look at our map unlock rate now.
 Dialogue: 0,0:20:25.27,0:20:27.48,Default - Italic,,0,0,0,,{\an8}“Map Unlock Rate”
 Dialogue: 0,0:20:26.43,0:20:27.47,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:20:27.68,0:20:29.27,Default,,0,0,0,,Even though this is a game for elfin,
+Dialogue: 0,0:20:27.68,0:20:29.27,Default,,0,0,0,,Even though this is a game for spirit,
 Dialogue: 0,0:20:29.39,0:20:31.27,Default,,0,0,0,,how is it actually implemented?
 Dialogue: 0,0:20:31.56,0:20:33.56,Default,,0,0,0,,It's probably inside someone's spirit space.
 Dialogue: 0,0:20:33.69,0:20:34.35,Default,,0,0,0,,Huh?
