@@ -27,9 +27,9 @@ Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:19.18,0:01:25.04,BG_IntroBox,,0,0,0,,{\fad(0,1300)}{\p1}m 1379 865 b 1349 865 1349 865 1349 895 l 1349 992 b 1349 1022 1349 1022  1379 1022 l 1645 1022 b 1675 1022 1675 1022 1675 992 l 1675 992 1675 895 b 1675 865 1675 865 1645 865 l  1379 865{\p0}
-Dialogue: 0,0:01:19.18,0:01:25.04,FG_IntroBox,,0,0,0,,{\fad(0,1300)}{\pos(1507,933)}Take me home
-Dialogue: 0,0:01:19.18,0:01:25.04,FG_IntroBox,,0,0,0,,{\fad(0,1300)}{\pos(1507,998)}I'll warm your bed
+Dialogue: 0,0:01:19.18,0:01:25.04,BG_IntroBox,,0,0,0,,{\fad(0,1300)}{\p1}m 1379 865 b 1349 865 1349 865 1349 895 l 1349 992 b 1349 1022 1349 1022 1379 1022 l 1645 1022 b 1675 1022 1675 1022 1675 992 l 1675 992 1675 895 b 1675 865 1675 865 1645 865 l 1379 865{\p0}
+Dialogue: 1,0:01:19.18,0:01:25.04,FG_IntroBox,,0,0,0,,{\fad(0,1300)}{\pos(1507,933)}Take me home
+Dialogue: 1,0:01:19.18,0:01:25.04,FG_IntroBox,,0,0,0,,{\fad(0,1300)}{\pos(1507,998)}I'll warm your bed
 Dialogue: 0,0:01:20.79,0:01:25.04,Title 1,,0,0,0,,{\fad(1200,1300)}{\pos(362,688)}Meow!
 Dialogue: 0,0:01:25.32,0:01:26.22,Default,,0,0,0,,I name you...
 Dialogue: 0,0:01:26.22,0:01:27.22,Default,,0,0,0,,Xiaohei!
@@ -149,7 +149,7 @@ Dialogue: 0,0:10:38.09,0:10:39.59,Default,,0,0,0,,Okay, when can you come over?
 Dialogue: 0,0:10:40.29,0:10:41.09,Default,,0,0,0,,At the door?!
 Dialogue: 0,0:10:42.20,0:10:42.68,Default,,0,0,0,,'Sup.
 Dialogue: 0,0:10:43.22,0:10:43.89,Default,,0,0,0,,Hi!
-Dialogue: 0,0:10:44.22,0:10:46.03,Default,,0,0,0,,Long time no see, Xiaohuang!
+Dialogue: 0,0:10:44.22,0:10:46.03,Default,,0,0,0,,Long time no see, Huangshou!
 Dialogue: 0,0:10:46.05,0:10:47.25,Default,,0,0,0,,This is for Xiaohei.
 Dialogue: 0,0:10:47.35,0:10:48.10,Default,,0,0,0,,Thanks!
 Dialogue: 0,0:10:48.10,0:10:49.42,Default,,0,0,0,,I'm sure he'll love it.
@@ -178,7 +178,7 @@ Dialogue: 0,0:11:56.64,0:11:58.04,Default,,0,0,0,,Is he making fun of me?
 Dialogue: 0,0:11:59.23,0:12:00.99,Default,,0,0,0,,Girls! I'm leaving for work!
 Dialogue: 0,0:12:01.32,0:12:02.05,Default,,0,0,0,,Okay!
 Dialogue: 0,0:12:06.22,0:12:08.31,Default,,0,0,0,,Of course you found an excuse again.
-Dialogue: 0,0:12:08.33,0:12:10.31,Default,,0,0,0,,I did bring Xiaohuang to meet Xiaohei.
+Dialogue: 0,0:12:08.33,0:12:10.31,Default,,0,0,0,,I did bring Huangshou to meet Xiaohei.
 Dialogue: 0,0:12:10.39,0:12:12.67,Default,,0,0,0,,So I end up having to take care of him.
 Dialogue: 0,0:12:12.69,0:12:13.45,Default,,0,0,0,,Please!
 Dialogue: 0,0:12:14.39,0:12:15.80,Default,,0,0,0,,Whose side are you on this time?
@@ -192,12 +192,12 @@ Dialogue: 0,0:12:55.29,0:12:56.34,Default,,0,0,0,,Hei-xiu!
 Dialogue: 0,0:12:56.34,0:12:57.34,Default,,0,0,0,,"Heixiu"?
 Dialogue: 0,0:12:57.34,0:12:58.19,Default,,0,0,0,,Hei-xiu!
 Dialogue: 0,0:12:58.87,0:12:59.99,Default,,0,0,0,,I see, your name's Heixiu!
-Dialogue: 0,0:13:09.55,0:13:10.41,Default,,0,0,0,,Xiaohuang!
-Dialogue: 0,0:13:13.72,0:13:15.49,Default,,0,0,0,,Xiaohuang!
-Dialogue: 0,0:13:18.42,0:13:20.15,Default,,0,0,0,,Come down, Xiaohuang!
+Dialogue: 0,0:13:09.55,0:13:10.41,Default,,0,0,0,,Huangshou!
+Dialogue: 0,0:13:13.72,0:13:15.49,Default,,0,0,0,,Huangshou!
+Dialogue: 0,0:13:18.42,0:13:20.15,Default,,0,0,0,,Come down, Huangshou!
 Dialogue: 0,0:13:20.17,0:13:21.15,Default,,0,0,0,,Be a good kitty!
 Dialogue: 0,0:13:21.17,0:13:22.37,Default,,0,0,0,,Come down!
-Dialogue: 0,0:13:22.83,0:13:23.83,Default,,0,0,0,,Xiaohuang!
+Dialogue: 0,0:13:22.83,0:13:23.83,Default,,0,0,0,,Huangshou!
 Dialogue: 0,0:13:26.23,0:13:26.97,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:13:27.93,0:13:29.24,Default,,0,0,0,,Please, bring him back!
 Dialogue: 0,0:14:13.60,0:14:14.74,Default,,0,0,0,,Hello?
@@ -212,7 +212,7 @@ Dialogue: 0,0:14:27.18,0:14:28.35,Default,,0,0,0,,First class product!
 Dialogue: 0,0:14:28.37,0:14:29.08,Default,,0,0,0,,Only 5 gold-
 Dialogue: 0,0:14:33.64,0:14:34.94,Default,,0,0,0,,What happened?
 Dialogue: 0,0:14:35.59,0:14:36.64,Default,,0,0,0,,No idea.
-Dialogue: 0,0:14:39.64,0:14:40.23,Default,,0,0,0,,Xiaohuang...
+Dialogue: 0,0:14:39.64,0:14:40.23,Default,,0,0,0,,Huangshou...
 Dialogue: 0,0:14:42.79,0:14:43.47,Default,,0,0,0,,He's in heat...
 Dialogue: 0,0:15:13.68,0:15:14.93,Default,,0,0,0,,You two can't procreate.
 Dialogue: 0,0:15:52.83,0:15:54.05,Default,,0,0,0,,From this day on,

@@ -16,6 +16,9 @@ Style: Title 2,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00B46B99,&H00B46B99,-1,-1,
 Style: Title 3,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00B6A96E,&H00B6A96E,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
 Style: Ending Song - English,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,3.5,0,2,50,50,25,1
 Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,3.5,0,9,59,50,25,1
+Style: Fish,Gandhi Sans,80,&H00FFFFFF,&H0000FFFF,&H00F4F892,&H00000000,0,0,0,0,100,100,0,0,1,10.0,0,2,10,10,10,1
+Style: BG - Fish,Arial,20,&H00F4FB93,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: BG - Manga,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -253,8 +256,86 @@ Dialogue: 0,0:11:03.54,0:11:04.84,Default,,0,0,0,,{\fad(200,300)\pos(912,890)}Ki
 Dialogue: 1,0:11:04.84,0:11:07.05,Default,,0,0,0,,{\fad(200,200)\pos(904,896)}Milk
 Dialogue: 1,0:11:04.43,0:11:05.40,Default,,0,0,0,,Are you all right?
 Dialogue: 1,0:11:18.05,0:11:19.03,Default,,0,0,0,,See you out there.
-Dialogue: 1,0:11:21.65,0:11:22.36,Default,,0,0,0,,{\fad(100,200)\fs60\pos(378,284)}Settings
-Dialogue: 1,0:11:22.31,0:11:23.44,Default,,0,0,0,,{\fad(200,200)\fs60\pos(396,466)}Exit
+Dialogue: 0,0:11:21.38,0:11:21.45,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 2.1 319.3 l 126.4 289.3 l 225 293.6 l 315 327.9 l 308.6 488.6 l 180 510 l 4.3 495{\p0}
+Dialogue: 0,0:11:21.45,0:11:21.54,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 204.1 327.7 l 224.9 319.3 l 330.7 298.5 l 368.2 296.9 l 429.4 305.1 l 510.7 327.9 l 514 333.8 l 514.7 388 l 519.4 479.4 l 507 494.2 l 480 501.6 l 380.9 512.8 l 377.7 512.9 l 355.6 513 l 228.8 497.8 l 201.4 487.5 l 186.9 460.6 l 184.5 457.1 l 183.2 358.2{\p0}
+Dialogue: 0,0:11:21.54,0:11:21.62,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 204.5 349.7 l 259.6 321.5 l 308.9 311.8 l 404.6 300.7 l 510.7 321.8 l 544.5 335.5 l 550.4 398.2 l 565.6 471.2 l 564.3 484.8 l 514.6 502.7 l 468.5 508.5 l 391 513.8 l 287.6 501.6 l 266.4 493.9 l 214.7 448.9 l 202.2 351.9{\p0}
+Dialogue: 0,0:11:21.62,0:11:21.99,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 202.4 349.3 l 250 323.2 l 311.6 313.6 l 395.3 301.8 l 514.7 324.8 l 539.7 330.7 l 540.6 394.5 l 554.2 474.3 l 555.6 486 l 506.3 505 l 451.2 510.2 l 382.5 515.9 l 262.1 498.7 l 254.5 497.2 l 198.4 455.4 l 192.8 355.2{\p0}
+Dialogue: 0,0:11:21.99,0:11:22.12,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 190.7 355.7 l 195 456.4 l 252.9 497.1 l 381.4 516.4 l 505.7 505.7 l 555 486.4 l 540 394.3 l 540 330 l 394.3 302.1 l 248.6 323.6{\p0}
+Dialogue: 0,0:11:22.12,0:11:22.20,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 198.3 332.9 l 210.1 448.3 l 296.1 488.7 l 381.2 498 l 471 491 l 549.7 468.2 l 539.9 391.8 l 535.4 313.1 l 406.4 292.7 l 254.9 304.2{\p0}
+Dialogue: 0,0:11:22.20,0:11:22.29,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 202.7 321.2 l 219.2 445.2 l 320.5 484.4 l 381.5 480.3 l 453.8 482.4 l 546.8 458.6 l 532.3 304.6 l 413.5 289.1 l 257.5 295.3{\p0}
+Dialogue: 0,0:11:22.29,0:11:22.37,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 201.6 356.3 l 224.4 482.4 l 273 465.8 l 341.2 448.3 l 433.1 452.4 l 475.5 457.6 l 544.7 470 l 538.5 333.6 l 405.2 287.1 l 270.9 302.6{\p0}
+Dialogue: 0,0:11:22.37,0:11:22.58,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 205.6 373 l 208.4 473.5 l 223.3 472.3 l 258 460.8 l 307.8 447.7 l 331.6 442.6 l 409.2 440.7 l 419.2 441.3 l 460.9 449.5 l 524 455.4 l 526.2 454.7 l 546.7 346.7 l 533.9 338.9 l 428.3 310.1 l 425.5 310.3 l 373.6 314.8 l 290.5 330.9{\p0}
+Dialogue: 0,0:11:22.58,0:11:22.70,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 196.8 358.9 l 193.7 360.2 l 217.2 448.1 l 222.8 462.9 l 309.5 444.4 l 350.8 435.1 l 412 432.6 l 462.7 440.6 l 528.9 449.8 l 529.6 444.2 l 535.8 346 l 535.4 324.2 l 433.1 309.3 l 372.4 302.2 l 293.4 327{\p0}
+Dialogue: 0,0:11:22.70,0:11:22.75,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 193 358.4 l 223.1 462.6 l 310.1 444.5 l 351.4 435 l 412.6 432.4 l 463.4 441 l 529.7 450.5 l 535.7 323.1 l 372.1 300.7{\p0}
+Dialogue: 0,0:11:22.75,0:11:23.08,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 193.3 351.2 l 212.1 472.6 l 285.6 451.1 l 348.1 441.7 l 416 437.9 l 470.4 450.4 l 533.5 459.3 l 536.3 321.3 l 374.5 296.6{\p0}
+Dialogue: 0,0:11:23.08,0:11:23.20,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 192.9 477.9 l 244.3 460.7 l 338.6 441.4 l 415.7 437.1 l 477.9 445.7 l 533.6 460.7 l 540 321.4 l 383.6 302.1 l 195 349.3{\p0}
+Dialogue: 0,0:11:23.20,0:11:23.25,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 216.7 450.3 l 220.8 466.1 l 321.6 443.2 l 346.5 440 l 391.2 440.9 l 437.8 443 l 522 460.5 l 533.1 345.3 l 524.8 339.2 l 464.6 302.1 l 399.8 306.3 l 315.2 313.4 l 233.1 323.3 l 222.6 336.5 l 202.3 365.6{\p0}
+Dialogue: 0,0:11:23.25,0:11:23.29,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 222.3 465.8 l 322.6 443.1 l 347.4 440 l 391.8 441 l 438.3 443.1 l 522 460.7 l 532.3 346 l 464.1 301.5 l 315.3 312.9 l 233.7 322.2 l 202.7 364.6{\p0}
+Dialogue: 0,0:11:23.29,0:11:23.33,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 450.7 484.4 l 368 452.4 l 265.7 440 l 177.9 444.1 l 131.4 363.5 l 205.8 325.3 l 341.2 303.6 l 475.5 310.8 l 503.4 351.1 l 527.2 457.6 l 500.3 485.5{\p0}
+Dialogue: 0,0:11:23.33,0:11:23.37,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 156.2 357.3 l 167.5 447.2 l 228.5 442.1 l 298.8 445.2 l 352.5 451.4 l 400.1 465.8 l 447.6 484.4 l 494.1 490.6 l 512.7 472 l 507.5 375.9 l 478.6 307.7 l 340.1 306.7 l 225.4 323.2{\p0}
+Dialogue: 0,0:11:23.37,0:11:23.41,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m -4.9 350.5 l -5.4 436 l -3.9 441.3 l 69.9 442.2 l 119 449.6 l 173.5 459.2 l 229 479 l 264.4 500.1 l 305.8 487.5 l 325.2 478.7 l 325.2 471.1 l 315.3 399.8 l 323.4 377 l 331.9 349 l 307.9 317.6 l 287.8 301.3 l 179.8 303.5 l 104.5 304.4 l 59.8 316 l -1.5 335.5{\p0}
+Dialogue: 0,0:11:23.41,0:11:23.45,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 265.7 504.1 l 231.6 480.3 l 176.8 459.6 l 73.5 442.1 l 0.1 441 l 1.2 332.5 l 107.6 301.5 l 182 302.6 l 289.5 299.5 l 335 349.1 l 312.2 398.7 l 325.7 478.2{\p0}
+Dialogue: 0,0:11:23.45,0:11:23.47,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 60 330 l 57.9 413.6 l 55.7 486.4 l 2.1 473.6 l 2.1 317.1{\p0}
+Dialogue: 0,0:11:21.38,0:11:21.45,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 1.4 696.7 l 103.1 687.8 l 160.9 662.8 l 146 599.4 l 147 538.8 l 68 530.9 l 34.6 524.3 l 2.4 515.8{\p0}
+Dialogue: 0,0:11:21.45,0:11:21.54,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 201 516.5 l 251.8 527.9 l 311.2 536.1 l 349.2 537.4 l 411.3 535.6 l 446.9 548.1 l 455.9 665.9 l 330.5 681.5 l 170.3 680.9 l 110.2 659.9 l 107.2 571.4 l 145.6 533.6{\p0}
+Dialogue: 0,0:11:21.54,0:11:21.62,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 305.2 530.8 l 357 535 l 429.1 535.2 l 487 530.7 l 534.2 522.4 l 570.7 542.1 l 571.3 582.8 l 576.7 673.7 l 483.9 683.3 l 300 672.6 l 232.8 661.7 l 211.3 621.1 l 234.6 539.1{\p0}
+Dialogue: 0,0:11:21.62,0:11:21.70,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 320.1 533.1 l 392.1 535.7 l 456.1 532.9 l 497.9 528.1 l 554.5 514.6 l 594 534.9 l 597.1 592.4 l 606.6 664.7 l 522.6 687.9 l 306.8 673.1 l 229.2 651 l 254.3 553.5{\p0}
+Dialogue: 0,0:11:21.70,0:11:21.79,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 307.5 530.8 l 373.5 534.3 l 429.6 534.7 l 477.4 529.8 l 532.5 519.4 l 580.2 526.6 l 596.4 666.5 l 442.7 688.6 l 269.1 675.3 l 219.6 637.2 l 224.2 585.7 l 266.9 533.7{\p0}
+Dialogue: 0,0:11:21.79,0:11:21.87,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 284.2 522.6 l 331.2 531.8 l 379.1 535.7 l 439 533.5 l 520.4 523.7 l 559.8 536.8 l 567.8 584.6 l 577.1 667 l 423.1 686.3 l 261.4 676.6 l 191.7 643.3 l 192.6 582.5 l 194 579 l 233.7 530{\p0}
+Dialogue: 0,0:11:21.87,0:11:22.12,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 278.8 526 l 338.4 533.4 l 388.4 535.5 l 442.4 532.8 l 519.9 525.2 l 544.4 540.3 l 555.6 590.5 l 563.5 667.1 l 419.3 683.8 l 281.1 681.5 l 186.1 658.7 l 182 584 l 218.4 539.3{\p0}
+Dialogue: 0,0:11:22.12,0:11:22.20,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 189.7 594.1 l 275.8 529.6 l 401.4 527.2 l 510.9 534.3 l 555.7 568.4 l 552.7 623.5 l 565.9 680.3 l 543.2 708.4 l 369.7 707.2 l 232.2 698.2 l 175.4 667.7{\p0}
+Dialogue: 0,0:11:22.20,0:11:22.29,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 191.3 603.8 l 215.1 582.5 l 277.8 536 l 327.7 533.2 l 403.7 532.5 l 511.3 541.1 l 536 557.9 l 556.4 577.1 l 552.4 633 l 566.9 692.4 l 556 707.8 l 544.2 719.8 l 369 720.9 l 231.4 710.5 l 204.5 697.2 l 176.6 679 l 179.5 654.5{\p0}
+Dialogue: 0,0:11:22.29,0:11:22.37,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 195.4 573.8 l 216.7 549.9 l 282.8 508.2 l 332.2 500.5 l 406.4 500 l 466.4 502.9 l 515.8 511.3 l 543.7 527.1 l 554.9 546.1 l 552.4 576 l 553.1 600 l 564.6 646.7 l 566.7 662.5 l 559 678.8 l 545.4 687.3 l 367.2 692.8 l 233.5 680.1 l 205.5 669.4 l 182.1 647.6 l 180.6 621.7{\p0}
+Dialogue: 0,0:11:22.37,0:11:22.58,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 182 609.1 l 217.8 534.9 l 339.2 486.5 l 476.2 485.9 l 552.1 509.2 l 549.1 564.2 l 567.1 636 l 564.1 669.5 l 369.1 685.6 l 208.3 664.1{\p0}
+Dialogue: 0,0:11:22.58,0:11:22.75,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 202.8 606 l 234.9 534.7 l 335.1 499.6 l 440.5 502.7 l 527.3 530.6 l 551.1 587.4 l 555.2 668 l 413.7 692.8 l 285.5 684.6 l 199.7 653.6{\p0}
+Dialogue: 0,0:11:22.75,0:11:22.83,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 189.4 605.3 l 216.8 538.8 l 228 530.5 l 305.3 488.5 l 325.3 487 l 397.3 487.9 l 500.7 499.5 l 530.9 522.5 l 548.3 541.9 l 551.2 593.7 l 571.4 661.9 l 463.6 676.6 l 411.9 681.6 l 330 686.4 l 270.3 680 l 224.8 673.2 l 188.8 651.6 l 176.2 639.1{\p0}
+Dialogue: 0,0:11:22.83,0:11:22.87,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 186.3 606 l 211.1 539.9 l 302.1 489.3 l 396.1 490.3 l 501.5 500.6 l 552.1 545.1 l 550.1 592.6 l 573.8 663.9 l 465.3 676.3 l 330 688.7 l 222.5 673.2 l 170.8 640.1{\p0}
+Dialogue: 0,0:11:22.87,0:11:23.20,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 545 516.4 l 547.4 586.4 l 563.5 658.1 l 541.4 681.5 l 355.4 687.4 l 206.5 665.9 l 173 621.1 l 177.8 541.5 l 239.4 506.2 l 360.2 485.9 l 470.8 494.3{\p0}
+Dialogue: 0,0:11:23.20,0:11:23.29,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 169.4 598.9 l 198.1 534.3 l 313.5 471.6 l 384.7 482.3 l 506.1 485.9 l 531.8 548.7 l 539 646.8 l 531.2 670.1 l 367.3 686.2 l 234.6 679.7 l 152.7 648.6{\p0}
+Dialogue: 0,0:11:23.29,0:11:23.37,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 31.4 540.8 l 147.2 482.9 l 295.7 479.3 l 397.6 506.6 l 398.3 566.9 l 417.7 641.5 l 400.5 677.4 l 244.7 686.7 l 101.2 676 l 36.6 640.8{\p0}
+Dialogue: 0,0:11:23.37,0:11:23.41,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 2.2 482.9 l 0 691.7 l 141.4 682.4 l 213.2 653.7 l 192.4 594.1 l 190.2 527.4 l 115.6 485.1{\p0}
+Dialogue: 0,0:11:23.41,0:11:23.45,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 188.3 529.7 l 191.8 674.8 l -0.1 691.2 l -0.1 478.9{\p0}
+Dialogue: 0,0:11:23.45,0:11:23.47,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 199.5 512.8 l 221.8 603.9 l 51.4 631.5 l 14.7 479.6{\p0}
+Dialogue: 1,0:11:21.39,0:11:21.45,Fish,Settings - Text,0,0,0,,{\pos(124.5,440)}Settings
+Dialogue: 1,0:11:21.45,0:11:21.54,Fish,Settings - Text,0,0,0,,{\pos(338.5,440)}Settings
+Dialogue: 1,0:11:21.54,0:11:21.62,Fish,Settings - Text,0,0,0,,{\pos(380,440)}Settings
+Dialogue: 1,0:11:21.62,0:11:22.12,Fish,Settings - Text,0,0,0,,{\pos(375,440)}Settings
+Dialogue: 1,0:11:22.12,0:11:22.20,Fish,Settings - Text,0,0,0,,{\pos(374.8,420.5)}Settings
+Dialogue: 1,0:11:22.20,0:11:22.29,Fish,Settings - Text,0,0,0,,{\pos(375,410)}Settings
+Dialogue: 1,0:11:22.29,0:11:22.37,Fish,Settings - Text,0,0,0,,{\pos(374.8,430.3)}Settings
+Dialogue: 1,0:11:22.37,0:11:22.54,Fish,Settings - Text,0,0,0,,{\pos(375,439.8)}Settings
+Dialogue: 1,0:11:22.54,0:11:22.58,Fish,Settings - Text,0,0,0,,{\pos(374.7,439.8)}Settings
+Dialogue: 1,0:11:22.58,0:11:22.66,Fish,Settings - Text,0,0,0,,{\pos(374.9,439.3)}Settings
+Dialogue: 1,0:11:22.66,0:11:22.75,Fish,Settings - Text,0,0,0,,{\pos(374.8,438.9)}Settings
+Dialogue: 1,0:11:22.75,0:11:22.83,Fish,Settings - Text,0,0,0,,{\pos(374.9,439.6)}Settings
+Dialogue: 1,0:11:22.83,0:11:23.16,Fish,Settings - Text,0,0,0,,{\pos(375,439.8)}Settings
+Dialogue: 1,0:11:23.16,0:11:23.20,Fish,Settings - Text,0,0,0,,{\pos(375,439.8)}Settings
+Dialogue: 1,0:11:23.20,0:11:23.29,Fish,Settings - Text,0,0,0,,{\pos(375,439.6)}Settings
+Dialogue: 1,0:11:23.29,0:11:23.37,Fish,Settings - Text,0,0,0,,{\pos(336.5,439.5)}Settings
+Dialogue: 1,0:11:23.37,0:11:23.43,Fish,Settings - Text,0,0,0,,{\pos(150.8,439.9)}Settings
+Dialogue: 3,0:11:21.39,0:11:21.45,Fish,Exit - Text,0,0,0,,{\pos(-52.1,630.1)}Exit
+Dialogue: 3,0:11:21.45,0:11:21.54,Fish,Exit - Text,0,0,0,,{\pos(248.7,630.3)}Exit
+Dialogue: 3,0:11:21.54,0:11:21.58,Fish,Exit - Text,0,0,0,,{\pos(369.8,630)}Exit
+Dialogue: 3,0:11:21.58,0:11:21.62,Fish,Exit - Text,0,0,0,,{\pos(370.1,630)}Exit
+Dialogue: 3,0:11:21.62,0:11:21.70,Fish,Exit - Text,0,0,0,,{\pos(400,630)}Exit
+Dialogue: 3,0:11:21.70,0:11:21.79,Fish,Exit - Text,0,0,0,,{\pos(387.4,630.2)}Exit
+Dialogue: 3,0:11:21.79,0:11:21.87,Fish,Exit - Text,0,0,0,,{\pos(368.3,630.1)}Exit
+Dialogue: 3,0:11:21.87,0:11:22.12,Fish,Exit - Text,0,0,0,,{\pos(354.7,630.1)}Exit
+Dialogue: 3,0:11:22.12,0:11:22.20,Fish,Exit - Text,0,0,0,,{\pos(354.8,656.2)}Exit
+Dialogue: 3,0:11:22.20,0:11:22.29,Fish,Exit - Text,0,0,0,,{\pos(355,669.3)}Exit
+Dialogue: 3,0:11:22.29,0:11:22.33,Fish,Exit - Text,0,0,0,,{\pos(354.7,640.5)}Exit
+Dialogue: 3,0:11:22.33,0:11:22.37,Fish,Exit - Text,0,0,0,,{\pos(354.7,640)}Exit
+Dialogue: 3,0:11:22.37,0:11:22.58,Fish,Exit - Text,0,0,0,,{\pos(354.8,630.3)}Exit
+Dialogue: 3,0:11:22.58,0:11:22.66,Fish,Exit - Text,0,0,0,,{\pos(361.5,628.8)}Exit
+Dialogue: 3,0:11:22.66,0:11:22.74,Fish,Exit - Text,0,0,0,,{\pos(365,629.3)}Exit
+Dialogue: 3,0:11:22.74,0:11:22.83,Fish,Exit - Text,0,0,0,,{\pos(357,630.2)}Exit
+Dialogue: 3,0:11:22.83,0:11:23.12,Fish,Exit - Text,0,0,0,,{\pos(354.6,630.2)}Exit
+Dialogue: 3,0:11:23.12,0:11:23.20,Fish,Exit - Text,0,0,0,,{\pos(354.7,630.1)}Exit
+Dialogue: 3,0:11:23.20,0:11:23.29,Fish,Exit - Text,0,0,0,,{\pos(334.9,630.3)}Exit
+Dialogue: 3,0:11:23.29,0:11:23.33,Fish,Exit - Text,0,0,0,,{\pos(207.1,630.4)}Exit
+Dialogue: 3,0:11:23.33,0:11:23.37,Fish,Exit - Text,0,0,0,,{\pos(205.8,629.9)}Exit
+Dialogue: 3,0:11:23.37,0:11:23.41,Fish,Exit - Text,0,0,0,,{\pos(-6.5,629.7)}Exit
+Dialogue: 3,0:11:23.41,0:11:23.44,Fish,Exit - Text,0,0,0,,{\pos(-6.7,629.7)}Exit
 Dialogue: 1,0:11:25.10,0:11:25.94,Default,,0,0,0,,What do you think?
 Dialogue: 1,0:11:27.21,0:11:28.22,Default,,0,0,0,,You're awesome!
 Dialogue: 1,0:11:28.84,0:11:30.66,Default,,0,0,0,,Didn't this just come out yesterday?
@@ -295,7 +376,7 @@ Dialogue: 1,0:13:11.67,0:13:13.34,Default,,0,0,0,,Are you talking to Xiaohei?
 Dialogue: 1,0:13:13.76,0:13:14.34,Default,,0,0,0,,Yeah.
 Dialogue: 1,0:13:14.71,0:13:16.26,Default,,0,0,0,,Keep on dreaming, girl...
 Dialogue: 1,0:13:16.77,0:13:17.97,Default,,0,0,0,,Xiaohei can understand me.
-Dialogue: 1,0:13:18.23,0:13:19.47,Default,,0,0,0,,And Xiaohuang understands me.
+Dialogue: 1,0:13:18.23,0:13:19.47,Default,,0,0,0,,And Huangshou understands me.
 Dialogue: 1,0:13:20.94,0:13:21.62,Default,,0,0,0,,Huang!
 Dialogue: 1,0:13:31.91,0:13:33.63,Default,,0,0,0,,Why are you acting so weird...
 Dialogue: 1,0:13:34.37,0:13:35.77,Default,,0,0,0,,Can he understand a lot?
@@ -330,7 +411,7 @@ Dialogue: 1,0:14:29.79,0:14:30.57,Default,,0,0,0,,I believe it.
 Dialogue: 1,0:14:31.15,0:14:32.91,Default,,0,0,0,,Xiaohei also understands Bidiu.
 Dialogue: 1,0:14:33.24,0:14:34.38,Default,,0,0,0,,He can translate for me.
 Dialogue: 1,0:14:36.77,0:14:37.87,Default,,0,0,0,,Huang, you're useless.
-Dialogue: 1,0:14:40.71,0:14:42.70,Default,,0,0,0,,Xiaohei says Xiaohuang says he's hungry.
+Dialogue: 1,0:14:40.71,0:14:42.70,Default,,0,0,0,,Xiaohei says Huangshou says he's hungry.
 Dialogue: 1,0:14:43.29,0:14:44.70,Default,,0,0,0,,You little glutton...
 Dialogue: 1,0:14:45.50,0:14:46.35,Default,,0,0,0,,Dinner's ready!
 Dialogue: 1,0:14:48.74,0:14:49.91,Default,,0,0,0,,I take it back, you're awesome.
@@ -378,9 +459,9 @@ Dialogue: 1,0:18:15.75,0:18:16.79,Default,,0,0,0,,What did you buy?
 Dialogue: 1,0:18:16.97,0:18:17.98,Default,,0,0,0,,Just a small gift.
 Dialogue: 1,0:18:18.30,0:18:19.06,Default,,0,0,0,,Xiaobai?
 Dialogue: 1,0:18:21.32,0:18:22.27,Default,,0,0,0,,Handsome guy.
-Dialogue: 1,0:18:58.04,0:19:00.94,Default - Italic,,0,0,0,,"Gate of the Living" is now available at Sector B3.
+Dialogue: 1,0:18:58.04,0:19:00.94,Default - Italic,,0,0,0,,"All Living Creatures" is now available at Sector B3.
 Dialogue: 1,0:19:01.22,0:19:03.51,Default - Italic,,0,0,0,,An ID is required to make a purchase.
-Dialogue: 1,0:19:03.51,0:19:05.00,Default - Italic,,0,0,0,,Do not use another person's name.
+Dialogue: 1,0:19:03.51,0:19:05.00,Default - Italic,,0,0,0,,Do not use another person's ID.
 Dialogue: 1,0:19:05.33,0:19:06.64,Default,,0,0,0,,I'll go stand in line.
 Dialogue: 1,0:19:06.64,0:19:07.59,Default,,0,0,0,,You go have fun.
 Dialogue: 1,0:19:07.92,0:19:08.82,Default,,0,0,0,,I'll go with you.
@@ -400,8 +481,8 @@ Dialogue: 1,0:19:27.81,0:19:28.54,Default,,0,0,0,,What's the topic?
 Dialogue: 1,0:19:28.69,0:19:29.57,Default,,0,0,0,,World politics.
 Dialogue: 1,0:19:29.97,0:19:31.19,Default,,0,0,0,,What brings you here?
 Dialogue: 1,0:19:31.63,0:19:32.69,Default,,0,0,0,,Shopping for Master Lao.
-Dialogue: 1,0:19:32.77,0:19:33.89,Default,,0,0,0,,I want to do that too.
-Dialogue: 1,0:19:34.28,0:19:36.19,Default,,0,0,0,,What a coincidence that we meet here!
+Dialogue: 1,0:19:32.77,0:19:33.89,Default,,0,0,0,,I wanted to do that too.
+Dialogue: 1,0:19:34.28,0:19:36.19,Default,,0,0,0,,What a coincidence that we ran into each other!
 Dialogue: 1,0:19:36.81,0:19:38.61,Default,,0,0,0,,I've heard your voice, so I came here.
 Dialogue: 1,0:19:40.16,0:19:40.99,Default - Italic,,0,0,0,,You come here often?
 Dialogue: 1,0:19:41.01,0:19:41.48,Default,,0,0,0,,Yes.
@@ -430,7 +511,8 @@ Dialogue: 1,0:20:23.66,0:20:24.96,Default,,0,0,0,,We even have jobs.
 Dialogue: 1,0:20:25.09,0:20:25.64,Default,,0,0,0,,You do?
 Dialogue: 1,0:20:25.70,0:20:26.22,Default,,0,0,0,,We are...
 Dialogue: 1,0:20:26.50,0:20:27.98,Default,,0,0,0,,Manhua artists!
-Dialogue: 1,0:20:27.18,0:20:27.97,Default - Italic,,0,0,0,,{\fs40\an7\pos(1606,934)}They're late\Nwith manuscripts\Non cultivation days
+Dialogue: 1,0:20:27.18,0:20:27.98,BG - Manga,,0,0,0,,{\p1}m 1515.5 903.2 b 1529.9 921.5 1544.2 939.8 1558.5 958.1 b 1566.5 980.4 1574.5 1002.7 1582.4 1025 b 1607.9 1037.8 1633.4 1050.5 1658.9 1063.3 b 1733 1063.3 1807 1063.3 1881.1 1063.3 b 1905 1050.5 1928.9 1037.8 1952.8 1025 b 1940 968.5 1927.3 912 1914.6 855.4 b 1888.3 869.7 1862 884.1 1835.7 898.4 b 1815 894.4 1794.3 890.4 1773.6 886.5 b 1768 875.3 1762.4 864.2 1756.9 853 b 1756.9 853 1659.3 874.6 1632 872.6 b 1604.6 870.6 1530.6 866.6 1530.6 866.6{\p0}
+Dialogue: 2,0:20:27.18,0:20:27.98,Default - Italic,,0,0,0,,{\fs40\an7\pos(1606,934)}{\\3c&HA482BF&}They're late\Nwith manuscripts\Non cultivation days
 Dialogue: 1,0:20:28.83,0:20:30.85,Default,,0,0,0,,I've never met a spirit who has such a job.
 Dialogue: 1,0:20:31.27,0:20:33.95,Default,,0,0,0,,So you are in fact not Lord Xuanli?
 Dialogue: 1,0:20:34.23,0:20:34.80,Default,,0,0,0,,That's right.
