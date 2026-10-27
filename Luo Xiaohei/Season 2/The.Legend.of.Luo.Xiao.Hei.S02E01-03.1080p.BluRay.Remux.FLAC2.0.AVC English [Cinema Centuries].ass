@@ -268,7 +268,7 @@ Dialogue: 0,0:11:48.83,0:11:53.84,AssaDrawWhite,,0,0,0,,{\p1}m 638.9 315.1 l 687
 Dialogue: 2,0:11:48.83,0:11:53.84,ShanxinMessage,,0,0,0,,{\c&H6A8876&\pos(1075.3,454.9)\org(1091.6,454.9)\frx1.93\fry1.15\frz-1.08\fax0.278\fscx98.25\fscy95.37}Are you sure you want to log out?
 Dialogue: 3,0:11:48.83,0:11:53.84,ShanxinMessage,,0,0,0,,{\c&H6A8876&\pos(1005.5,558.3)\org(1021.8,558.3)\frx1.93\fry1.15\frz-1.08\fax0.278\fscx98.25\fscy95.37}{\fs(50)\b1}*Your character will reappear at your current location.\NProceed with caution.
 Dialogue: 1,0:11:49.41,0:11:53.29,Default,,0,0,0,,It says you'll log back in at the same spot, so be careful.
-Dialogue: 0,0:11:55.01,0:11:59.55,Title_2,,0,0,0,,{\fad(1877,0)\pos(490,525)}All Creatures in the Game
+Dialogue: 0,0:11:55.01,0:11:59.55,Title_2,,0,0,0,,{\fad(1877,0)\pos(490,525)}All Creatures in Game
 Dialogue: 0,0:11:55.13,0:11:56.54,Default,,0,0,0,,Shanxin, are you okay?
 Dialogue: 0,0:11:56.67,0:11:59.09,Default,,0,0,0,,That was terrifying... Getting stomped to death is no joke...
 Dialogue: 0,0:11:59.92,0:12:01.76,Default,,0,0,0,,Did you guys get killed by the monster too?
