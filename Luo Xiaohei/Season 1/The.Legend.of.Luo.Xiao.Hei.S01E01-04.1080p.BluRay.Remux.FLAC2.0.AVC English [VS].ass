@@ -48,7 +48,7 @@ Dialogue: 1,0:01:19.18,0:01:25.04,FG_IntroBox,,0,0,0,,{\pos(1507,933)\fad(0,1300
 Dialogue: 1,0:01:19.18,0:01:25.04,FG_IntroBox,,0,0,0,,{\pos(1507,998)\fad(0,1300)}I'll warm your bed
 Dialogue: 0,0:01:20.79,0:01:25.04,Title 1,,0,0,0,,{\pos(362,688)\fad(1200,1300)}Meow!
 Dialogue: 0,0:01:25.32,0:01:26.22,Default,,0,0,0,,I name you...
-Dialogue: 0,0:01:26.22,0:01:27.22,Default,,0,0,0,,Xiaohei!
+Dialogue: 0,0:01:26.22,0:01:27.25,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:01:27.25,0:01:28.59,Default,,0,0,0,,You've already decided?
 Dialogue: 0,0:01:28.96,0:01:30.90,Default,,0,0,0,,I'm "Little White", he's "Little Black".
 Dialogue: 0,0:01:30.90,0:01:31.96,Default,,0,0,0,,Cute, huh?
@@ -100,7 +100,7 @@ Dialogue: 0,0:03:41.92,0:03:42.63,Default,,0,0,0,,Yes.
 Dialogue: 0,0:03:43.03,0:03:44.36,Default,,0,0,0,,So cliché...
 Dialogue: 0,0:03:44.36,0:03:47.70,Default,,0,0,0,,Would you like to come to my castle tonight?
 Dialogue: 0,0:03:47.70,0:03:49.18,Default,,0,0,0,,I must properly thank you.
-Dialogue: 0,0:03:49.18,0:03:50.10,Default,,0,0,0,,I can't go.
+Dialogue: 0,0:03:49.18,0:03:50.12,Default,,0,0,0,,I can't go.
 Dialogue: 0,0:03:50.12,0:03:51.65,Default,,0,0,0,,I have school tomorrow.
 Dialogue: 0,0:03:51.65,0:03:53.21,Default,,0,0,0,,Let us meet on the weekend, then.
 Dialogue: 0,0:03:54.91,0:03:55.79,Default,,0,0,0,,Okay...
@@ -108,10 +108,10 @@ Dialogue: 0,0:03:56.01,0:03:58.70,Default,,0,0,0,,Diting! The Sky Pearl was stol
 Dialogue: 0,0:03:58.70,0:04:00.07,Default,,0,0,0,,Do you admit your failure?
 Dialogue: 0,0:04:00.07,0:04:01.14,Default,,0,0,0,,Yes, Master.
 Dialogue: 0,0:04:01.34,0:04:04.14,Default,,0,0,0,,I will recover the Sky Pearl.
-Dialogue: 0,0:04:04.14,0:04:07.13,Default,,0,0,0,,That will be no easy task,\Nfor vast is the sea of beings.
-Dialogue: 0,0:04:07.15,0:04:09.98,Default,,0,0,0,,I wounded the culprit and made him revert to his original form.
-Dialogue: 0,0:04:10.01,0:04:11.43,Default,,0,0,0,,He should still be nearby.
-Dialogue: 0,0:04:11.45,0:04:14.24,Default,,0,0,0,,Very well. Do not return without the Pearl.
+Dialogue: 0,0:04:04.14,0:04:07.15,Default,,0,0,0,,That will be no easy task,\Nfor vast is the sea of beings.
+Dialogue: 0,0:04:07.15,0:04:10.01,Default,,0,0,0,,I wounded the culprit and made him revert to his original form.
+Dialogue: 0,0:04:10.01,0:04:11.45,Default,,0,0,0,,He should still be nearby.
+Dialogue: 0,0:04:11.45,0:04:14.26,Default,,0,0,0,,Very well. Do not return without the Pearl.
 Dialogue: 0,0:04:14.26,0:04:14.79,Default,,0,0,0,,Understood.
 Dialogue: 0,0:05:46.89,0:05:47.78,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:05:48.97,0:05:49.71,Default,,0,0,0,,Xiaohei!
@@ -129,7 +129,7 @@ Dialogue: 0,0:06:03.92,0:06:10.50,BG_Dad_S1,,0,0,0,,{\p1}m 714 450 l 770 421 783
 Dialogue: 0,0:06:03.92,0:06:10.50,BG_Dad_S1,,0,0,0,,{\p1}m 790 338 l 840 350 845 420 790 415{\p0}
 Dialogue: 0,0:06:07.19,0:06:09.66,Default,,0,0,0,,Mom, Xiaohei is eating your breakfast.
 Dialogue: 0,0:06:10.86,0:06:12.43,Default,,0,0,0,,Looks like he won't eat cat food.
-Dialogue: 0,0:06:12.67,0:06:14.32,Default,,0,0,0,,Good thing I haven't bought any yet.
+Dialogue: 0,0:06:12.67,0:06:14.34,Default,,0,0,0,,Good thing I haven't bought any yet.
 Dialogue: 0,0:06:14.34,0:06:16.03,Default,,0,0,0,,This way we can share our food with him.
 Dialogue: 0,0:06:16.89,0:06:18.35,Default,,0,0,0,,Shouldn't you be going?
 Dialogue: 0,0:06:18.35,0:06:19.69,Default,,0,0,0,,Oh no! I gotta get to school!
@@ -138,9 +138,9 @@ Dialogue: 0,0:06:49.60,0:06:50.55,Default,,0,0,0,,Thank you...
 Dialogue: 0,0:07:29.64,0:07:30.26,Default,,0,0,0,,A cat?
 Dialogue: 0,0:08:44.83,0:08:46.04,Default,,0,0,0,,I'm home!
 Dialogue: 0,0:08:46.84,0:08:47.78,Default,,0,0,0,,What?
-Dialogue: 0,0:08:47.78,0:08:49.13,Default,,0,0,0,,Xiaohei tried to run away?
-Dialogue: 0,0:08:49.15,0:08:51.33,Default,,0,0,0,,Yeah, he somehow opened the door.
-Dialogue: 0,0:08:51.36,0:08:52.67,Default,,0,0,0,,I caught him and brought him back.
+Dialogue: 0,0:08:47.78,0:08:49.15,Default,,0,0,0,,Xiaohei tried to run away?
+Dialogue: 0,0:08:49.15,0:08:51.36,Default,,0,0,0,,Yeah, he somehow opened the door.
+Dialogue: 0,0:08:51.36,0:08:52.69,Default,,0,0,0,,I caught him and brought him back.
 Dialogue: 0,0:08:52.69,0:08:55.14,Default,,0,0,0,,You should decide whether we let him go or not.
 Dialogue: 0,0:08:55.72,0:08:56.65,Default,,0,0,0,,Sure...
 Dialogue: 0,0:08:58.82,0:09:00.00,Default,,0,0,0,,Xiaohei!
@@ -149,12 +149,12 @@ Dialogue: 0,0:09:02.84,0:09:04.08,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:09:05.03,0:09:06.41,Default,,0,0,0,,Where did you go?
 Dialogue: 0,0:09:10.34,0:09:10.97,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:09:15.45,0:09:16.83,Default,,0,0,0,,Do you want to leave?
-Dialogue: 0,0:09:17.68,0:09:19.77,Default,,0,0,0,,I know, this place is full of cars and dogs...
-Dialogue: 0,0:09:19.80,0:09:21.26,Default,,0,0,0,,If you really want to leave,
+Dialogue: 0,0:09:17.68,0:09:19.80,Default,,0,0,0,,I know, this place is full of cars and dogs...
+Dialogue: 0,0:09:19.80,0:09:21.29,Default,,0,0,0,,If you really want to leave,
 Dialogue: 0,0:09:21.29,0:09:22.95,Default,,0,0,0,,I'll take you out of town this weekend.
 Dialogue: 0,0:09:26.31,0:09:26.97,Default,,0,0,0,,Okay?
-Dialogue: 0,0:09:36.92,0:09:37.76,Default,,0,0,0,,Xiaobai!
-Dialogue: 0,0:09:37.79,0:09:39.47,Default,,0,0,0,,What are you doing up there? Come down!
+Dialogue: 0,0:09:36.92,0:09:37.79,Default,,0,0,0,,Xiaobai!
+Dialogue: 0,0:09:37.79,0:09:39.49,Default,,0,0,0,,What are you doing up there? Come down!
 Dialogue: 0,0:09:39.49,0:09:40.16,Default,,0,0,0,,Sure!
 Dialogue: 0,0:10:30.35,0:10:31.31,Default,,0,0,0,,Coming!
 Dialogue: 0,0:10:31.84,0:10:33.52,Default,,0,0,0,,Hello? Hi, Shanxin!
@@ -165,7 +165,7 @@ Dialogue: 0,0:10:38.09,0:10:39.59,Default,,0,0,0,,Okay, when are you coming over
 Dialogue: 0,0:10:40.29,0:10:41.09,Default,,0,0,0,,At the door?!
 Dialogue: 0,0:10:42.18,0:10:42.68,Default,,0,0,0,,'Sup.
 Dialogue: 0,0:10:43.22,0:10:43.89,Default,,0,0,0,,Hi!
-Dialogue: 0,0:10:44.22,0:10:46.03,Default,,0,0,0,,Long time no see, Huangshou!
+Dialogue: 0,0:10:44.22,0:10:46.05,Default,,0,0,0,,Long time no see, Huangshou!
 Dialogue: 0,0:10:46.05,0:10:47.25,Default,,0,0,0,,This is for Xiaohei.
 Dialogue: 0,0:10:47.35,0:10:48.10,Default,,0,0,0,,Thanks!
 Dialogue: 0,0:10:48.10,0:10:49.42,Default,,0,0,0,,I'm sure he'll love it.
@@ -185,7 +185,7 @@ Dialogue: 0,0:11:40.54,0:11:41.32,Default,,0,0,0,,Get it?
 Dialogue: 0,0:11:42.39,0:11:43.32,Default,,0,0,0,,Catch it!
 Dialogue: 0,0:11:44.39,0:11:45.34,Default,,0,0,0,,He caught it!
 Dialogue: 0,0:11:45.42,0:11:46.27,Default,,0,0,0,,One more time!
-Dialogue: 0,0:11:47.87,0:11:49.13,Default,,0,0,0,,Xiaohei, you're awesome!
+Dialogue: 0,0:11:47.87,0:11:49.15,Default,,0,0,0,,Xiaohei, you're awesome!
 Dialogue: 0,0:11:49.15,0:11:50.14,Default,,0,0,0,,Not at all.
 Dialogue: 0,0:11:50.34,0:11:52.32,Default,,0,0,0,,The point is to do your best not to catch it.
 Dialogue: 0,0:11:52.32,0:11:53.24,Default,,0,0,0,,See?
@@ -193,9 +193,9 @@ Dialogue: 0,0:11:54.47,0:11:55.17,Default,,0,0,0,,Come!
 Dialogue: 0,0:11:56.64,0:11:58.04,Default,,0,0,0,,Is he making fun of me?
 Dialogue: 0,0:11:59.23,0:12:00.99,Default,,0,0,0,,Girls! I'm leaving for work!
 Dialogue: 0,0:12:01.32,0:12:02.05,Default,,0,0,0,,Okay!
-Dialogue: 0,0:12:06.22,0:12:08.31,Default,,0,0,0,,Of course you found an excuse again.
+Dialogue: 0,0:12:06.22,0:12:08.33,Default,,0,0,0,,Of course you found an excuse again.
 Dialogue: 0,0:12:08.33,0:12:10.31,Default,,0,0,0,,I did bring Huangshou to meet Xiaohei.
-Dialogue: 0,0:12:10.39,0:12:12.67,Default,,0,0,0,,So I end up having to take care of him.
+Dialogue: 0,0:12:10.39,0:12:12.69,Default,,0,0,0,,So I end up having to take care of him.
 Dialogue: 0,0:12:12.69,0:12:13.45,Default,,0,0,0,,Please!
 Dialogue: 0,0:12:14.39,0:12:15.80,Default,,0,0,0,,Whose side are you on this time?
 Dialogue: 0,0:12:16.47,0:12:17.63,Default,,0,0,0,,The Horde!
@@ -210,21 +210,21 @@ Dialogue: 0,0:12:57.34,0:12:58.19,Default,,0,0,0,,Heixiu!
 Dialogue: 0,0:12:58.87,0:12:59.99,Default,,0,0,0,,I see, your name's Heixiu!
 Dialogue: 0,0:13:09.55,0:13:10.41,Default,,0,0,0,,Huangshou!
 Dialogue: 0,0:13:13.72,0:13:15.49,Default,,0,0,0,,Huangshou!
-Dialogue: 0,0:13:18.42,0:13:20.15,Default,,0,0,0,,Come down, Huangshou!
-Dialogue: 0,0:13:20.17,0:13:21.15,Default,,0,0,0,,Be a good kitty!
+Dialogue: 0,0:13:18.42,0:13:20.17,Default,,0,0,0,,Come down, Huangshou!
+Dialogue: 0,0:13:20.17,0:13:21.17,Default,,0,0,0,,Be a good kitty!
 Dialogue: 0,0:13:21.17,0:13:22.37,Default,,0,0,0,,Come down!
 Dialogue: 0,0:13:22.83,0:13:23.83,Default,,0,0,0,,Huangshou!
 Dialogue: 0,0:13:26.23,0:13:26.97,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:13:27.93,0:13:29.24,Default,,0,0,0,,Please, bring him back!
-Dialogue: 0,0:14:13.60,0:14:14.74,Default,,0,0,0,,Hello?
+Dialogue: 0,0:14:13.60,0:14:14.76,Default,,0,0,0,,Hello?
 Dialogue: 0,0:14:14.76,0:14:15.66,Default,,0,0,0,,Mom?
-Dialogue: 0,0:14:16.15,0:14:17.51,Default,,0,0,0,,Yeah, I'm at Xiaobai's.
+Dialogue: 0,0:14:16.15,0:14:17.54,Default,,0,0,0,,Yeah, I'm at Xiaobai's.
 Dialogue: 0,0:14:17.54,0:14:18.97,Default,,0,0,0,,What? You're coming over?
 Dialogue: 0,0:14:19.19,0:14:20.86,Default,,0,0,0,,It's nothing. I'll see you soon.
-Dialogue: 0,0:14:22.35,0:14:23.76,Default,,0,0,0,,Huzzah, fair maiden!
-Dialogue: 0,0:14:23.78,0:14:25.88,Default,,0,0,0,,Do you want a silver scale breastplate?
-Dialogue: 0,0:14:25.91,0:14:27.15,Default,,0,0,0,,Silver scale breastplate!
-Dialogue: 0,0:14:27.18,0:14:28.35,Default,,0,0,0,,First-class product!
+Dialogue: 0,0:14:22.35,0:14:23.78,Default,,0,0,0,,Huzzah, fair maiden!
+Dialogue: 0,0:14:23.78,0:14:25.91,Default,,0,0,0,,Do you want a silver scale breastplate?
+Dialogue: 0,0:14:25.91,0:14:27.18,Default,,0,0,0,,Silver scale breastplate!
+Dialogue: 0,0:14:27.18,0:14:28.37,Default,,0,0,0,,First-class product!
 Dialogue: 0,0:14:28.37,0:14:29.08,Default,,0,0,0,,Only 5 gold-
 Dialogue: 0,0:14:33.64,0:14:34.94,Default,,0,0,0,,What happened?
 Dialogue: 0,0:14:35.59,0:14:36.64,Default,,0,0,0,,No idea.
@@ -255,7 +255,7 @@ Dialogue: 0,0:16:13.56,0:16:14.43,Default,,0,0,0,,Your school stuff?
 Dialogue: 0,0:16:14.43,0:16:15.23,Default,,0,0,0,,All done!
 Dialogue: 0,0:16:15.23,0:16:15.97,Default,,0,0,0,,Got enough socks?
 Dialogue: 0,0:16:15.97,0:16:17.07,Default,,0,0,0,,I'll wear sandals.
-Dialogue: 0,0:16:17.07,0:16:17.92,Default,,0,0,0,,Your toothbrush?
+Dialogue: 0,0:16:17.07,0:16:17.95,Default,,0,0,0,,Your toothbrush?
 Dialogue: 0,0:16:17.95,0:16:18.94,Default,,0,0,0,,I forgot that!
 Dialogue: 0,0:16:25.09,0:16:30.49,Title 4,,0,0,0,,{\pos(1401,712)\fad(1200,0)}Fly!
 Dialogue: 0,0:18:12.53,0:18:13.40,Default - Italic,,0,0,0,,Mine.
@@ -271,8 +271,8 @@ Dialogue: 0,0:19:20.00,0:19:21.20,Default,,0,0,0,,But no climbing up!
 Dialogue: 0,0:19:26.74,0:19:28.00,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:19:28.00,0:19:28.70,Default - Italic,,0,0,0,,Heixiu?
 Dialogue: 0,0:19:37.39,0:19:38.67,Default,,0,0,0,,I can't find him anywhere...
-Dialogue: 0,0:19:38.67,0:19:41.09,Default,,0,0,0,,Don't worry. He's probably playing hide-and-seek.
-Dialogue: 0,0:19:41.11,0:19:42.80,Default,,0,0,0,,But what if we never see him again?
+Dialogue: 0,0:19:38.67,0:19:41.11,Default,,0,0,0,,Don't worry. He's probably playing hide-and-seek.
+Dialogue: 0,0:19:41.11,0:19:42.83,Default,,0,0,0,,But what if we never see him again?
 Dialogue: 0,0:19:42.83,0:19:44.07,Default,,0,0,0,,It's gonna be alright.
 Dialogue: 0,0:19:45.15,0:19:45.94,Default,,0,0,0,,Xiaohei!
 Dialogue: 0,0:19:46.82,0:19:47.53,Default,,0,0,0,,Xiaohei!
