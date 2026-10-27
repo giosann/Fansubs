@@ -30,7 +30,7 @@ Dialogue: 0,0:00:11.90,0:00:14.63,Default,,0,0,0,,Couldn't you just drive them a
 Dialogue: 0,0:00:14.63,0:00:17.00,Default,,0,0,0,,I can't leave this place for a hundred years.
 Dialogue: 0,0:00:17.00,0:00:18.90,Default,,0,0,0,,Or get involved with outside affairs.
 Dialogue: 0,0:00:19.67,0:00:21.22,Default,,0,0,0,,But doesn't "this place" include Blue Creek?
-Dialogue: 0,0:00:21.65,0:00:24.06,Default,,0,0,0,,Even the mountain is off limits. I must stay in the tower.
+Dialogue: 0,0:00:21.65,0:00:24.06,Default,,0,0,0,,Even the mountain is off-limits. I must stay in the tower.
 Dialogue: 0,0:00:24.62,0:00:26.50,Default,,0,0,0,,How many years do you have left?
 Dialogue: 0,0:00:26.98,0:00:28.41,Default,,0,0,0,,Sixty, maybe seventy.
 Dialogue: 0,0:00:28.67,0:00:29.42,Default - Italic,,0,0,0,,You make your own life harder.
@@ -158,7 +158,7 @@ Dialogue: 0,0:05:35.55,0:05:36.13,Default,,0,0,0,,What?
 Dialogue: 0,0:05:38.42,0:05:39.07,Default,,0,0,0,,He's fast!
 Dialogue: 0,0:05:41.59,0:05:43.15,Default,,0,0,0,,Well, you came just in time!
 Dialogue: 0,0:05:44.19,0:05:45.86,Default,,0,0,0,,Now you look even less like a cat.
-Dialogue: 0,0:05:46.60,0:05:47.33,Default,,0,0,0,,Is Xiaobai all right?
+Dialogue: 0,0:05:46.60,0:05:47.33,Default,,0,0,0,,Is Xiaobai alright?
 Dialogue: 0,0:05:47.78,0:05:48.41,Default - Italic,,0,0,0,,Yes.
 Dialogue: 0,0:05:49.31,0:05:50.01,Default,,0,0,0,,Gen!
 Dialogue: 0,0:05:50.24,0:05:50.85,Default,,0,0,0,,Xiaobai!
@@ -209,7 +209,7 @@ Dialogue: 0,0:07:35.78,0:07:37.42,Default,,0,0,0,,I couldn't help him.
 Dialogue: 0,0:07:38.92,0:07:40.08,Default,,0,0,0,,Do you miss him?
 Dialogue: 0,0:07:42.06,0:07:43.62,Default,,0,0,0,,But he's home now.
 Dialogue: 0,0:07:43.64,0:07:45.10,Default,,0,0,0,,He must be very happy.
-Dialogue: 0,0:07:57.47,0:07:59.03,Default,,0,0,0,,Is he all right?
+Dialogue: 0,0:07:57.47,0:07:59.03,Default,,0,0,0,,Is he alright?
 Dialogue: 0,0:08:00.84,0:08:02.36,Default,,0,0,0,,He forced himself to transform.
 Dialogue: 0,0:08:02.39,0:08:03.80,Default,,0,0,0,,Added injury to injury.
 Dialogue: 0,0:08:03.80,0:08:05.24,Default,,0,0,0,,What? Is it that serious?
@@ -224,9 +224,9 @@ Dialogue: 0,0:08:17.81,0:08:19.56,Default,,0,0,0,,After all, I'm not a healer.
 Dialogue: 0,0:08:19.90,0:08:21.04,Default,,0,0,0,,I think you are.
 Dialogue: 0,0:08:22.05,0:08:22.50,Default - Italic,,0,0,0,,{\an8}Year 13 of Wuxian
 Dialogue: 0,0:08:22.05,0:08:22.50,Default - Italic,,0,0,0,,No. 239\NWhoever hunts the White-Feathered Silkie\NShall get the Silk Phoenix Elixir
-Dialogue: 0,0:08:22.49,0:08:23.80,Default - Italic,,0,0,0,,{\an1}No. 237\NThose who collect the inscriptions from all \Nthe memorial arches in town will get the Black Gold Elixir
+Dialogue: 0,0:08:22.49,0:08:23.80,Default - Italic,,0,0,0,,{\an1}No. 237\NThose who collect the inscriptions from all\Nthe memorial arches in town will get the Black Gold Elixir
 Dialogue: 0,0:08:22.49,0:08:23.80,Default - Italic,,0,0,0,,{\an9}No. 238\NThose who beat me 3 times at Gomoku\Nwill get a Laojun statue
-Dialogue: 0,0:08:25.70,0:08:26.36,Default,,0,0,0,,All right.
+Dialogue: 0,0:08:25.70,0:08:26.36,Default,,0,0,0,,Alright.
 Dialogue: 0,0:08:27.58,0:08:28.43,Default,,0,0,0,,Is he healed?
 Dialogue: 0,0:08:28.46,0:08:29.49,Default,,0,0,0,,Of course not.
 Dialogue: 0,0:08:29.89,0:08:31.16,Default,,0,0,0,,It will take about a month.
@@ -292,7 +292,7 @@ Dialogue: 0,0:10:24.04,0:10:24.88,Default,,0,0,0,,Bye!
 Dialogue: 0,0:10:39.82,0:10:40.50,Default,,0,0,0,,Here we are.
 Dialogue: 0,0:10:46.23,0:10:47.65,Default,,0,0,0,,We teleported!
 Dialogue: 0,0:10:47.70,0:10:48.93,Default,,0,0,0,,It has a cool-down.
-Dialogue: 0,0:10:48.93,0:10:50.08,Default,,0,0,0,,Try not to over use it.
+Dialogue: 0,0:10:48.93,0:10:50.08,Default,,0,0,0,,Try not to overuse it.
 Dialogue: 0,0:10:55.60,0:10:57.93,Default,,0,0,0,,Are we... in the mountains?
 Dialogue: 0,0:10:58.18,0:10:58.72,Default,,0,0,0,,Yes.
 Dialogue: 0,0:10:59.01,0:11:00.64,Default,,0,0,0,,The house is still flooded,
@@ -328,7 +328,7 @@ Dialogue: 0,0:12:33.07,0:12:34.42,Default - Italic,,0,0,0,,Don't you worry about
 Dialogue: 0,0:12:34.53,0:12:35.33,Default,,0,0,0,,I do.
 Dialogue: 0,0:12:36.59,0:12:37.23,Default,,0,0,0,,But...
 Dialogue: 0,0:12:38.28,0:12:40.12,Default,,0,0,0,,They care about each other
-Dialogue: 0,0:12:40.25,0:12:41.62,Default,,0,0,0,,and that should be cherished. 
+Dialogue: 0,0:12:40.25,0:12:41.62,Default,,0,0,0,,and that should be cherished.
 Dialogue: 0,0:12:42.02,0:12:42.96,Default - Italic,,0,0,0,,Don't get lost again!
 Dialogue: 0,0:12:56.06,0:12:57.36,Default,,0,0,0,,You want me to leave here?
 Dialogue: 0,0:12:58.33,0:12:59.55,Default,,0,0,0,,This is your wish?
@@ -356,7 +356,7 @@ Dialogue: 0,0:13:47.89,0:13:49.02,Default - Italic,,0,0,0,,It's not meant for th
 Dialogue: 0,0:13:50.73,0:13:52.00,Default,,0,0,0,,You got used to it quick.
 Dialogue: 0,0:13:51.16,0:13:56.13,Title 3,,0,0,0,,{\pos(1478,549)}{\fad(1600,0)}Spirit Force
 Dialogue: 0,0:13:52.58,0:13:54.49,Default,,0,0,0,,Xiaohei, how's your wound?
-Dialogue: 0,0:13:54.67,0:13:55.50,Default - Italic,,0,0,0,,It's all right.
+Dialogue: 0,0:13:54.67,0:13:55.50,Default - Italic,,0,0,0,,It's alright.
 Dialogue: 0,0:14:05.74,0:14:06.64,Default,,0,0,0,,Grandpa!
 Dialogue: 0,0:14:08.63,0:14:09.57,Default,,0,0,0,,Welcome back!
 Dialogue: 0,0:14:11.05,0:14:12.08,Default,,0,0,0,,You brought Bidiu too?
@@ -398,7 +398,7 @@ Dialogue: 0,0:15:22.85,0:15:24.11,Default,,0,0,0,,It's like the sea.
 Dialogue: 0,0:15:24.41,0:15:25.17,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:15:25.60,0:15:27.08,Default,,0,0,0,,In a few days it will be gone.
 Dialogue: 0,0:15:27.25,0:15:28.95,Default,,0,0,0,,Luckily, the harvest is already over.
-Dialogue: 0,0:15:34.59,0:15:37.25,Default,,0,0,0,,Tomorrow we'll start training Bidiu about what he can eat.
+Dialogue: 0,0:15:34.59,0:15:37.25,Default,,0,0,0,,Tomorrow we'll start teaching Bidiu what he can eat.
 Dialogue: 0,0:15:39.09,0:15:40.55,Default,,0,0,0,,Bidiu, be a good boy!
 Dialogue: 0,0:15:43.23,0:15:44.71,Default,,0,0,0,,If Bidiu's not a spirit,
 Dialogue: 0,0:15:44.71,0:15:46.33,Default,,0,0,0,,how come he can turn into a giant?
@@ -427,7 +427,7 @@ Dialogue: 0,0:16:29.86,0:16:32.31,Default,,0,0,0,,they're naturally better at co
 Dialogue: 0,0:16:33.48,0:16:35.14,Default,,0,0,0,,You remember Master Lao's realm?
 Dialogue: 0,0:16:35.91,0:16:37.81,Default,,0,0,0,,Spirit space is the key to spirit force.
 Dialogue: 0,0:16:37.83,0:16:40.74,Default,,0,0,0,,By cultivation, attributes of the spirit space can be changed.
-Dialogue: 0,0:16:40.97,0:16:43.88,Default,,0,0,0,,And those who have no spirit space, they can't even do that?
+Dialogue: 0,0:16:40.97,0:16:43.88,Default,,0,0,0,,And those who have no spirit space can't even do that?
 Dialogue: 0,0:16:44.03,0:16:45.40,Default,,0,0,0,,Every living thing has one.
 Dialogue: 0,0:16:45.64,0:16:48.01,Default,,0,0,0,,We absorb sprites with every breath.
 Dialogue: 0,0:16:49.12,0:16:51.74,Default,,0,0,0,,Then how come I don't know anyone else like you?
@@ -436,7 +436,7 @@ Dialogue: 0,0:16:55.78,0:16:56.24,Default,,0,0,0,,Here.
 Dialogue: 0,0:16:57.40,0:16:58.07,Default,,0,0,0,,Wow, cool!
 Dialogue: 0,0:16:58.71,0:17:01.60,Default,,0,0,0,,If a human spends decades mastering ice magic,
 Dialogue: 0,0:17:01.60,0:17:03.04,Default,,0,0,0,,this is the level they can reach.
-Dialogue: 0,0:17:03.31,0:17:04.65,Default,,0,0,0,,But an ice type spirit
+Dialogue: 0,0:17:03.31,0:17:04.65,Default,,0,0,0,,But an ice-type spirit
 Dialogue: 0,0:17:04.90,0:17:06.88,Default,,0,0,0,,is capable of much more from its birth.
 Dialogue: 0,0:17:07.07,0:17:09.12,Default,,0,0,0,,In the past, very few people reached that level.
 Dialogue: 0,0:17:09.14,0:17:11.08,Default,,0,0,0,,Let alone the people today.
@@ -455,14 +455,14 @@ Dialogue: 0,0:17:34.72,0:17:35.91,Default,,0,0,0,,It's an icy hell.
 Dialogue: 0,0:17:37.03,0:17:38.96,Default,,0,0,0,,And how big is Laojun's space?
 Dialogue: 0,0:17:38.98,0:17:40.45,Default,,0,0,0,,Is there more than just what we saw?
 Dialogue: 0,0:17:40.57,0:17:42.75,Default,,0,0,0,,In fact it's just the size of Blue Creek.
-Dialogue: 0,0:17:42.91,0:17:43.97,Default,,0,0,0,,What about Mt. Laojun?
+Dialogue: 0,0:17:42.91,0:17:43.97,Default,,0,0,0,,What about Mount Laojun?
 Dialogue: 0,0:17:44.17,0:17:45.37,Default,,0,0,0,,Isn't it in the space?
 Dialogue: 0,0:17:45.71,0:17:46.91,Default,,0,0,0,,On the back of Blue Creek.
 Dialogue: 0,0:17:47.04,0:17:47.79,Default,,0,0,0,,What?!
 Dialogue: 0,0:17:48.24,0:17:50.01,Default,,0,0,0,,Imagine the spirit space is a sphere.
 Dialogue: 0,0:17:50.24,0:17:52.08,Default,,0,0,0,,Blue Creek is on one side of the sphere.
 Dialogue: 0,0:17:52.26,0:17:53.55,Default,,0,0,0,,Under it is Starry Night Lake.
-Dialogue: 0,0:17:53.69,0:17:54.71,Default,,0,0,0,,Mt. Laojun is here.
+Dialogue: 0,0:17:53.69,0:17:54.71,Default,,0,0,0,,Mount Laojun is here.
 Dialogue: 0,0:17:55.03,0:17:56.50,Default,,0,0,0,,In between are the four palaces.
 Dialogue: 0,0:17:56.85,0:17:58.95,Default,,0,0,0,,By the physical laws defined by Master Lao,
 Dialogue: 0,0:17:58.95,0:18:00.70,Default,,0,0,0,,each has its own direction of gravity.
@@ -515,13 +515,13 @@ Dialogue: 0,0:19:57.17,0:20:03.37,Ending Song - English,,0,0,0,,I’ll carry it 
 Dialogue: 0,0:19:57.17,0:20:03.37,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:20:03.37,0:20:09.52,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
 Dialogue: 0,0:20:03.37,0:20:09.52,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
-Dialogue: 0,0:20:09.52,0:20:14.32,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
+Dialogue: 0,0:20:09.52,0:20:14.32,Ending Song - English,,0,0,0,,Even if our first "hello" is a little awkward
 Dialogue: 0,0:20:09.52,0:20:14.32,Ending Song - Romaji,,0,0,0,,Hajimemashite wa gikochinaku temo
 Dialogue: 0,0:20:14.32,0:20:19.00,Ending Song - English,,0,0,0,,When we open the boxes we’ve brought
 Dialogue: 0,0:20:14.32,0:20:19.00,Ending Song - Romaji,,0,0,0,,Mochiyotta hako aketara
 Dialogue: 0,0:20:19.00,0:20:25.52,Ending Song - English,,0,0,0,,Let’s share the dreams we’ve packed inside
 Dialogue: 0,0:20:19.00,0:20:25.52,Ending Song - Romaji,,0,0,0,,Tsumekon da yume wo wakeaou
-Dialogue: 0,0:20:25.52,0:20:36.84,Ending Song - English,,0,0,0,,The days when we can casually say “See you tomorrow”
+Dialogue: 0,0:20:25.52,0:20:36.84,Ending Song - English,,0,0,0,,The days when we can casually say "See you tomorrow"
 Dialogue: 0,0:20:25.52,0:20:36.84,Ending Song - Romaji,,0,0,0,,Mata ashita tte atarimae ni kawaseru hibi ga
 Dialogue: 0,0:20:36.84,0:20:42.26,Ending Song - English,,0,0,0,,Are so precious and so fleeting
 Dialogue: 0,0:20:36.84,0:20:42.26,Ending Song - Romaji,,0,0,0,,Itoshikute hakanasugite

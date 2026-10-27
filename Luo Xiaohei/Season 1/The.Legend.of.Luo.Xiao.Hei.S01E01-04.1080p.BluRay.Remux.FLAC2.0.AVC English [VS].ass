@@ -90,7 +90,7 @@ Dialogue: 0,0:03:51.65,0:03:53.21,Default,,0,0,0,,Let us meet on the weekend, th
 Dialogue: 0,0:03:54.91,0:03:55.79,Default,,0,0,0,,Okay...
 Dialogue: 0,0:03:56.01,0:03:58.70,Default,,0,0,0,,Diting! The Sky Pearl was stolen.
 Dialogue: 0,0:03:58.70,0:04:00.07,Default,,0,0,0,,Do you admit your failure?
-Dialogue: 0,0:04:00.07,0:04:01.14,Default,,0,0,0,,Yes, master.
+Dialogue: 0,0:04:00.07,0:04:01.14,Default,,0,0,0,,Yes, Master.
 Dialogue: 0,0:04:01.34,0:04:04.14,Default,,0,0,0,,I will recover the Sky Pearl.
 Dialogue: 0,0:04:04.14,0:04:07.13,Default,,0,0,0,,Easier said than done,\Nfor vast is the sea of beings.
 Dialogue: 0,0:04:07.15,0:04:09.98,Default,,0,0,0,,I wounded the culprit and made him revert to his original form.
@@ -141,7 +141,7 @@ Dialogue: 0,0:09:36.92,0:09:37.76,Default,,0,0,0,,Xiaobai!
 Dialogue: 0,0:09:37.79,0:09:39.47,Default,,0,0,0,,What are you doing up there? Come down!
 Dialogue: 0,0:09:39.49,0:09:40.16,Default,,0,0,0,,Sure!
 Dialogue: 0,0:10:30.35,0:10:31.31,Default,,0,0,0,,Coming!
-Dialogue: 0,0:10:31.84,0:10:33.52,Default,,0,0,0,,Hello? Hi, Shan Xin!
+Dialogue: 0,0:10:31.84,0:10:33.52,Default,,0,0,0,,Hello? Hi, Shanxin!
 Dialogue: 0,0:10:34.26,0:10:35.38,Default,,0,0,0,,Yeah, sure.
 Dialogue: 0,0:10:35.51,0:10:41.35,Title 3,,0,0,0,,{\fad(1200,0)}{\pos(1242,680)}Hey!
 Dialogue: 0,0:10:36.31,0:10:37.54,Default,,0,0,0,,You wanna see Xiaohei?
@@ -153,7 +153,7 @@ Dialogue: 0,0:10:44.22,0:10:46.03,Default,,0,0,0,,Long time no see, Huangshou!
 Dialogue: 0,0:10:46.05,0:10:47.25,Default,,0,0,0,,This is for Xiaohei.
 Dialogue: 0,0:10:47.35,0:10:48.10,Default,,0,0,0,,Thanks!
 Dialogue: 0,0:10:48.10,0:10:49.42,Default,,0,0,0,,I'm sure he'll love it.
-Dialogue: 0,0:10:49.85,0:10:50.87,Default,,0,0,0,,Hello, Shan Xin.
+Dialogue: 0,0:10:49.85,0:10:50.87,Default,,0,0,0,,Hello, Shanxin.
 Dialogue: 0,0:10:51.37,0:10:52.25,Default,,0,0,0,,Hello, Mrs. Luo.
 Dialogue: 0,0:10:52.32,0:10:54.30,Default,,0,0,0,,I'll be cleaning here, go have fun.
 Dialogue: 0,0:10:54.30,0:10:54.87,Default,,0,0,0,,Okay.
@@ -208,7 +208,7 @@ Dialogue: 0,0:14:19.19,0:14:20.86,Default,,0,0,0,,Nothing. I'll see you soon.
 Dialogue: 0,0:14:22.35,0:14:23.76,Default,,0,0,0,,Huzzah, fair maiden!
 Dialogue: 0,0:14:23.78,0:14:25.88,Default,,0,0,0,,Do you want a silver scale breastplate?
 Dialogue: 0,0:14:25.91,0:14:27.15,Default,,0,0,0,,Silver scale breastplate!
-Dialogue: 0,0:14:27.18,0:14:28.35,Default,,0,0,0,,First class product!
+Dialogue: 0,0:14:27.18,0:14:28.35,Default,,0,0,0,,First-class product!
 Dialogue: 0,0:14:28.37,0:14:29.08,Default,,0,0,0,,Only 5 gold-
 Dialogue: 0,0:14:33.64,0:14:34.94,Default,,0,0,0,,What happened?
 Dialogue: 0,0:14:35.59,0:14:36.64,Default,,0,0,0,,No idea.
@@ -278,13 +278,13 @@ Dialogue: 0,0:20:42.15,0:20:48.35,Ending Song - English,,0,0,0,,I’ll carry it 
 Dialogue: 0,0:20:42.15,0:20:48.35,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:20:48.35,0:20:54.50,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
 Dialogue: 0,0:20:48.35,0:20:54.50,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
-Dialogue: 0,0:20:54.50,0:20:59.30,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
+Dialogue: 0,0:20:54.50,0:20:59.30,Ending Song - English,,0,0,0,,Even if our first "hello" is a little awkward
 Dialogue: 0,0:20:54.50,0:20:59.30,Ending Song - Romaji,,0,0,0,,Hajimemashite wa gikochinaku temo
 Dialogue: 0,0:20:59.30,0:21:03.98,Ending Song - English,,0,0,0,,When we open the boxes we’ve brought
 Dialogue: 0,0:20:59.30,0:21:03.98,Ending Song - Romaji,,0,0,0,,Mochiyotta hako aketara
 Dialogue: 0,0:21:03.98,0:21:10.50,Ending Song - English,,0,0,0,,Let’s share the dreams we’ve packed inside
 Dialogue: 0,0:21:03.98,0:21:10.50,Ending Song - Romaji,,0,0,0,,Tsumekon da yume wo wakeaou
-Dialogue: 0,0:21:10.50,0:21:21.82,Ending Song - English,,0,0,0,,The days when we can casually say “See you tomorrow”
+Dialogue: 0,0:21:10.50,0:21:21.82,Ending Song - English,,0,0,0,,The days when we can casually say "See you tomorrow"
 Dialogue: 0,0:21:10.50,0:21:21.82,Ending Song - Romaji,,0,0,0,,Mata ashita tte atarimae ni kawaseru hibi ga
 Dialogue: 0,0:21:21.82,0:21:27.24,Ending Song - English,,0,0,0,,Are so precious and so fleeting
 Dialogue: 0,0:21:21.82,0:21:27.24,Ending Song - Romaji,,0,0,0,,Itoshikute hakanasugite

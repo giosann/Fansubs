@@ -49,10 +49,10 @@ Dialogue: 1,0:00:42.61,0:00:43.12,Default - Italic,,0,0,0,,Sure.
 Dialogue: 1,0:00:45.58,0:00:46.29,Default - Italic,,0,0,0,,Before I forget.
 Dialogue: 1,0:00:46.73,0:00:47.65,Default - Italic,,0,0,0,,Can you lend me some clothes?
 Dialogue: 1,0:00:48.16,0:00:49.23,Default - Italic,,0,0,0,,My clothes didn't survive
-Dialogue: 1,0:00:49.43,0:00:50.18,Default - Italic,,0,0,0,,when I reverted
+Dialogue: 1,0:00:49.43,0:00:50.18,Default - Italic,,0,0,0,,when I reverted.
 Dialogue: 1,0:00:51.19,0:00:51.80,Default,,0,0,0,,Sure, I can.
-Dialogue: 1,0:00:54.16,0:00:57.89,Default - Italic,,0,0,0,,{\an8}Early today morning, an aircraft of\NMT Airlines crashed in Longyou City.
-Dialogue: 1,0:00:58.40,0:01:01.65,Default - Italic,,0,0,0,,{\an8}The passengers were discovered on roofs of houses near the site.
+Dialogue: 1,0:00:54.16,0:00:57.89,Default - Italic,,0,0,0,,{\an8}Early this morning, an MT Airlines\Naircraft crashed in Longyou City.
+Dialogue: 1,0:00:58.40,0:01:01.65,Default - Italic,,0,0,0,,{\an8}The passengers were discovered on the roofs of houses near the site.
 Dialogue: 1,0:00:58.73,0:01:01.65,Title,,0,0,0,,{\fad(1300,0)}{\pos(500,583)}The Lawful and Lawless
 Dialogue: 1,0:01:02.00,0:01:04.77,Default,,0,0,0,,The cause of the baffling phenomenon is under investigation.
 Dialogue: 1,0:01:04.97,0:01:06.86,Default,,0,0,0,,We interviewed a fortunate survivor.
@@ -62,7 +62,7 @@ Dialogue: 1,0:01:09.79,0:01:11.13,Default,,0,0,0,,I believe in God's existence.
 Dialogue: 1,0:01:11.55,0:01:12.75,Default,,0,0,0,,I thank him for saving me.
 Dialogue: 1,0:01:13.29,0:01:15.14,Default - Italic,,0,0,0,,{\an8}I will cherish my life even more.
 Dialogue: 1,0:01:14.23,0:01:15.49,Default,,0,0,0,,It must have been a spirit.
-Dialogue: 1,0:01:17.03,0:01:19.79,Default,,0,0,0,,Incidents involving spirits are\Non the news 10-20 times a year.
+Dialogue: 1,0:01:17.03,0:01:19.79,Default,,0,0,0,,Incidents involving spirits are\Non the news 10 to 20 times a year.
 Dialogue: 1,0:01:20.12,0:01:21.01,Default,,0,0,0,,So many?
 Dialogue: 1,0:01:21.20,0:01:22.11,Default,,0,0,0,,So few, actually.
 Dialogue: 1,0:01:22.28,0:01:23.59,Default,,0,0,0,,Many spirits live in seclusion.
@@ -114,7 +114,7 @@ Dialogue: 1,0:04:50.16,0:04:51.10,Default,,0,0,0,,What do you want?
 Dialogue: 1,0:04:52.00,0:04:52.76,Default - Italic,,0,0,0,,Let him go.
 Dialogue: 1,0:04:52.96,0:04:53.84,Default,,0,0,0,,Why exactly?
 Dialogue: 1,0:04:54.57,0:04:55.51,Default - Italic,,0,0,0,,Let him go.
-Dialogue: 1,0:04:59.85,0:05:00.43,Default,,0,0,0,,All right.
+Dialogue: 1,0:04:59.85,0:05:00.43,Default,,0,0,0,,Alright.
 Dialogue: 1,0:05:00.61,0:05:02.03,Default,,0,0,0,,I can do that much for you.
 Dialogue: 1,0:05:02.40,0:05:04.69,Default,,0,0,0,,It's rare to meet one of my own kind.
 Dialogue: 1,0:05:08.17,0:05:09.60,Default,,0,0,0,,But tell me, little fellow,
@@ -132,7 +132,7 @@ Dialogue: 1,0:05:32.27,0:05:35.34,Default,,0,0,0,,But I have no intention to bec
 Dialogue: 1,0:05:36.30,0:05:37.65,Default,,0,0,0,,I'll try to avoid you.
 Dialogue: 1,0:05:38.81,0:05:40.61,Default,,0,0,0,,Let's not meet again, kitten!
 Dialogue: 1,0:05:59.90,0:06:00.92,Default,,0,0,0,,Daddy!
-Dialogue: 1,0:06:02.22,0:06:05.03,Default - Italic,,0,0,0,,{\an8}Daddy, are you all right? Daddy!
+Dialogue: 1,0:06:02.22,0:06:05.03,Default - Italic,,0,0,0,,{\an8}Daddy, are you alright? Daddy!
 Dialogue: 1,0:06:05.17,0:06:06.13,Default - Italic,,0,0,0,,{\an8}Daddy!
 Dialogue: 1,0:06:20.70,0:06:21.31,Default,,0,0,0,,Xiaohei.
 Dialogue: 1,0:06:22.14,0:06:23.46,Default,,0,0,0,,What are you doing up there?
@@ -174,7 +174,7 @@ Dialogue: 1,0:10:26.73,0:10:28.18,Default,,0,0,0,,Now he's sound asleep.
 Dialogue: 1,0:10:28.85,0:10:30.11,Default,,0,0,0,,Maybe he's just tired?
 Dialogue: 1,0:10:36.23,0:10:37.08,Default,,0,0,0,,What do we do now?
 Dialogue: 1,0:10:40.58,0:10:41.52,Default,,0,0,0,,Have a cup!
-Dialogue: 1,0:11:04.22,0:11:05.88,Default,,0,0,0,,Don't worry, he'll be all right.
+Dialogue: 1,0:11:04.22,0:11:05.88,Default,,0,0,0,,Don't worry, he'll be alright.
 Dialogue: 1,0:11:11.84,0:11:12.48,Default,,0,0,0,,No!!
 Dialogue: 1,0:11:23.43,0:11:24.59,Default,,0,0,0,,This is not good...
 Dialogue: 1,0:11:34.91,0:11:35.91,Default,,0,0,0,,Stay here for a while.
@@ -211,7 +211,7 @@ Dialogue: 1,0:14:56.11,0:14:58.35,Default,,0,0,0,,How come your hair is white?
 Dialogue: 1,0:14:58.73,0:14:59.82,Default,,0,0,0,,Oh, yeah, my hair.
 Dialogue: 1,0:15:00.02,0:15:01.22,Default,,0,0,0,,It used to be black.
 Dialogue: 1,0:15:02.38,0:15:04.45,Default,,0,0,0,,So, you really are older than Grandpa?
-Dialogue: 1,0:15:04.65,0:15:06.45,Default,,0,0,0,,No, no. I'm 10 years old too.
+Dialogue: 1,0:15:04.65,0:15:06.45,Default,,0,0,0,,No, no. I'm ten years old too.
 Dialogue: 1,0:15:07.16,0:15:08.16,Default,,0,0,0,,When's your birthday?
 Dialogue: 1,0:15:08.39,0:15:09.97,Default,,0,0,0,,Around November 1st.
 Dialogue: 1,0:15:10.77,0:15:13.12,Default,,0,0,0,,You're younger than me! You could be my little brother.
@@ -273,7 +273,7 @@ Dialogue: 1,0:17:36.99,0:17:38.18,Default,,0,0,0,,Man-eater?
 Dialogue: 1,0:17:38.27,0:17:38.80,Default,,0,0,0,,Yes.
 Dialogue: 1,0:17:39.16,0:17:41.54,Default,,0,0,0,,Even we can't prohibit their kind from hunting.
 Dialogue: 1,0:17:42.01,0:17:44.73,Default,,0,0,0,,We can only restrict their permits to "evil people".
-Dialogue: 1,0:17:45.08,0:17:48.50,Default,,0,0,0,,Those who they hunt down must be brought here so we can examine them.
+Dialogue: 1,0:17:45.08,0:17:48.50,Default,,0,0,0,,Those whom they hunt down must be brought here so we can examine them.
 Dialogue: 1,0:17:48.74,0:17:50.83,Default,,0,0,0,,Can't they just eat other food?
 Dialogue: 1,0:17:51.29,0:17:53.31,Default,,0,0,0,,No. They're like blood eaters.
 Dialogue: 1,0:17:53.49,0:17:56.10,Default,,0,0,0,,They can only get nutrition from a specific food.
@@ -333,10 +333,10 @@ Dialogue: 0,0:20:17.49,0:20:22.23,Ending Song - English,,0,0,0,,Our destination 
 Dialogue: 0,0:20:22.23,0:20:26.93,Ending Song - English,,0,0,0,,But with the scent of flowers in both hands
 Dialogue: 0,0:20:26.93,0:20:33.13,Ending Song - English,,0,0,0,,I’ll carry it to the you I’ve yet to meet
 Dialogue: 0,0:20:33.13,0:20:39.28,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
-Dialogue: 0,0:20:39.28,0:20:44.08,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
+Dialogue: 0,0:20:39.28,0:20:44.08,Ending Song - English,,0,0,0,,Even if our first "hello" is a little awkward
 Dialogue: 0,0:20:44.08,0:20:48.76,Ending Song - English,,0,0,0,,When we open the boxes we’ve brought
 Dialogue: 0,0:20:48.76,0:20:55.28,Ending Song - English,,0,0,0,,Let’s share the dreams we’ve packed inside
-Dialogue: 0,0:20:55.28,0:21:06.60,Ending Song - English,,0,0,0,,The days when we can casually say “See you tomorrow”
+Dialogue: 0,0:20:55.28,0:21:06.60,Ending Song - English,,0,0,0,,The days when we can casually say "See you tomorrow"
 Dialogue: 0,0:21:06.60,0:21:12.02,Ending Song - English,,0,0,0,,Are so precious and so fleeting
 Dialogue: 0,0:21:12.02,0:21:17.06,Ending Song - English,,0,0,0,,Those feelings will never fade away
 Dialogue: 0,0:21:17.06,0:21:28.29,Ending Song - English,,0,0,0,,We can’t catch up to the clouds drifting across the sky
