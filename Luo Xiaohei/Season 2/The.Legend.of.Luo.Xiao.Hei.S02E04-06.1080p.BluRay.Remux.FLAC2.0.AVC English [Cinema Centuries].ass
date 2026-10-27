@@ -387,7 +387,7 @@ Dialogue: 0,0:12:45.80,0:12:46.55,Default,,0,0,0,,Huh?
 Dialogue: 0,0:12:46.68,0:12:47.39,Default,,0,0,0,,Great!
 Dialogue: 0,0:12:47.51,0:12:48.76,Default,,0,0,0,,Let's begin!
 Dialogue: 0,0:12:49.01,0:12:51.68,Default,,0,0,0,,Shanxin, you have to lie down to play.
-Dialogue: 0,0:12:49.02,0:12:53.15,Title 2,,0,0,0,,{\fad(1168,0)\pos(420,545)\fs(50)}An Uncompletable Mission
+Dialogue: 0,0:12:49.02,0:12:53.15,Title 2,,0,0,0,,{\fad(1168,0)\pos(420,545)\fs(50)}An Impossible Mission
 Dialogue: 0,0:13:14.29,0:13:16.33,Default,,0,0,0,,Hmm, this episode is so boring.
 Dialogue: 0,0:13:24.68,0:13:31.21,Title 3,,0,0,0,,{\fad(1877,0)\pos(450,585)\fs(50)}A Seemingly Successful \NGame Start
 Dialogue: 0,0:13:28.64,0:13:31.14,Default,,0,0,0,,Wow, this time it's a desert.
