@@ -57,7 +57,7 @@ Dialogue: 0,0:01:26.78,0:01:28.42,Default,,0,0,0,,Only a few are on here.
 Dialogue: 0,0:01:28.72,0:01:30.17,Default - Italic,,0,0,0,,Not exactly what I was thinking...
 Dialogue: 0,0:01:30.57,0:01:32.89,Default,,0,0,0,,The human world affects spirits quite a bit.
 Dialogue: 0,0:01:33.41,0:01:34.72,Default,,0,0,0,,This is a member-only board.
-Dialogue: 0,0:01:34.92,0:01:36.36,Default,,0,0,0,,It has about 3000 members,
+Dialogue: 0,0:01:34.92,0:01:36.36,Default,,0,0,0,,It has about 3,000 members,
 Dialogue: 0,0:01:36.55,0:01:37.55,Default,,0,0,0,,but it's quite lively.
 Dialogue: 0,0:01:37.25,0:01:37.84,ImageBoard - Title 2,,0,0,0,,{\pos(730,370)\fs(200)\frz1\frx3\fry3}BOOK OF VOWS
 Dialogue: 0,0:01:37.81,0:01:37.93,ImageBoard - Title 2,,0,0,0,,{\pos(730,360)\fs(200)\frz1\frx3\fry3}BOOK OF VOWS
@@ -189,7 +189,7 @@ Dialogue: 0,0:06:05.70,0:06:06.38,Default,,0,0,0,,He's gone?
 Dialogue: 0,0:06:07.30,0:06:09.30,Default,,0,0,0,,Why run away after catching us in his trap?
 Dialogue: 0,0:06:13.76,0:06:14.75,Default,,0,0,0,,No way...
 Dialogue: 0,0:06:23.67,0:06:24.49,Default,,0,0,0,,What happened?
-Dialogue: 0,0:07:10.00,0:07:11.06,Default,,0,0,0,,You guys shrunk...
+Dialogue: 0,0:07:10.00,0:07:11.06,Default,,0,0,0,,You guys shrank...
 Dialogue: 0,0:07:11.51,0:07:12.67,Default,,0,0,0,,It's my fault...
 Dialogue: 0,0:07:12.95,0:07:13.83,Default,,0,0,0,,It's not your fault.
 Dialogue: 0,0:07:14.06,0:07:14.91,Default,,0,0,0,,I wasn't cautious enough.
@@ -241,7 +241,7 @@ Dialogue: 0,0:08:59.12,0:08:59.78,Default,,0,0,0,,Wait for me!
 Dialogue: 0,0:09:03.18,0:09:03.85,Default - Italic,,0,0,0,,What now?
 Dialogue: 0,0:09:04.74,0:09:05.57,Default,,0,0,0,,I'll carry her.
 Dialogue: 0,0:09:07.03,0:09:08.50,Default,,0,0,0,,You're so light!
-Dialogue: 0,0:09:11.86,0:09:12.95,Default,,0,0,0,,Are you all right?
+Dialogue: 0,0:09:11.86,0:09:12.95,Default,,0,0,0,,Are you alright?
 Dialogue: 0,0:09:13.21,0:09:13.88,Default - Italic,,0,0,0,,She was light a moment ago.
 Dialogue: 0,0:09:18.19,0:09:19.63,Default,,0,0,0,,Our mass may have decreased,
 Dialogue: 0,0:09:19.63,0:09:21.62,Default,,0,0,0,,but our stamina took a hit too.
@@ -333,7 +333,7 @@ Dialogue: 0,0:13:48.23,0:13:49.73,Default,,0,0,0,,The tree fairy you're possessi
 Dialogue: 0,0:13:49.93,0:13:51.12,Default,,0,0,0,,will die very soon.
 Dialogue: 0,0:13:51.68,0:13:55.06,Default,,0,0,0,,You want me to give my life up for this fairy?
 Dialogue: 0,0:13:55.36,0:13:55.97,Default,,0,0,0,,No.
-Dialogue: 0,0:13:56.54,0:13:58.48,Default,,0,0,0,,I'm offering you a tree type soul core.
+Dialogue: 0,0:13:56.54,0:13:58.48,Default,,0,0,0,,I'm offering you a tree-type soul core.
 Dialogue: 0,0:14:00.83,0:14:02.45,Default,,0,0,0,,This is a tempting offer indeed.
 Dialogue: 0,0:14:03.12,0:14:06.94,Default,,0,0,0,,But my soul found this body\Nafter three years of wandering.
 Dialogue: 0,0:14:07.60,0:14:08.94,Default,,0,0,0,,I won't take risks again.
@@ -382,14 +382,14 @@ Dialogue: 0,0:15:59.29,0:15:59.86,Default,,0,0,0,,Wait!
 Dialogue: 0,0:16:00.06,0:16:01.48,Default,,0,0,0,,If I die, you'll stay like this!
 Dialogue: 0,0:16:02.01,0:16:03.99,Default,,0,0,0,,You can't lock me up in your spirit space.
 Dialogue: 0,0:16:04.21,0:16:06.56,Default,,0,0,0,,Especially once it becomes ownerless after you die.
-Dialogue: 0,0:16:06.88,0:16:07.58,Default,,0,0,0,,All right!
+Dialogue: 0,0:16:06.88,0:16:07.58,Default,,0,0,0,,Alright!
 Dialogue: 0,0:16:07.87,0:16:09.04,Default,,0,0,0,,I'll consider your offer!
 Dialogue: 0,0:16:10.54,0:16:11.90,Default,,0,0,0,,It's too late now.
 Dialogue: 0,0:16:12.48,0:16:13.07,Default,,0,0,0,,Farewell.
 Dialogue: 0,0:16:13.22,0:16:14.23,Default,,0,0,0,,I accept it! I accept it!
 Dialogue: 0,0:16:20.99,0:16:21.68,Default,,0,0,0,,Qiguo!
 Dialogue: 0,0:16:22.31,0:16:23.34,Default,,0,0,0,,Qiguo!
-Dialogue: 0,0:16:27.06,0:16:27.65,Default - Italic,,0,0,0,,It's all right!
+Dialogue: 0,0:16:27.06,0:16:27.65,Default - Italic,,0,0,0,,It's alright!
 Dialogue: 0,0:16:32.97,0:16:36.77,Default,,0,0,0,,I never thought you could hide inside a plant so quickly.
 Dialogue: 0,0:16:40.19,0:16:41.92,Default,,0,0,0,,Should I destroy your new home?
 Dialogue: 0,0:16:41.95,0:16:43.26,Default,,0,0,0,,Or will you come out on your own?
@@ -405,7 +405,7 @@ Dialogue: 0,0:17:01.14,0:17:01.67,Default,,0,0,0,,Fenmo!
 Dialogue: 0,0:17:02.43,0:17:03.27,Default,,0,0,0,,Qiguo!
 Dialogue: 0,0:17:03.38,0:17:04.51,Default,,0,0,0,,How's this possible?
 Dialogue: 0,0:17:05.21,0:17:06.06,Default,,0,0,0,,Unless...
-Dialogue: 0,0:17:06.35,0:17:07.44,Default,,0,0,0,,He's space type...?
+Dialogue: 0,0:17:06.35,0:17:07.44,Default,,0,0,0,,He's space-type...?
 Dialogue: 0,0:17:08.35,0:17:10.85,Default,,0,0,0,,I must say you made a complete fool out of me...
 Dialogue: 0,0:17:11.39,0:17:13.67,Default,,0,0,0,,We had to hurry, please forgive us.
 Dialogue: 0,0:17:14.32,0:17:18.19,Default,,0,0,0,,What if I hadn't left that body even at the risk of death?
@@ -413,7 +413,7 @@ Dialogue: 0,0:17:18.56,0:17:20.56,Default,,0,0,0,,We'd be back at square one, wo
 Dialogue: 0,0:17:28.08,0:17:28.89,Default,,0,0,0,,We're back to normal.
 Dialogue: 0,0:17:29.28,0:17:29.91,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:17:30.44,0:17:32.75,Default,,0,0,0,,You left me no choice.
-Dialogue: 0,0:17:34.76,0:17:36.14,Default,,0,0,0,,A tree type soul core!
+Dialogue: 0,0:17:34.76,0:17:36.14,Default,,0,0,0,,A tree-type soul core!
 Dialogue: 0,0:17:36.41,0:17:37.95,Default,,0,0,0,,You're still willing to give it to me?
 Dialogue: 0,0:17:38.43,0:17:39.95,Default,,0,0,0,,Are you afraid it's a fake?
 Dialogue: 0,0:17:40.06,0:17:42.77,Default,,0,0,0,,You wouldn't go that far just to destroy a roaming soul.
@@ -424,10 +424,10 @@ Dialogue: 0,0:18:02.56,0:18:04.37,Default,,0,0,0,,I've gotten much stronger now.
 Dialogue: 0,0:18:04.75,0:18:06.40,Default,,0,0,0,,Are you not afraid I'll attack you?
 Dialogue: 0,0:18:07.11,0:18:08.56,Default,,0,0,0,,You couldn't trust me first,
 Dialogue: 0,0:18:08.73,0:18:10.21,Default,,0,0,0,,so I have to trust you first.
-Dialogue: 0,0:18:12.54,0:18:13.55,Default,,0,0,0,,All right.
+Dialogue: 0,0:18:12.54,0:18:13.55,Default,,0,0,0,,Alright.
 Dialogue: 0,0:18:13.84,0:18:15.35,Default,,0,0,0,,What's your name, son?
 Dialogue: 0,0:18:15.79,0:18:17.02,Default,,0,0,0,,You can call me A-Gen.
-Dialogue: 0,0:18:17.70,0:18:19.82,Default,,0,0,0,,My name is Muluo, I am an immortal.
+Dialogue: 0,0:18:17.70,0:18:19.82,Default,,0,0,0,,My name is Muluo. I am an immortal.
 Dialogue: 0,0:18:20.69,0:18:21.37,Default,,0,0,0,,You are Muluo...?
 Dialogue: 0,0:18:21.49,0:18:22.39,Default,,0,0,0,,Shame on you!
 Dialogue: 0,0:18:22.59,0:18:24.23,Default,,0,0,0,,You can't toy with our lives!
@@ -496,13 +496,13 @@ Dialogue: 0,0:21:42.10,0:21:48.30,Ending Song - English,,0,0,0,,I’ll carry it 
 Dialogue: 0,0:21:42.10,0:21:48.30,Ending Song - Romaji,,0,0,0,,Kore kara deau kimi e to
 Dialogue: 0,0:21:48.30,0:21:54.45,Ending Song - English,,0,0,0,,Wait for me — let’s talk, side by side
 Dialogue: 0,0:21:48.30,0:21:54.45,Ending Song - Romaji,,0,0,0,,Wait for me hanashi wo shiyou kata wo narabete
-Dialogue: 0,0:21:54.45,0:21:59.25,Ending Song - English,,0,0,0,,Even if our first “hello” is a little awkward
+Dialogue: 0,0:21:54.45,0:21:59.25,Ending Song - English,,0,0,0,,Even if our first "hello" is a little awkward
 Dialogue: 0,0:21:54.45,0:21:59.25,Ending Song - Romaji,,0,0,0,,Hajimemashite wa gikochinaku temo
 Dialogue: 0,0:21:59.25,0:22:03.93,Ending Song - English,,0,0,0,,When we open the boxes we’ve brought
 Dialogue: 0,0:21:59.25,0:22:03.93,Ending Song - Romaji,,0,0,0,,Mochiyotta hako aketara
 Dialogue: 0,0:22:03.93,0:22:10.45,Ending Song - English,,0,0,0,,Let’s share the dreams we’ve packed inside
 Dialogue: 0,0:22:03.93,0:22:10.45,Ending Song - Romaji,,0,0,0,,Tsumekon da yume wo wakeaou
-Dialogue: 0,0:22:10.45,0:22:21.77,Ending Song - English,,0,0,0,,The days when we can casually say “See you tomorrow”
+Dialogue: 0,0:22:10.45,0:22:21.77,Ending Song - English,,0,0,0,,The days when we can casually say "See you tomorrow"
 Dialogue: 0,0:22:10.45,0:22:21.77,Ending Song - Romaji,,0,0,0,,Mata ashita tte atarimae ni kawaseru hibi ga
 Dialogue: 0,0:22:21.77,0:22:27.19,Ending Song - English,,0,0,0,,Are so precious and so fleeting
 Dialogue: 0,0:22:21.77,0:22:27.19,Ending Song - Romaji,,0,0,0,,Itoshikute hakanasugite
