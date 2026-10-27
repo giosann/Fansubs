@@ -263,12 +263,12 @@ Dialogue: 0,0:08:05.02,0:08:06.86,Default,,0,0,0,,Xiaohei, which parts don't you
 Dialogue: 0,0:08:06.98,0:08:08.12,Default,,0,0,0,,Everything...
 Dialogue: 0,0:08:08.14,0:08:10.28,Default,,0,0,0,,What are "stats" or "names"?
 Dialogue: 0,0:08:10.46,0:08:12.00,Default,,0,0,0,,Let me explain!
-Dialogue: 0,0:08:12.20,0:08:13.95,BG_Explain,,0,0,0,,{\p1}m 636.3 256.27 l 636.3 313.9 l 802.05 314.87 l 801.41 256.27{\p0}
+Dialogue: 0,0:08:12.20,0:08:13.95,BG_Explain,,0,0,0,,{\p1}m 636.3 256.3 l 636.3 313.9 l 802.1 314.9 l 801.4 256.3{\p0}
 Dialogue: 1,0:08:12.20,0:08:13.95,Explaining,,0,0,0,,{\pos(720,305)\fs(35)}Explaining...
-Dialogue: 0,0:08:14.03,0:08:15.45,BG_Explain,,0,0,0,,{\p1}m 637.41 255.72 l 802.44 255.1 l 803.22 315.7 l 635.78 316.48{\p0}
+Dialogue: 0,0:08:14.03,0:08:15.45,BG_Explain,,0,0,0,,{\p1}m 637.4 255.7 l 802.4 255.1 l 803.2 315.7 l 635.8 316.5{\p0}
 Dialogue: 1,0:08:14.03,0:08:15.45,Explaining,,0,0,0,,{\pos(720,305)\fs(35)}Complete!
 Dialogue: 0,0:08:15.49,0:08:16.70,Default,,0,0,0,,Oh!
-Dialogue: 0,0:08:15.70,0:08:17.96,BG_Comp,,0,0,0,,{\p1}m 1771.64 394.96 l 1867.5 395.77 l 1867.5 651.93 l 1774.06 651.13{\p0}
+Dialogue: 0,0:08:15.70,0:08:17.96,BG_Comp,,0,0,0,,{\p1}m 1771.6 395 l 1867.5 395.8 l 1867.5 651.9 l 1774.1 651.1{\p0}
 Dialogue: 0,0:08:15.70,0:08:17.96,Comp,,0,0,0,,{\pos(1800,525)\frz-90\fs(40)}Comprehension
 Dialogue: 0,0:08:16.83,0:08:17.91,Default,,0,0,0,,I get it now!
 Dialogue: 0,0:08:18.24,0:08:22.12,Default,,0,0,0,,In a normal game, you could\Njust grind to a high level casually.
@@ -301,7 +301,7 @@ Dialogue: 0,0:09:40.16,0:09:42.58,Default,,0,0,0,,Hmm... that doesn't feel quite
 Dialogue: 0,0:09:42.70,0:09:43.87,Default,,0,0,0,,No one can die.
 Dialogue: 0,0:09:44.91,0:09:47.62,Default,,0,0,0,,Let's make it our goal that no one dies.
 Dialogue: 0,0:09:48.58,0:09:50.29,Default,,0,0,0,,Since we're only doing one attempt,
-Dialogue: 0,0:09:50.42,0:09:53.00,Default,,0,0,0,,let's try to min-max in character creation.
+Dialogue: 0,0:09:50.42,0:09:53.00,Default,,0,0,0,,let's try min-maxing in character creation.
 Dialogue: 0,0:09:53.13,0:09:56.26,Default,,0,0,0,,Our limited edition already gives us an advantage.
 Dialogue: 0,0:09:56.38,0:09:58.47,Default,,0,0,0,,Every step from now on has to be careful.
 Dialogue: 0,0:09:58.64,0:10:00.32,Default,,0,0,0,,Xiaohei is the strongest among us.
@@ -360,10 +360,10 @@ Dialogue: 0,0:11:47.91,0:11:49.16,Default,,0,0,0,,It's that simple?
 Dialogue: 0,0:11:49.29,0:11:52.21,Default,,0,0,0,,Not simple. There are requirements to form a faction.
 Dialogue: 0,0:11:52.42,0:11:55.17,Default,,0,0,0,,First, you need at least three members.
 Dialogue: 0,0:11:55.29,0:11:57.67,Default,,0,0,0,,You also need to own some territory.
-Dialogue: 0,0:11:56.49,0:11:57.97,BG_Faction,,0,0,0,,{\p1}m 1247.44 86.59 l 1242.63 182.81 l 775.99 206.86 l 744.72 60.13{\p0}
-Dialogue: 1,0:11:56.49,0:11:57.97,Comp,,0,0,0,,{\pos(1030.93,153.57)\frz5}Faction Established!
+Dialogue: 0,0:11:56.49,0:11:57.97,BG_Faction,,0,0,0,,{\p1}m 1247.4 86.6 l 1242.6 182.8 l 776 206.9 l 744.7 60.1{\p0}
+Dialogue: 1,0:11:56.49,0:11:57.97,Comp,,0,0,0,,{\pos(1030.9,153.6)\frz5}Faction Established!
 Dialogue: 1,0:11:57.80,0:12:00.63,Default,,0,0,0,,If you lose the territory, the faction disbands.
-Dialogue: 0,0:12:00.22,0:12:00.85,BG_Faction,,0,0,0,,{\p1}m 757.38 46.48 l 761.56 228.51 l 1208.79 184.48 l 1206.98 87.61{\p0}
+Dialogue: 0,0:12:00.22,0:12:00.85,BG_Faction,,0,0,0,,{\p1}m 757.4 46.5 l 761.6 228.5 l 1208.8 184.5 l 1207 87.6{\p0}
 Dialogue: 1,0:12:00.22,0:12:00.85,Comp,,0,0,0,,{\pos(978,168)\frz5}Dissolved...
 Dialogue: 0,0:12:00.92,0:12:03.47,Default,,0,0,0,,Seizing territory happens to be one of the dungeon quests.
 Dialogue: 0,0:12:03.59,0:12:05.60,Default,,0,0,0,,It's already on our to-do list.
@@ -398,8 +398,8 @@ Dialogue: 0,0:13:39.81,0:13:40.82,Default,,0,0,0,,Oh!
 Dialogue: 0,0:13:40.94,0:13:41.86,Default,,0,0,0,,So cute.
 Dialogue: 0,0:13:46.11,0:13:48.53,Default,,0,0,0,,Alright, we're in a party now.
 Dialogue: 0,0:13:48.66,0:13:50.12,Default,,0,0,0,,Let's accept the quest together.
-Dialogue: 0,0:13:50.83,0:13:53.71,BG_Quest,,0,0,0,,{\p1}m 822.87 336.47 l 922.45 333.11 l 1015.87 334.23 l 1046.64 416.46 l 943.14 419.26 l 846.93 415.9{\p0}
-Dialogue: 1,0:13:50.83,0:13:53.71,Comp,,0,0,0,,{\c&HE1F8FF&\pos(925.19,410.63)\org(931.9,372.11)\frx-8.18\fry-3.36\frz0.42\fax0.176\fscx101.63\fscy102.73}Quest
+Dialogue: 0,0:13:50.83,0:13:53.71,BG_Quest,,0,0,0,,{\p1}m 822.9 336.5 l 922.5 333.1 l 1015.9 334.2 l 1046.6 416.5 l 943.1 419.3 l 846.9 415.9{\p0}
+Dialogue: 1,0:13:50.83,0:13:53.71,Comp,,0,0,0,,{\c&HE1F8FF&\pos(925.2,410.6)\org(931.9,372.1)\frx-8.18\fry-3.36\frz0.42\fax0.176\fscx101.63\fscy102.73}Quest
 Dialogue: 0,0:13:52.41,0:13:56.54,Default,,0,0,0,,Okay, now the quest progress will track automatically.
 Dialogue: 0,0:13:57.50,0:14:00.42,Default,,0,0,0,,Right now our quests are to level up and seize territory,
 Dialogue: 0,0:14:00.54,0:14:02.05,Default,,0,0,0,,but we must avoid getting red names.
