@@ -254,11 +254,8 @@ Dialogue: 0,0:10:41.06,0:10:45.48,Title 2,,0,0,0,,{\pos(1350,550)\fad(2000,0)}Mi
 Dialogue: 0,0:10:50.04,0:10:50.83,Default,,0,0,0,,Xiaobai!
 Dialogue: 0,0:10:51.23,0:10:52.44,Default,,0,0,0,,Go forward and throw a grenade!
 Dialogue: 0,0:10:52.58,0:10:53.15,Default,,0,0,0,,Sure!
-Dialogue: 0,0:10:55.24,0:10:57.58,Default,,0,0,0,,{\pos(924,702)\fad(200,300)}Kitty Grenade
 Dialogue: 0,0:11:02.96,0:11:03.82,Default,,0,0,0,,Xiaobai!
-Dialogue: 0,0:11:03.54,0:11:04.84,Default,,0,0,0,,{\pos(930,720)\fad(200,300)}Kitty Grenade
 Dialogue: 0,0:11:04.43,0:11:05.40,Default,,0,0,0,,Are you alright?
-Dialogue: 0,0:11:04.84,0:11:07.05,Default,,0,0,0,,{\pos(930,720)\fad(200,200)}Milk
 Dialogue: 0,0:11:18.05,0:11:19.03,Default,,0,0,0,,See you out there.
 Dialogue: 0,0:11:21.38,0:11:21.45,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 2.1 319.3 l 126.4 289.3 l 225 293.6 l 315 327.9 l 308.6 488.6 l 180 510 l 4.3 495{\p0}
 Dialogue: 0,0:11:21.38,0:11:21.45,BG - Fish,Fish - BG,0,0,0,,{\an7\pos(0,0)\p1}m 1.4 696.7 l 103.1 687.8 l 160.9 662.8 l 146 599.4 l 147 538.8 l 68 530.9 l 34.6 524.3 l 2.4 515.8{\p0}
