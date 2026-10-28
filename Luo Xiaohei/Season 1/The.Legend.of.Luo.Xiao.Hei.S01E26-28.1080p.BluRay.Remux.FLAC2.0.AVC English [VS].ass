@@ -23,6 +23,8 @@ Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H
 Style: Dad,Gandhi Serif,75,&H009CC5BA,&H0000FFFF,&H00FFFFFF,&H009CC5BA,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: BG_Dad,Arial,20,&H00C6E2DD,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: AssaDrawWhite,Arial,20,&H00C7E7DC,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: BG - Sign,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Sign,Gandhi Sans,55,&H00000000,&H00000000,&H00000000,&H00000000,0,-1,0,0,105,95,0,0,1,1,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -200,7 +202,8 @@ Dialogue: 0,0:12:36.77,0:12:37.68,Default,,0,0,0,,Stop it!
 Dialogue: 0,0:12:47.74,0:12:48.93,Default,,0,0,0,,Yoohoo, I'm home!
 Dialogue: 0,0:12:49.58,0:12:50.42,Default,,0,0,0,,What happened here?!
 Dialogue: 0,0:12:51.12,0:12:51.84,Default,,0,0,0,,Grandpa...
-Dialogue: 0,0:13:22.68,0:13:24.01,Default,,0,0,0,,It won't\Nhappen again
+Dialogue: 1,0:13:22.68,0:13:24.01,Sign,,0,0,0,,{\pos(1118.32,834.22)}It won't\Nhappen\Nagain
+Dialogue: 0,0:13:22.68,0:13:24.01,BG - Sign,,0,0,0,,{\an7\pos(0,0)\bord0\shad0\p1\c&HF0FAFA&}m 995 673 l 1265 675 1200 831 1138 843 1128 862 1022 829 1018 770 1000 761{\p0}
 Dialogue: 0,0:14:15.13,0:14:16.23,Default,,0,0,0,,Xiaohei?
 Dialogue: 0,0:14:20.68,0:14:21.29,Default,,0,0,0,,Xiaobai.
 Dialogue: 0,0:14:22.79,0:14:23.73,Default,,0,0,0,,I have to go now.
