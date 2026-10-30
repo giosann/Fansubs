@@ -19,18 +19,18 @@ Style: MV - English,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.70,0:00:13.50,MV - Hanzi,,0,0,0,,孤单的时候
-Dialogue: 0,0:00:11.70,0:00:13.50,MV - Pinyin,,0,0,0,,Gūdān de shíhòu
-Dialogue: 0,0:00:11.70,0:00:13.50,MV - English,,0,0,0,,When I'm alone
-Dialogue: 0,0:00:13.50,0:00:14.90,MV - Hanzi,,0,0,0,,下雨的时候
-Dialogue: 0,0:00:13.50,0:00:14.90,MV - Pinyin,,0,0,0,,xià yǔ de shíhòu
-Dialogue: 0,0:00:13.50,0:00:14.90,MV - English,,0,0,0,,When it rains
-Dialogue: 0,0:00:14.90,0:00:18.30,MV - Hanzi,,0,0,0,,每个夜晚来临的时候
-Dialogue: 0,0:00:14.90,0:00:18.30,MV - Pinyin,,0,0,0,,měi gè yèwǎn láilín de shíhòu
-Dialogue: 0,0:00:14.90,0:00:18.30,MV - English,,0,0,0,,Whenever the night falls
-Dialogue: 0,0:00:18.30,0:00:21.90,MV - Hanzi,,0,0,0,,总会想起那时 你和我
-Dialogue: 0,0:00:18.30,0:00:21.90,MV - Pinyin,,0,0,0,,zǒng huì xiǎngqǐ nà shí nǐ hé wǒ
-Dialogue: 0,0:00:18.30,0:00:21.90,MV - English,,0,0,0,,I always think back to you and me
+Dialogue: 0,0:00:11.72,0:00:13.51,MV - Hanzi,,0,0,0,,孤单的时候
+Dialogue: 0,0:00:11.72,0:00:13.51,MV - Pinyin,,0,0,0,,Gūdān de shíhòu
+Dialogue: 0,0:00:11.72,0:00:13.51,MV - English,,0,0,0,,When I'm alone
+Dialogue: 0,0:00:13.51,0:00:14.89,MV - Hanzi,,0,0,0,,下雨的时候
+Dialogue: 0,0:00:13.51,0:00:14.89,MV - Pinyin,,0,0,0,,xià yǔ de shíhòu
+Dialogue: 0,0:00:13.51,0:00:14.89,MV - English,,0,0,0,,When it rains
+Dialogue: 0,0:00:14.89,0:00:18.31,MV - Hanzi,,0,0,0,,每个夜晚来临的时候
+Dialogue: 0,0:00:14.89,0:00:18.31,MV - Pinyin,,0,0,0,,měi gè yèwǎn láilín de shíhòu
+Dialogue: 0,0:00:14.89,0:00:18.31,MV - English,,0,0,0,,Whenever the night falls
+Dialogue: 0,0:00:18.31,0:00:21.90,MV - Hanzi,,0,0,0,,总会想起那时 你和我
+Dialogue: 0,0:00:18.31,0:00:21.90,MV - Pinyin,,0,0,0,,zǒng huì xiǎngqǐ nà shí nǐ hé wǒ
+Dialogue: 0,0:00:18.31,0:00:21.90,MV - English,,0,0,0,,I always think back to you and me
 Dialogue: 0,0:00:21.90,0:00:24.94,MV - Hanzi,,0,0,0,,最喜欢的一首歌
 Dialogue: 0,0:00:21.90,0:00:24.94,MV - Pinyin,,0,0,0,,zuì xǐhuān de yī shǒu gē
 Dialogue: 0,0:00:21.90,0:00:24.94,MV - English,,0,0,0,,And the song we loved the most
@@ -40,81 +40,81 @@ Dialogue: 0,0:00:26.23,0:00:29.45,MV - English,,0,0,0,,In this vast universe, dr
 Dialogue: 0,0:00:29.45,0:00:32.70,MV - Hanzi,,0,0,0,,一个人 孤孤单单的星球
 Dialogue: 0,0:00:29.45,0:00:32.70,MV - Pinyin,,0,0,0,,yīgè rén gū gūdān dān de xīngqiú
 Dialogue: 0,0:00:29.45,0:00:32.70,MV - English,,0,0,0,,All alone on a lonely little planet
-Dialogue: 0,0:00:32.70,0:00:36.50,MV - Hanzi,,0,0,0,,多想再次牵着 你的手
-Dialogue: 0,0:00:32.70,0:00:36.50,MV - Pinyin,,0,0,0,,duō xiǎng zàicì qiānzhe nǐ de shǒu
-Dialogue: 0,0:00:32.70,0:00:36.50,MV - English,,0,0,0,,How I wish I could hold your hand once again
-Dialogue: 0,0:00:36.50,0:00:39.70,MV - Hanzi,,0,0,0,,一起唱起那首歌
-Dialogue: 0,0:00:36.50,0:00:39.70,MV - Pinyin,,0,0,0,,yīqǐ chàng qǐ nà shǒu gē
-Dialogue: 0,0:00:36.50,0:00:39.70,MV - English,,0,0,0,,And sing that song together
-Dialogue: 0,0:00:39.80,0:00:41.50,MV - Hanzi,,0,0,0,,Sing!
-Dialogue: 0,0:00:39.80,0:00:41.50,MV - Pinyin,,0,0,0,,Sing!
-Dialogue: 0,0:00:39.80,0:00:41.50,MV - English,,0,0,0,,Sing!
-Dialogue: 0,0:00:41.50,0:00:45.00,MV - Hanzi,,0,0,0,,No baby no cry
-Dialogue: 0,0:00:41.50,0:00:45.00,MV - Pinyin,,0,0,0,,No baby no cry
-Dialogue: 0,0:00:41.50,0:00:45.00,MV - English,,0,0,0,,No baby no cry
-Dialogue: 0,0:00:45.00,0:00:49.50,MV - Hanzi,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:00:45.00,0:00:49.50,MV - Pinyin,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:00:45.00,0:00:49.50,MV - English,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:00:49.50,0:00:53.50,MV - Hanzi,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:00:49.50,0:00:53.50,MV - Pinyin,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:00:49.50,0:00:53.50,MV - English,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:00:53.50,0:00:57.50,MV - Hanzi,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:00:53.50,0:00:57.50,MV - Pinyin,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:00:53.50,0:00:57.50,MV - English,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:00:57.50,0:01:00.50,MV - Hanzi,,0,0,0,,All right
-Dialogue: 0,0:00:57.50,0:01:00.50,MV - Pinyin,,0,0,0,,All right
-Dialogue: 0,0:00:57.50,0:01:00.50,MV - English,,0,0,0,,All right
-Dialogue: 0,0:01:09.50,0:01:12.70,MV - Hanzi,,0,0,0,,跌倒的时候 心碎的时候
-Dialogue: 0,0:01:09.50,0:01:12.70,MV - Pinyin,,0,0,0,,diédǎo de shíhòu xīn suì de shíhòu
-Dialogue: 0,0:01:09.50,0:01:12.70,MV - English,,0,0,0,,When I stumble and fall, when my heart breaks
-Dialogue: 0,0:01:12.70,0:01:16.10,MV - Hanzi,,0,0,0,,每个雨季来临的时候
-Dialogue: 0,0:01:12.70,0:01:16.10,MV - Pinyin,,0,0,0,,měi gè yǔjì láilín de shíhòu
-Dialogue: 0,0:01:12.70,0:01:16.10,MV - English,,0,0,0,,Whenever the rainy season comes around
-Dialogue: 0,0:01:16.10,0:01:19.50,MV - Hanzi,,0,0,0,,总会想起我们 小时候
-Dialogue: 0,0:01:16.10,0:01:19.50,MV - Pinyin,,0,0,0,,zǒng huì xiǎngqǐ wǒmen xiǎoshíhòu
-Dialogue: 0,0:01:16.10,0:01:19.50,MV - English,,0,0,0,,I always think back to when we were young
-Dialogue: 0,0:01:19.50,0:01:23.30,MV - Hanzi,,0,0,0,,最喜欢的一首歌
-Dialogue: 0,0:01:19.50,0:01:23.30,MV - Pinyin,,0,0,0,,zuì xǐhuān de yī shǒu gē
-Dialogue: 0,0:01:19.50,0:01:23.30,MV - English,,0,0,0,,And the song we loved the most
-Dialogue: 0,0:01:23.90,0:01:27.10,MV - Hanzi,,0,0,0,,在很久以前 在很久以后
-Dialogue: 0,0:01:23.90,0:01:27.10,MV - Pinyin,,0,0,0,,zài hěnjiǔ yǐqián zài hěnjiǔ yǐhòu
-Dialogue: 0,0:01:23.90,0:01:27.10,MV - English,,0,0,0,,Long, long ago, and long from now
-Dialogue: 0,0:01:27.10,0:01:30.70,MV - Hanzi,,0,0,0,,一个人 孤孤单单地漂流
-Dialogue: 0,0:01:27.10,0:01:30.70,MV - Pinyin,,0,0,0,,yīgè rén gū gūdān dān de piāoliú
-Dialogue: 0,0:01:27.10,0:01:30.70,MV - English,,0,0,0,,Drifting all alone by myself
-Dialogue: 0,0:01:30.70,0:01:34.10,MV - Hanzi,,0,0,0,,多想有你陪在 我左右
-Dialogue: 0,0:01:30.70,0:01:34.10,MV - Pinyin,,0,0,0,,duō xiǎng yǒu nǐ péi zài wǒ zuǒyòu
-Dialogue: 0,0:01:30.70,0:01:34.10,MV - English,,0,0,0,,How I wish I had you here by my side
-Dialogue: 0,0:01:34.10,0:01:37.30,MV - Hanzi,,0,0,0,,一起唱起那首歌
-Dialogue: 0,0:01:34.10,0:01:37.30,MV - Pinyin,,0,0,0,,yīqǐ chàng qǐ nà shǒu gē
-Dialogue: 0,0:01:34.10,0:01:37.30,MV - English,,0,0,0,,To sing that song together
-Dialogue: 0,0:01:37.50,0:01:39.20,MV - Hanzi,,0,0,0,,Sing!
-Dialogue: 0,0:01:37.50,0:01:39.20,MV - Pinyin,,0,0,0,,Sing!
-Dialogue: 0,0:01:37.50,0:01:39.20,MV - English,,0,0,0,,Sing!
-Dialogue: 0,0:01:39.20,0:01:42.70,MV - Hanzi,,0,0,0,,No baby no cry
-Dialogue: 0,0:01:39.20,0:01:42.70,MV - Pinyin,,0,0,0,,No baby no cry
-Dialogue: 0,0:01:39.20,0:01:42.70,MV - English,,0,0,0,,No baby no cry
-Dialogue: 0,0:01:42.70,0:01:47.20,MV - Hanzi,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:01:42.70,0:01:47.20,MV - Pinyin,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:01:42.70,0:01:47.20,MV - English,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:01:47.20,0:01:51.20,MV - Hanzi,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:01:47.20,0:01:51.20,MV - Pinyin,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:01:47.20,0:01:51.20,MV - English,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:01:51.20,0:01:55.20,MV - Hanzi,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:01:51.20,0:01:55.20,MV - Pinyin,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:01:51.20,0:01:55.20,MV - English,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:01:55.20,0:01:58.00,MV - Hanzi,,0,0,0,,All right
-Dialogue: 0,0:01:55.20,0:01:58.00,MV - Pinyin,,0,0,0,,All right
-Dialogue: 0,0:01:55.20,0:01:58.00,MV - English,,0,0,0,,All right
-Dialogue: 0,0:01:58.00,0:02:01.50,MV - Hanzi,,0,0,0,,No baby no cry
-Dialogue: 0,0:01:58.00,0:02:01.50,MV - Pinyin,,0,0,0,,No baby no cry
-Dialogue: 0,0:01:58.00,0:02:01.50,MV - English,,0,0,0,,No baby no cry
-Dialogue: 0,0:02:01.50,0:02:06.00,MV - Hanzi,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:02:01.50,0:02:06.00,MV - Pinyin,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:02:01.50,0:02:06.00,MV - English,,0,0,0,,Don't you ever cry tonight (No, no, no)
-Dialogue: 0,0:02:06.00,0:02:10.00,MV - Hanzi,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:02:06.00,0:02:10.00,MV - Pinyin,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:02:06.00,0:02:10.00,MV - English,,0,0,0,,Sing with me just one more time
-Dialogue: 0,0:02:10.00,0:02:15.00,MV - Hanzi,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:02:10.00,0:02:15.00,MV - Pinyin,,0,0,0,,Everything's gonna be all right
-Dialogue: 0,0:02:10.00,0:02:15.00,MV - English,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:00:32.70,0:00:36.49,MV - Hanzi,,0,0,0,,多想再次牵着 你的手
+Dialogue: 0,0:00:32.70,0:00:36.49,MV - Pinyin,,0,0,0,,duō xiǎng zàicì qiānzhe nǐ de shǒu
+Dialogue: 0,0:00:32.70,0:00:36.49,MV - English,,0,0,0,,How I wish I could hold your hand once again
+Dialogue: 0,0:00:36.49,0:00:39.71,MV - Hanzi,,0,0,0,,一起唱起那首歌
+Dialogue: 0,0:00:36.49,0:00:39.71,MV - Pinyin,,0,0,0,,yīqǐ chàng qǐ nà shǒu gē
+Dialogue: 0,0:00:36.49,0:00:39.71,MV - English,,0,0,0,,And sing that song together
+Dialogue: 0,0:00:39.71,0:00:40.58,MV - English,,0,0,0,,Singing!
+Dialogue: 0,0:00:40.58,0:00:43.17,MV - English,,0,0,0,,No baby no cry!
+Dialogue: 0,0:00:43.88,0:00:47.46,MV - English,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:00:47.46,0:00:50.76,MV - English,,0,0,0,, Sing with me just one more time
+Dialogue: 0,0:00:50.76,0:00:53.60,MV - English,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:00:53.60,0:00:54.47,MV - English,,0,0,0,,All right!
+Dialogue: 0,0:00:39.71,0:00:40.58,MV - Hanzi,,0,0,0,,Singing!
+Dialogue: 0,0:00:40.58,0:00:43.21,MV - Hanzi,,0,0,0,,No baby no cry!
+Dialogue: 0,0:00:43.88,0:00:47.46,MV - Hanzi,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:00:47.46,0:00:50.76,MV - Hanzi,,0,0,0,, Sing with me just one more time
+Dialogue: 0,0:00:50.76,0:00:53.60,MV - Hanzi,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:00:53.60,0:00:54.47,MV - Hanzi,,0,0,0,,All right!
+Dialogue: 0,0:00:39.71,0:00:40.58,MV - Pinyin,,0,0,0,,Singing!
+Dialogue: 0,0:00:40.58,0:00:43.21,MV - Pinyin,,0,0,0,,No baby no cry!
+Dialogue: 0,0:00:43.88,0:00:47.46,MV - Pinyin,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:00:47.46,0:00:50.76,MV - Pinyin,,0,0,0,, Sing with me just one more time
+Dialogue: 0,0:00:50.76,0:00:53.60,MV - Pinyin,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:00:53.60,0:00:54.47,MV - Pinyin,,0,0,0,,All right!
+Dialogue: 0,0:01:09.49,0:01:12.70,MV - Hanzi,,0,0,0,,跌倒的时候 心碎的时候
+Dialogue: 0,0:01:09.49,0:01:12.70,MV - Pinyin,,0,0,0,,diédǎo de shíhòu xīn suì de shíhòu
+Dialogue: 0,0:01:09.49,0:01:12.70,MV - English,,0,0,0,,When I stumble and fall, when my heart breaks
+Dialogue: 0,0:01:12.70,0:01:16.12,MV - Hanzi,,0,0,0,,每个雨季来临的时候
+Dialogue: 0,0:01:12.70,0:01:16.12,MV - Pinyin,,0,0,0,,měi gè yǔjì láilín de shíhòu
+Dialogue: 0,0:01:12.70,0:01:16.12,MV - English,,0,0,0,,Whenever the rainy season comes around
+Dialogue: 0,0:01:16.12,0:01:19.50,MV - Hanzi,,0,0,0,,总会想起我们 小时候
+Dialogue: 0,0:01:16.12,0:01:19.50,MV - Pinyin,,0,0,0,,zǒng huì xiǎngqǐ wǒmen xiǎoshíhòu
+Dialogue: 0,0:01:16.12,0:01:19.50,MV - English,,0,0,0,,I always think back to when we were young
+Dialogue: 0,0:01:19.50,0:01:23.29,MV - Hanzi,,0,0,0,,最喜欢的一首歌
+Dialogue: 0,0:01:19.50,0:01:23.29,MV - Pinyin,,0,0,0,,zuì xǐhuān de yī shǒu gē
+Dialogue: 0,0:01:19.50,0:01:23.29,MV - English,,0,0,0,,And the song we loved the most
+Dialogue: 0,0:01:23.92,0:01:27.09,MV - Hanzi,,0,0,0,,在很久以前 在很久以后
+Dialogue: 0,0:01:23.92,0:01:27.09,MV - Pinyin,,0,0,0,,zài hěnjiǔ yǐqián zài hěnjiǔ yǐhòu
+Dialogue: 0,0:01:23.92,0:01:27.09,MV - English,,0,0,0,,Long, long ago, and long from now
+Dialogue: 0,0:01:27.09,0:01:30.72,MV - Hanzi,,0,0,0,,一个人 孤孤单单地漂流
+Dialogue: 0,0:01:27.09,0:01:30.72,MV - Pinyin,,0,0,0,,yīgè rén gū gūdān dān de piāoliú
+Dialogue: 0,0:01:27.09,0:01:30.72,MV - English,,0,0,0,,Drifting all alone by myself
+Dialogue: 0,0:01:30.72,0:01:34.09,MV - Hanzi,,0,0,0,,多想有你陪在 我左右
+Dialogue: 0,0:01:30.72,0:01:34.09,MV - Pinyin,,0,0,0,,duō xiǎng yǒu nǐ péi zài wǒ zuǒyòu
+Dialogue: 0,0:01:30.72,0:01:34.09,MV - English,,0,0,0,,How I wish I had you here by my side
+Dialogue: 0,0:01:34.09,0:01:37.31,MV - Hanzi,,0,0,0,,一起唱起那首歌
+Dialogue: 0,0:01:34.09,0:01:37.31,MV - Pinyin,,0,0,0,,yīqǐ chàng qǐ nà shǒu gē
+Dialogue: 0,0:01:37.31,0:01:38.39,MV - English,,0,0,0,,Singing!
+Dialogue: 0,0:01:38.39,0:01:40.68,MV - English,,0,0,0,,No baby no cry!
+Dialogue: 0,0:01:41.56,0:01:45.65,MV - English,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:01:45.65,0:01:48.82,MV - English,,0,0,0,,Sing with me just one more time
+Dialogue: 0,0:01:48.82,0:01:51.44,MV - English,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:01:51.44,0:01:52.36,MV - English,,0,0,0,,All right!
+Dialogue: 0,0:01:52.70,0:01:54.99,MV - English,,0,0,0,,No baby no cry!
+Dialogue: 0,0:01:56.03,0:02:00.08,MV - English,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:02:00.08,0:02:03.12,MV - English,,0,0,0,,Sing with me just one more time
+Dialogue: 0,0:02:03.12,0:02:05.96,MV - English,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:01:34.09,0:01:37.31,MV - English,,0,0,0,,To sing that song together
+Dialogue: 0,0:01:37.31,0:01:38.39,MV - Hanzi,,0,0,0,,Singing!
+Dialogue: 0,0:01:38.39,0:01:40.68,MV - Hanzi,,0,0,0,,No baby no cry!
+Dialogue: 0,0:01:41.56,0:01:45.65,MV - Hanzi,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:01:45.65,0:01:48.82,MV - Hanzi,,0,0,0,,Sing with me just one more time
+Dialogue: 0,0:01:48.82,0:01:51.44,MV - Hanzi,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:01:51.44,0:01:52.36,MV - Hanzi,,0,0,0,,All right!
+Dialogue: 0,0:01:52.70,0:01:54.99,MV - Hanzi,,0,0,0,,No baby no cry!
+Dialogue: 0,0:01:56.03,0:02:00.08,MV - Hanzi,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:02:00.08,0:02:03.12,MV - Hanzi,,0,0,0,,Sing with me just one more time
+Dialogue: 0,0:02:03.12,0:02:05.96,MV - Hanzi,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:01:37.31,0:01:38.39,MV - Pinyin,,0,0,0,,Singing!
+Dialogue: 0,0:01:38.39,0:01:40.68,MV - Pinyin,,0,0,0,,No baby no cry!
+Dialogue: 0,0:01:41.56,0:01:45.65,MV - Pinyin,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:01:45.65,0:01:48.82,MV - Pinyin,,0,0,0,,Sing with me just one more time
+Dialogue: 0,0:01:48.82,0:01:51.44,MV - Pinyin,,0,0,0,,Everything's gonna be all right
+Dialogue: 0,0:01:51.44,0:01:52.36,MV - Pinyin,,0,0,0,,All right!
+Dialogue: 0,0:01:52.70,0:01:54.99,MV - Pinyin,,0,0,0,,No baby no cry!
+Dialogue: 0,0:01:56.03,0:02:00.08,MV - Pinyin,,0,0,0,,Don't you ever cry tonight (No, no, no)
+Dialogue: 0,0:02:00.08,0:02:03.12,MV - Pinyin,,0,0,0,,Sing with me just one more time
+Dialogue: 0,0:02:03.12,0:02:05.96,MV - Pinyin,,0,0,0,,Everything's gonna be all right
