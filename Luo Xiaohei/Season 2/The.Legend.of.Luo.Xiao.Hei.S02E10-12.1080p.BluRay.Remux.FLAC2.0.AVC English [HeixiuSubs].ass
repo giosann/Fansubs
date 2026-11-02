@@ -11,17 +11,15 @@ YCbCr Matrix: TV.709
 LayoutResX: 1920
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../Downloads/Luo Xiaohei/Season 2/The.Legend.of.Luo.Xiao.Hei.S02E10-12.1080p.BluRay.Remux.FLAC2.0.AVC.mkv
-Video File: ../../../../Downloads/Luo Xiaohei/Season 2/The.Legend.of.Luo.Xiao.Hei.S02E10-12.1080p.BluRay.Remux.FLAC2.0.AVC.mkv
-Keyframes File: ../../../../Downloads/keyframes/The.Legend.of.Luo.Xiao.Hei.S02E10-12.1080p.BluRay.Remux.FLAC2.0.AVC.keyframes.txt
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 129
-Active Line: 136
-Video Position: 15057
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,10,10,60,1
+Style: Default - Italic,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,10,10,60,1
+Style: Title,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00B6B7A8,&H00A0B9B0,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
+Style: Ending Song - English,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,3.5,0,2,50,50,25,1
+Style: Ending Song - Romaji,FOT-TsukuARdGothic Std B,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,3.5,0,9,59,50,25,1
+Style: Title 2,Gandhi Sans,75,&H00000000,&H0000FFFF,&H005D3D0D,&H00A0B9B0,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
+Style: Title 3,Gandhi Sans,75,&H00000000,&H0000FFFF,&H00974701,&H00A0B9B0,-1,-1,0,0,100,100,0,0,1,10,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -292,34 +290,34 @@ Dialogue: 0,0:22:38.14,0:22:41.02,Default,,0,0,0,,Then after school, I'll come h
 Dialogue: 0,0:22:41.98,0:22:43.94,Default,,0,0,0,,What's "after school"?
 Dialogue: 0,0:22:44.48,0:22:47.32,Default,,0,0,0,,You'll... find out once you've learned to read.
 Dialogue: 0,0:22:47.49,0:22:48.65,Default,,0,0,0,,Oh...
-Dialogue: 0,0:22:49.12,0:22:54.00,Default,,0,0,0,,{\an8\i1}Meeting and parting, joy and sadness
+Dialogue: 0,0:22:49.12,0:22:54.00,Ending Song - Romaji,,0,0,0,,Meeting and parting, joy and sadness
 Dialogue: 0,0:22:49.57,0:22:53.83,Default,,0,0,0,,If one day you truly want to become an Executor, come take the test again.
 Dialogue: 0,0:22:53.95,0:22:55.41,Default,,0,0,0,,Is that okay?
-Dialogue: 0,0:22:54.12,0:22:59.17,Default,,0,0,0,,{\an8\i1}Excitement and confusion, hope and despair
+Dialogue: 0,0:22:54.12,0:22:59.17,Ending Song - Romaji,,0,0,0,,Heartbeats and trepidation, hope and despair
 Dialogue: 0,0:22:55.62,0:22:56.37,Default,,0,0,0,,Of course.
 Dialogue: 0,0:22:59.04,0:23:00.96,Default,,0,0,0,,Why won't he wake up?
-Dialogue: 0,0:22:59.30,0:23:04.13,Default,,0,0,0,,{\an8\i1}Doesn't matter what tomorrow will be like
+Dialogue: 0,0:22:59.30,0:23:04.13,Ending Song - Romaji,,0,0,0,,No matter what tomorrow may bring
 Dialogue: 0,0:23:01.67,0:23:03.13,Default,,0,0,0,,You've made a lot of good friends.
 Dialogue: 0,0:23:03.42,0:23:04.13,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:23:04.38,0:23:09.14,Default,,0,0,0,,{\an8\i1}Be with me, singing together softly
+Dialogue: 0,0:23:04.38,0:23:09.14,Ending Song - Romaji,,0,0,0,,Stay with me, and softly sing
 Dialogue: 0,0:23:04.75,0:23:06.05,Default,,0,0,0,,Treasure them well.
 Dialogue: 0,0:23:06.17,0:23:07.38,Default,,0,0,0,,I will.
-Dialogue: 0,0:23:09.26,0:23:14.81,Default,,0,0,0,,{\an8\i1}On a quiet night, we're singing a quiet song
-Dialogue: 0,0:23:15.10,0:23:19.48,Default,,0,0,0,,{\an8\i1}You softly tell me about your dreams
-Dialogue: 0,0:23:19.61,0:23:24.53,Default,,0,0,0,,{\an8\i1}On this starless, moonless night
-Dialogue: 0,0:23:24.65,0:23:29.53,Default,,0,0,0,,{\an8\i1}I'm here by your side
+Dialogue: 0,0:23:09.26,0:23:14.81,Ending Song - Romaji,,0,0,0,,On a quiet night, we're singing a quiet song
+Dialogue: 0,0:23:15.10,0:23:19.48,Ending Song - Romaji,,0,0,0,,You softly tell me about your dreams
+Dialogue: 0,0:23:19.61,0:23:24.53,Ending Song - Romaji,,0,0,0,,On this starless, moonless night
+Dialogue: 0,0:23:24.65,0:23:29.53,Ending Song - Romaji,,0,0,0,,I'm here by your side
 Dialogue: 0,0:23:43.80,0:23:46.69,Default,,0,0,0,,Seems like he finally mastered the new space.
 Dialogue: 0,0:23:47.23,0:23:49.36,Default,,0,0,0,,Yeah, seems like he's adapted.
-Dialogue: 0,0:23:50.05,0:23:55.02,Default,,0,0,0,,{\an8\i1}There's too much of sweet, bitter and sour
-Dialogue: 0,0:23:55.14,0:24:00.06,Default,,0,0,0,,{\an8\i1}You forgot about joy and sadness
-Dialogue: 0,0:24:00.19,0:24:05.19,Default,,0,0,0,,{\an8\i1}My happiness is in your hands
-Dialogue: 0,0:24:05.32,0:24:10.07,Default,,0,0,0,,{\an8\i1}Be with me, don't wander anymore
-Dialogue: 0,0:24:10.20,0:24:15.62,Default,,0,0,0,,{\an8\i1}On a quiet night, we're singing a quiet song
-Dialogue: 0,0:24:15.91,0:24:20.29,Default,,0,0,0,,{\an8\i1}You softly tell me about your dreams
-Dialogue: 0,0:24:20.42,0:24:25.46,Default,,0,0,0,,{\an8\i1}Tonight, when the whole world is sleeping
-Dialogue: 0,0:24:25.59,0:24:30.14,Default,,0,0,0,,{\an8\i1}I'm here by your side
-Dialogue: 0,0:24:30.64,0:24:35.77,Default,,0,0,0,,{\an8\i1}Doesn't matter what tomorrow will be like
-Dialogue: 0,0:24:35.89,0:24:42.23,Default,,0,0,0,,{\an8\i1}Be with me, singing together softly
+Dialogue: 0,0:23:50.05,0:23:55.02,Ending Song - Romaji,,0,0,0,,There is too much sweetness, bitterness, and hurt
+Dialogue: 0,0:23:55.14,0:24:00.06,Ending Song - Romaji,,0,0,0,,You forgot about joy and sadness
+Dialogue: 0,0:24:00.19,0:24:05.19,Ending Song - Romaji,,0,0,0,,I place my happiness into your hands
+Dialogue: 0,0:24:05.32,0:24:10.07,Ending Song - Romaji,,0,0,0,,Stay with me, and wander no more
+Dialogue: 0,0:24:10.20,0:24:15.62,Ending Song - Romaji,,0,0,0,,On a quiet night, we're singing a quiet song
+Dialogue: 0,0:24:15.91,0:24:20.29,Ending Song - Romaji,,0,0,0,,You softly tell me about your dreams
+Dialogue: 0,0:24:20.42,0:24:25.46,Ending Song - Romaji,,0,0,0,,Tonight, when the whole world is sleeping
+Dialogue: 0,0:24:25.59,0:24:30.14,Ending Song - Romaji,,0,0,0,,I'm here by your side
+Dialogue: 0,0:24:30.64,0:24:35.77,Ending Song - Romaji,,0,0,0,,No matter what tomorrow may bring
+Dialogue: 0,0:24:35.89,0:24:42.23,Ending Song - Romaji,,0,0,0,,Stay with me, and softly sing
 Dialogue: 0,0:24:50.28,0:24:51.28,Default,,0,0,0,,What?
 Dialogue: 0,0:24:53.03,0:24:54.07,Default,,0,0,0,,Dongdong...
 Dialogue: 0,0:24:54.45,0:24:55.45,Default,,0,0,0,,is missing?
