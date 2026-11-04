@@ -1,0 +1,262 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 3840
+PlayResY: 2160
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,150,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,7.2,3.0,2,100,100,100,1
+Style: Title,Gandhi Sans,150,&H00FFFFFF,&H0000FFFF,&H00BAE39F,&H00000000,-1,-1,0,0,100,100,0,0,1,20,0,2,20,20,20,1
+Style: BG,Arial,40,&H003F5343,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.08,0:00:18.25,Default,,0,0,0,,Doesn't that mean Xiaohei can go to school with us?
+Dialogue: 0,0:00:20.00,0:00:21.09,Default,,0,0,0,,That's great!
+Dialogue: 0,0:00:21.63,0:00:23.84,Default,,0,0,0,,You probably weren't looking at\Nyour level when you logged out,
+Dialogue: 0,0:00:23.84,0:00:26.30,Default,,0,0,0,,but you should be at level 90 now.
+Dialogue: 0,0:00:27.39,0:00:28.72,Default,,0,0,0,,Only level 90?
+Dialogue: 0,0:00:29.10,0:00:30.81,Default,,0,0,0,,There's a threshold quest.
+Dialogue: 0,0:00:31.01,0:00:32.35,Default,,0,0,0,,Another prerequisite quest...
+Dialogue: 0,0:00:32.43,0:00:34.23,Default,,0,0,0,,Why are there so many...
+Dialogue: 0,0:00:35.85,0:00:37.40,Default,,0,0,0,,When leveling from 45 to 90
+Dialogue: 0,0:00:37.52,0:00:39.61,Default,,0,0,0,,you rarely go up by one level at a time.
+Dialogue: 0,0:00:39.77,0:00:40.82,Default,,0,0,0,,I did a rough calculation.
+Dialogue: 0,0:00:41.11,0:00:42.28,Default,,0,0,0,,Once he completes the quest
+Dialogue: 0,0:00:42.40,0:00:44.44,Default,,0,0,0,,he'll be over level 150.
+Dialogue: 0,0:00:46.07,0:00:47.78,Default,,0,0,0,,Then you'll able to use the Spirit Space ability.
+Dialogue: 0,0:00:48.07,0:00:50.28,Default,,0,0,0,,Let's help Xiaohei with the quest tomorrow!
+Dialogue: 0,0:00:50.45,0:00:50.83,Default,,0,0,0,,We can't.
+Dialogue: 0,0:00:51.91,0:00:53.87,Default,,0,0,0,,Xiaohei probably won't be able to log in for about 10 days.
+Dialogue: 0,0:00:54.16,0:00:56.12,Default,,0,0,0,,He stayed in the game for over an hour longer than allowed.
+Dialogue: 0,0:00:56.21,0:00:58.17,Default,,0,0,0,,Since he went over the allocated time, he was given a penalty.
+Dialogue: 0,0:00:58.58,0:00:59.33,Default,,0,0,0,,Penalty?
+Dialogue: 0,0:00:59.96,0:01:00.54,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:01:00.71,0:01:03.59,Default,,0,0,0,,All Living Beings is very strict about their anti-addiction rules.
+Dialogue: 0,0:01:03.76,0:01:06.09,Default,,0,0,0,,For every minute over, you accrue 10 times the penalty.
+Dialogue: 0,0:01:06.30,0:01:08.51,Default,,0,0,0,,For every hour over the limit, a ten-day penalty will be imposed.
+Dialogue: 0,0:01:08.84,0:01:10.97,Default,,0,0,0,,But Xiaohei was being forced to stay logged in.
+Dialogue: 0,0:01:11.05,0:01:12.31,Default,,0,0,0,,The system doesn't care about that.
+Dialogue: 0,0:01:12.85,0:01:15.77,Default,,0,0,0,,Otherwise people could abuse it and stay logged in forever.
+Dialogue: 0,0:01:16.39,0:01:16.89,Default,,0,0,0,,Ah.
+Dialogue: 0,0:01:17.44,0:01:18.52,Default,,0,0,0,,That's pretty rough...
+Dialogue: 0,0:01:18.65,0:01:20.86,Default,,0,0,0,,No wonder you stick to your offline hours so strictly.
+Dialogue: 0,0:01:21.11,0:01:22.57,Default,,0,0,0,,I'm actually very disciplined.
+Dialogue: 0,0:01:22.86,0:01:24.65,Default,,0,0,0,,What if the daily limit was ten hours?
+Dialogue: 0,0:01:25.03,0:01:26.44,Default,,0,0,0,,In that case, I'd only play for ten hours.
+Dialogue: 0,0:01:27.20,0:01:28.11,Default,,0,0,0,,Disciplined, huh?
+Dialogue: 0,0:01:28.49,0:01:29.11,Default,,0,0,0,,It's okay.
+Dialogue: 0,0:01:29.24,0:01:31.32,Default,,0,0,0,,I don't have to do any quests right now anyway.
+Dialogue: 0,0:01:31.45,0:01:33.24,Default,,0,0,0,,I can just watch you guys play instead.
+Dialogue: 0,0:01:33.91,0:01:36.45,Default,,0,0,0,,I'll stay with you. I can start teaching you how to write.
+Dialogue: 0,0:01:36.75,0:01:37.25,Default,,0,0,0,,Okay!
+Dialogue: 0,0:01:38.00,0:01:40.54,Default,,0,0,0,,Summer breaks almost over.\NI should probably practice too.
+Dialogue: 0,0:01:40.96,0:01:42.92,Default,,0,0,0,,I'll practice with you guys when I'm done playing.
+Dialogue: 0,0:01:45.13,0:01:46.05,Default,,0,0,0,,How unexpected.
+Dialogue: 0,0:01:47.30,0:01:50.05,Title,,0,0,0,,{\fad(643,0)\pos(884,1160)}Let's Start\NStudying, Xiaohei!
+Dialogue: 0,0:02:12.74,0:02:14.37,Default,,0,0,0,,Whose child is that?
+Dialogue: 0,0:02:17.45,0:02:18.75,Default,,0,0,0,,Oh, Xiaohei!
+Dialogue: 0,0:02:18.91,0:02:21.08,Default,,0,0,0,,Nice to meet you, nice\Nto meet you. I'm Grandpa.
+Dialogue: 0,0:02:21.08,0:02:22.08,Default,,0,0,0,,Hello, Grandpa.
+Dialogue: 0,0:02:26.55,0:02:28.09,Default,,0,0,0,,Here are my old text books.
+Dialogue: 0,0:02:28.55,0:02:30.47,Default,,0,0,0,,Here are some flash cards\Nfrom when I was a kid.
+Dialogue: 0,0:02:32.55,0:02:34.80,Default,,0,0,0,,Are you allowed to come to our school?
+Dialogue: 0,0:02:34.97,0:02:37.31,Default,,0,0,0,,I can if my master says it's okay. 
+Dialogue: 0,0:02:38.35,0:02:39.85,Default,,0,0,0,,You're still too young.
+Dialogue: 0,0:02:39.85,0:02:41.73,Default,,0,0,0,,Getting into school our\Nisn't as simple as that.
+Dialogue: 0,0:02:41.85,0:02:44.11,Default,,0,0,0,,With the guild, it should be a small matter.
+Dialogue: 0,0:02:45.19,0:02:46.98,Default,,0,0,0,,It seems I have a lot to learn as well.
+Dialogue: 0,0:02:47.44,0:02:49.07,Default,,0,0,0,,Let's start with the basics.
+Dialogue: 0,0:02:49.44,0:02:50.99,Default,,0,0,0,,You said you've been with your master for four years.
+Dialogue: 0,0:02:51.07,0:02:52.53,Default,,0,0,0,,Didn't he teach you anything?
+Dialogue: 0,0:02:52.99,0:02:54.99,Default,,0,0,0,,My spiritual space used to be unstable,
+Dialogue: 0,0:02:55.20,0:02:56.58,Default,,0,0,0,,so I was always training.
+Dialogue: 0,0:02:56.79,0:02:58.45,Default,,0,0,0,,Master was trying to teach me to read,
+Dialogue: 0,0:02:58.70,0:02:59.87,Default,,0,0,0,,but I'd get sleepy as\Nsoon as I started to read.
+Dialogue: 0,0:03:00.21,0:03:02.08,Default,,0,0,0,,So Master didn’t want to force it.
+Dialogue: 0,0:03:02.87,0:03:04.29,Default,,0,0,0,,I get sleepy when I read, too.
+Dialogue: 0,0:03:06.13,0:03:08.09,Default,,0,0,0,,Don’t get all sentimental about it, c'mon.
+Dialogue: 0,0:03:08.38,0:03:10.05,Default,,0,0,0,,You said your spirit space was unstable.
+Dialogue: 0,0:03:10.17,0:03:11.26,Default,,0,0,0,,Is it serious?
+Dialogue: 0,0:03:12.88,0:03:14.84,Default,,0,0,0,,It's fatal for a spirit.
+Dialogue: 0,0:03:15.39,0:03:17.60,Default,,0,0,0,,Training can be seen as a kind of rehabilitation therapy.
+Dialogue: 0,0:03:18.31,0:03:19.35,Default,,0,0,0,,That's good to know.
+Dialogue: 0,0:03:20.10,0:03:22.10,Default,,0,0,0,,I had to train for over ten hours every day.
+Dialogue: 0,0:03:22.94,0:03:24.52,Default,,0,0,0,,That sounds so hard!
+Dialogue: 0,0:03:24.69,0:03:26.36,Default,,0,0,0,,Not at all, it was fun!
+Dialogue: 0,0:03:26.73,0:03:27.77,Default,,0,0,0,,Are you doing better now?
+Dialogue: 0,0:03:27.98,0:03:28.94,Default,,0,0,0,,I'm completely fine now!
+Dialogue: 0,0:03:29.19,0:03:29.99,Default,,0,0,0,,I'm glad!
+Dialogue: 0,0:03:30.74,0:03:32.40,Default,,0,0,0,,Do you still have to train like that?
+Dialogue: 0,0:03:32.53,0:03:35.03,Default,,0,0,0,,Master said my space\Nis completely stable now.
+Dialogue: 0,0:03:35.16,0:03:36.45,Default,,0,0,0,,I shouldnt have any more issues.
+Dialogue: 0,0:03:36.58,0:03:38.62,Default,,0,0,0,,Then you can start\Nstudying from now on!
+Dialogue: 0,0:03:38.95,0:03:41.25,Default,,0,0,0,,We can non-stop study for over ten hours a day!
+Dialogue: 0,0:03:41.41,0:03:42.91,Default,,0,0,0,,No, no, no!
+Dialogue: 0,0:03:48.75,0:03:50.34,Default,,0,0,0,,Xiaohei, do you know Pinyin?
+Dialogue: 0,0:03:50.63,0:03:51.55,Default,,0,0,0,,A little.
+Dialogue: 0,0:03:51.72,0:03:52.59,Default,,0,0,0,,How many characters do you know?
+Dialogue: 0,0:03:53.26,0:03:53.76,Default,,0,0,0,,I'm not sure...
+Dialogue: 0,0:03:55.01,0:03:56.68,Default,,0,0,0,,Write whatever you can. Go ahead.
+Dialogue: 0,0:03:57.55,0:03:58.31,Default,,0,0,0,,Okay!
+Dialogue: 0,0:04:07.56,0:04:08.57,Default,,0,0,0,,Thirty-two.
+Dialogue: 0,0:04:08.86,0:04:10.07,Default,,0,0,0,,But two of them are wrong...
+Dialogue: 0,0:04:10.57,0:04:11.53,Default,,0,0,0,,I know more, 
+Dialogue: 0,0:04:11.65,0:04:12.78,Default,,0,0,0,,but I can't think of them right now.
+Dialogue: 0,0:04:13.90,0:04:15.07,Default,,0,0,0,,That's quite a lot!
+Dialogue: 0,0:04:15.95,0:04:16.99,Default,,0,0,0,,Is it?
+Dialogue: 0,0:04:18.37,0:04:19.16,Default,,0,0,0,,What are you so proud of?
+Dialogue: 0,0:04:19.41,0:04:21.16,Default,,0,0,0,,That's only a junior kindergarten level.
+Dialogue: 0,0:04:22.45,0:04:24.37,Default,,0,0,0,,We're in fourth grade.
+Dialogue: 0,0:04:24.75,0:04:26.79,Default,,0,0,0,,Xiaohei, try to catch up with us!
+Dialogue: 0,0:04:29.46,0:04:31.13,Default,,0,0,0,,I can't believe I'll be teaching Xiaohei from now on,
+Dialogue: 0,0:04:31.21,0:04:33.26,Default,,0,0,0,,I actually feel like studying for the first time.
+Dialogue: 0,0:04:33.38,0:04:35.22,Default,,0,0,0,,I don't know whether to be happy or to scold you.
+Dialogue: 0,0:04:35.68,0:04:38.01,Default,,0,0,0,,You guys are already so smart,\Nand you still have more to learn?
+Dialogue: 0,0:04:38.18,0:04:41.93,Default,,0,0,0,,The sea of learning is boundless.\NYou'll understand someday.
+Dialogue: 0,0:04:42.22,0:04:43.22,Default,,0,0,0,,Okay, let's begin!
+Dialogue: 0,0:04:43.39,0:04:44.39,Default,,0,0,0,,Alright!
+Dialogue: 0,0:04:46.10,0:04:50.77,Default,,0,0,0,,{\an8\fs(60)\i1}*Threshold, log out, log in, level, items
+Dialogue: 0,0:04:46.52,0:04:48.10,Default,,0,0,0,,Let's start with some everyday phrases.
+Dialogue: 0,0:04:49.15,0:04:50.52,Default,,0,0,0,,Let's just use the textbook...
+Dialogue: 0,0:05:18.93,0:05:20.14,Default,,0,0,0,,Time for watermelon!
+Dialogue: 0,0:05:22.39,0:05:23.47,Default,,0,0,0,,Thanks, Gen!
+Dialogue: 0,0:05:28.90,0:05:29.44,Default,,0,0,0,,Oh!
+Dialogue: 0,0:05:29.57,0:05:31.07,Default,,0,0,0,,Do spirits have schools?
+Dialogue: 0,0:05:31.31,0:05:32.27,Default,,0,0,0,,The guild has some.
+Dialogue: 0,0:05:32.57,0:05:33.99,Default,,0,0,0,,Do all spirits go to school?
+Dialogue: 0,0:05:34.86,0:05:36.03,Default,,0,0,0,,I'm not sure.
+Dialogue: 0,0:05:37.24,0:05:38.28,Default,,0,0,0,,Do you know, Gen?
+Dialogue: 0,0:05:39.41,0:05:41.66,Default,,0,0,0,,They only study if they want to.
+Dialogue: 0,0:05:41.91,0:05:43.20,Default,,0,0,0,,I want to be a spirit too.
+Dialogue: 0,0:05:43.62,0:05:44.58,Default,,0,0,0,,Hahaha!
+Dialogue: 0,0:05:45.29,0:05:46.87,Default,,0,0,0,,Then can humans train?
+Dialogue: 0,0:05:47.12,0:05:49.00,Default,,0,0,0,,Absolutely. Master is human.
+Dialogue: 0,0:05:49.17,0:05:50.17,Default,,0,0,0,,Your Master's human?
+Dialogue: 0,0:05:51.00,0:05:52.50,Default,,0,0,0,,H-h-how old is he?
+Dialogue: 0,0:05:52.96,0:05:53.75,Default,,0,0,0,,Over four hundred.
+Dialogue: 0,0:05:54.42,0:05:56.09,Default,,0,0,0,,Humans can live that long?
+Dialogue: 0,0:05:56.26,0:05:57.30,Default,,0,0,0,,They can cultivate immortality.
+Dialogue: 0,0:05:57.88,0:05:59.59,Default,,0,0,0,,So cultivating immortality is really a thing.
+Dialogue: 0,0:06:01.80,0:06:03.01,Default,,0,0,0,,Can we cultivate immortality too?
+Dialogue: 0,0:06:03.22,0:06:04.81,Default,,0,0,0,,You probably don't have the talent.
+Dialogue: 0,0:06:07.10,0:06:13.98,Default,,0,0,0,,{\fs(60)\i1\pos(390,1050)}*Tactful
+Dialogue: 0,0:06:07.52,0:06:09.10,Default,,0,0,0,,Come now, let's learn a new word.
+Dialogue: 0,0:06:09.52,0:06:11.31,Default,,0,0,0,,That's too hard!
+Dialogue: 0,0:06:17.07,0:06:17.82,Default,,0,0,0,,It's the hall manager.
+Dialogue: 0,0:06:19.07,0:06:19.86,Default,,0,0,0,,Lord Xuanli.
+Dialogue: 0,0:06:20.11,0:06:20.70,Default,,0,0,0,,Hi, Hall Manager.
+Dialogue: 0,0:06:21.16,0:06:22.16,Default,,0,0,0,,I'm looking for Lord Xiaohei.
+Dialogue: 0,0:06:25.66,0:06:26.12,Default,,0,0,0,,That's me.
+Dialogue: 0,0:06:26.95,0:06:29.29,Default,,0,0,0,,Lord Wuxian asks that you\Nhead to Longyou Guild right now.
+Dialogue: 0,0:06:29.79,0:06:30.37,Default,,0,0,0,,What's this about?
+Dialogue: 0,0:06:31.00,0:06:31.71,Default,,0,0,0,,He didn't say why.
+Dialogue: 0,0:06:32.29,0:06:32.63,Default,,0,0,0,,Okay.
+Dialogue: 0,0:06:32.63,0:06:35.17,Default,,0,0,0,,{\an8}So if I head to the hall, I can get to Longyou, right?
+Dialogue: 0,0:06:32.83,0:06:33.38,Default,,0,0,0,,Longyou...?
+Dialogue: 0,0:06:33.63,0:06:34.67,Default,,0,0,0,,Would we go by plane?
+Dialogue: 0,0:06:34.67,0:06:36.21,Default,,0,0,0,,The Spirit Guild has a portal.
+Dialogue: 0,0:06:36.17,0:06:36.71,Default,,0,0,0,,{\an8}Correct.
+Dialogue: 0,0:06:36.38,0:06:37.88,Default,,0,0,0,,I heard it can take you to lots of places.
+Dialogue: 0,0:06:37.09,0:06:38.51,Default,,0,0,0,,{\an8}Okay, understood.
+Dialogue: 0,0:06:38.01,0:06:39.34,Default,,0,0,0,,That's amazing.
+Dialogue: 0,0:06:39.59,0:06:41.22,Default,,0,0,0,,Lord Shanxin, you're\Nwelcome to come visit too.
+Dialogue: 0,0:06:41.26,0:06:42.14,Default,,0,0,0,,If you're interested.
+Dialogue: 0,0:06:42.26,0:06:43.22,Default,,0,0,0,,Me? Really?
+Dialogue: 0,0:06:43.60,0:06:43.97,Default,,0,0,0,,Of course.
+Dialogue: 0,0:06:44.51,0:06:46.47,Default,,0,0,0,,Friends of Lord Xuanli and Lord Xiaohei
+Dialogue: 0,0:06:46.77,0:06:47.89,Default,,0,0,0,,are always welcome.
+Dialogue: 0,0:06:48.89,0:06:49.89,Default,,0,0,0,,Then let's all go together.
+Dialogue: 0,0:06:50.02,0:06:51.35,Default,,0,0,0,,We didn't get to use it last time.
+Dialogue: 0,0:06:51.77,0:06:52.60,Default,,0,0,0,,Sure, sure!
+Dialogue: 0,0:06:52.85,0:06:53.56,Default,,0,0,0,,For real?
+Dialogue: 0,0:06:53.81,0:06:54.69,Default,,0,0,0,,Let's do it.
+Dialogue: 0,0:06:54.81,0:06:57.07,Default,,0,0,0,,If you get busy,\NI'll look after them.
+Dialogue: 0,0:06:59.36,0:07:00.65,Default,,0,0,0,,Yay!
+Dialogue: 0,0:07:00.65,0:07:02.16,Default,,0,0,0,,Let's stop here for today!
+Dialogue: 0,0:07:02.32,0:07:03.99,Default,,0,0,0,,We've only been serious for half a day...
+Dialogue: 0,0:07:04.37,0:07:05.24,Default,,0,0,0,,See you later, then.
+Dialogue: 0,0:07:05.66,0:07:06.12,Default,,0,0,0,,See you!
+Dialogue: 0,0:07:08.83,0:07:10.29,Default,,0,0,0,,How did he know my name?
+Dialogue: 0,0:07:11.16,0:07:11.75,Default,,0,0,0,,Oh, right...
+Dialogue: 0,0:07:16.04,0:07:17.21,Default,,0,0,0,,Bye, Grandpa!
+Dialogue: 0,0:07:17.21,0:07:18.09,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:07:54.75,0:07:55.71,Default,,0,0,0,,Hey, kids.
+Dialogue: 0,0:07:55.92,0:07:56.79,Default,,0,0,0,,Welcome.
+Dialogue: 0,0:07:56.88,0:07:57.50,Default,,0,0,0,,Hello.
+Dialogue: 0,0:07:58.34,0:07:59.55,Default,,0,0,0,,The hall manager is waiting for you inside.
+Dialogue: 0,0:07:59.75,0:08:00.46,Default,,0,0,0,,Head on in.
+Dialogue: 0,0:08:00.46,0:08:01.21,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:08:08.64,0:08:09.56,Default,,0,0,0,,Welcome, welcome!
+Dialogue: 0,0:08:09.68,0:08:10.56,Default,,0,0,0,,Hello, Hall Manager.
+Dialogue: 0,0:08:10.93,0:08:11.98,Default,,0,0,0,,Hello, I'm Shanxin.
+Dialogue: 0,0:08:12.35,0:08:13.02,Default,,0,0,0,,I'm Kali.
+Dialogue: 0,0:08:13.48,0:08:14.10,Default,,0,0,0,,Hop in.
+Dialogue: 0,0:08:16.31,0:08:17.19,Default,,0,0,0,,Kali.
+Dialogue: 0,0:08:17.77,0:08:18.27,Default,,0,0,0,,Kali...
+Dialogue: 0,0:08:18.94,0:08:20.69,Default,,0,0,0,,You're the moderator of the\Nspirit forum for All Living Beings!
+Dialogue: 0,0:08:21.03,0:08:21.28,Default,,0,0,0,,Correct.
+Dialogue: 0,0:08:22.32,0:08:23.70,Default,,0,0,0,,Did you make All Living Beings?!
+Dialogue: 0,0:08:23.95,0:08:25.57,Default,,0,0,0,,I'm not nearly that capable.
+Dialogue: 0,0:08:25.78,0:08:26.99,Default,,0,0,0,,I just help out.
+Dialogue: 0,0:08:27.24,0:08:28.49,Default,,0,0,0,,I handled some of the landscaping.
+Dialogue: 0,0:08:29.58,0:08:32.16,Default,,0,0,0,,The Giant Tree Forest you fought in yesterday was my design.
+Dialogue: 0,0:08:33.16,0:08:34.41,Default,,0,0,0,,You made that?!
+Dialogue: 0,0:08:34.75,0:08:36.58,Default,,0,0,0,,You know about our fight yesterday?
+Dialogue: 0,0:08:36.83,0:08:38.17,Default,,0,0,0,,It was quite the spectical.
+Dialogue: 0,0:08:38.67,0:08:41.30,Default,,0,0,0,,The people who didn't watch it live\Nwent back to watch the replays of it.
+Dialogue: 0,0:08:41.71,0:08:43.21,Default,,0,0,0,,No wonder you know my name.
+Dialogue: 0,0:08:43.80,0:08:44.51,Default,,0,0,0,,How embarrassing...
+Dialogue: 0,0:08:44.88,0:08:45.72,Default,,0,0,0,,You're too humble.
+Dialogue: 0,0:08:46.18,0:08:47.59,Default,,0,0,0,,You're a strong leader.
+Dialogue: 0,0:08:47.84,0:08:49.39,Default,,0,0,0,,It's a shame your control over\Nyour spiritual energy isn't refined.
+Dialogue: 0,0:08:49.85,0:08:50.85,Default,,0,0,0,,People think highly of you.
+Dialogue: 0,0:08:51.06,0:08:51.77,Default,,0,0,0,,Really?
+Dialogue: 0,0:08:51.97,0:08:53.27,Default,,0,0,0,,Want some insider info?
+Dialogue: 0,0:08:53.27,0:08:54.52,Default,,0,0,0,,No, no!
+Dialogue: 0,0:08:54.77,0:08:56.31,Default,,0,0,0,,End chat, end chat!
+Dialogue: 0,0:08:57.65,0:08:59.69,Default,,0,0,0,,Lord Shanxin really enjoys the game.
+Dialogue: 0,0:09:02.07,0:09:03.61,Default,,0,0,0,,Did Master say what this is about?
+Dialogue: 0,0:09:03.95,0:09:04.45,Default,,0,0,0,,Nope.
+Dialogue: 0,0:09:04.90,0:09:06.82,Default,,0,0,0,,But it might have something to\Ndo with the Longyou Tournament.
+Dialogue: 0,0:09:06.99,0:09:08.45,Default,,0,0,0,,Longyou Tournament?
+Dialogue: 0,0:09:08.66,0:09:12.37,Default,,0,0,0,,The Longyou Hall's annual martial\Narts tournament held for spirits under 30.
+Dialogue: 0,0:09:13.66,0:09:14.91,Default,,0,0,0,,Can we enter?
+Dialogue: 0,0:09:15.12,0:09:16.96,Default,,0,0,0,,Of course. I'll take you there.
+Dialogue: 0,0:09:17.12,0:09:18.29,Default,,0,0,0,,You're not busy?
+Dialogue: 0,0:09:18.58,0:09:19.17,Default,,0,0,0,,Not at all.
+Dialogue: 0,0:09:19.42,0:09:20.46,Default,,0,0,0,,I'm totally free.
+Dialogue: 0,0:09:22.30,0:09:23.80,Default,,0,0,0,,A tournament, Xiaohei!
+Dialogue: 0,0:09:23.96,0:09:25.26,Default,,0,0,0,,We'll cheer you on!
+Dialogue: 0,0:09:28.22,0:09:30.01,Default,,0,0,0,,I'm not sure that's it...
+Dialogue: 0,0:09:33.43,0:09:34.93,Default,,0,0,0,,It's so quiet.
+Dialogue: 0,0:09:35.73,0:09:36.85,Default,,0,0,0,,Where's Mr. Fu?
+Dialogue: 0,0:09:37.10,0:09:38.31,Default,,0,0,0,,He's hooked on the game.
+Dialogue: 0,0:09:38.69,0:09:39.69,Default,,0,0,0,,He hasn't reached his time limit?
+Dialogue: 0,0:09:40.11,0:09:41.57,Default,,0,0,0,,Guild members have no limits.
+Dialogue: 0,0:09:41.94,0:09:43.07,Default,,0,0,0,,That's not good!
+Dialogue: 0,0:09:43.07,0:09:43.90,Default,,0,0,0,,It's unhealthy.
+Dialogue: 0,0:09:44.03,0:09:44.78,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:09:45.07,0:09:46.99,Default,,0,0,0,,You can set his play time with this.
+Dialogue: 0,0:09:47.20,0:09:47.99,Default,,0,0,0,,I'll let you decide.
+Dialogue: 0,0:09:48.11,0:09:49.07,Default,,0,0,0,,Got it!
+Dialogue: 0,0:09:50.57,0:09:52.58,Default,,0,0,0,,You're just sharing your misery...
+Dialogue: 0,0:10:14.06,0:10:15.35,Default,,0,0,0,,Cool, right?
+Dialogue: 0,0:10:16.64,0:10:18.73,Default,,0,0,0,,Just stand on that round platform to teleport.
+Dialogue: 0,0:10:19.06,0:10:19.64,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:10:20.81,0:10:21.56,Default,,0,0,0,,Who did that?!
+Dialogue: 0,0:10:21.60,0:10:22.15,Default,,0,0,0,,Get out here!
+Dialogue: 0,0:10:22.23,0:10:23.02,Default,,0,0,0,,Let's go, quickly.
+Dialogue: 0,0:10:25.28,0:10:26.19,Default,,0,0,0,,Don't touch anything.
+Dialogue: 0,0:10:28.32,0:10:29.36,Default,,0,0,0,,Longyou Guild.
+Dialogue: 0,0:10:34.12,0:10:35.45,Default,,0,0,0,,Did we make it?
+Dialogue: 0,0:10:44.79,0:10:46.88,Default,,0,0,0,,It's huge!
+Dialogue: 0,0:10:49.26,0:10:50.09,Default,,0,0,0,,This way.
+Dialogue: 0,0:10:55.81,0:10:56.93,Default,,0,0,0,,How is it so small?
+Dialogue: 0,0:10:56.93,0:10:58.39,Default,,0,0,0,,Shanxin, hurry!
+Dialogue: 0,0:11:08.24,0:11:10.82,Default,,0,0,0,,Welcome to Longyou Guild.
