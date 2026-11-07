@@ -2862,7 +2862,7 @@ Comment: 0,0:04:10.02,0:04:10.06,TS - Pinyin,TS,0,0,0,,大 小黑 无限 师父 
 Comment: 0,0:04:23.15,0:04:27.02,Default,TS,0,0,0,,四年级
 Dialogue: 0,0:04:23.15,0:04:27.02,TS - 4th Grade,TS,0,0,0,,{\pos(1334,64)}4th Grade
 Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(646,462.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(632,652.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Exit
+Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(632,652.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
 Dialogue: 0,0:04:46.06,0:04:46.31,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(888,648.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log In
 Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(632,846.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(896,844.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items

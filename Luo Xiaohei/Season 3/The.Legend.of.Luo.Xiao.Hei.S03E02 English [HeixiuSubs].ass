@@ -10,6 +10,17 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,10,10,60,1
+Style: TS - Title,Impact,48,&H00000000,&H000000FF,&H00B8AA67,&H00000000,-1,0,0,0,100,100,0,0,1,10,0,5,0,0,0,1
+Style: TS - Sign,Segoe UI Black,70,&H00353D41,&H000000FF,&H00353D41,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,5,0,0,0,1
+Style: TS - Fish,Comic Sans MS,32,&H00303737,&H000000FF,&H00303737,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
+Style: TS - Cotton Candy,Ink Free,70,&H0082C5BF,&H000000FF,&H002C6556,&H0087B7E8,-1,0,0,0,100,100,0,0,1,4,0,5,0,0,0,1
+Style: TS - Park,Gabriola,128,&H00396E61,&H000000FF,&H002F5A51,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,5,0,0,0,1
+Style: TS - Flavors,Arial,10,&H0098ADAC,&H000000FF,&H001E2738,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+Style: TS - Poster,Arial,28,&H00546C76,&H000000FF,&H00546C76,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
+Style: TS - Fitness,MV Boli,48,&H0067D9CE,&H000000FF,&H0052B5AC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0,0,0,1
+Style: TS - Water,Comic Sans MS,20,&H00263741,&H000000FF,&H00263741,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
+Style: TS - Cat Cafe,Segoe UI,48,&H0069ABA1,&H000000FF,&H008ED3C5,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,5,0,0,0,1
+Style: TS - Art Gallery,Segoe UI,30,&H00C8CDB2,&H000000FF,&H00A4B29A,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -270,3 +281,180 @@ Dialogue: 0,0:15:13.46,0:15:15.50,Default,,0,0,0,,He's no danger to Xiaohei.
 Dialogue: 0,0:15:15.63,0:15:16.25,Default,,0,0,0,,I know.
 Dialogue: 0,0:15:17.29,0:15:18.41,Default,,0,0,0,,Time to get ready.
 Dialogue: 0,0:15:18.54,0:15:19.50,Default,,0,0,0,,Go get him.
+Dialogue: 0,0:02:07.06,0:02:12.56,TS - Title,TS,0,0,0,,{\pos(1428,476.14)\fade(2481,0)}The Wind in Longyou Blows Gently
+Dialogue: 0,0:02:12.56,0:02:12.60,TS - Sign,TS,0,0,0,,{\pos(954,698)}No Entry
+Dialogue: 0,0:02:12.60,0:02:12.65,TS - Sign,TS,0,0,0,,{\pos(954,730)\fs56}No Entry
+Dialogue: 0,0:02:12.65,0:02:12.69,TS - Sign,TS,0,0,0,,{\pos(954,754)\fs50}No Entry
+Dialogue: 0,0:02:12.69,0:02:12.73,TS - Sign,TS,0,0,0,,{\pos(954,776)\fs44}No Entry
+Dialogue: 0,0:02:12.73,0:02:12.77,TS - Sign,TS,0,0,0,,{\pos(954,788)\fs42}No Entry
+Dialogue: 0,0:02:12.77,0:02:13.94,TS - Sign,TS,0,0,0,,{\pos(954,792)\fs40}No Entry
+Comment: 0,0:02:12.77,0:02:13.94,TS - Sign,TS,0,0,0,,禁入
+Dialogue: 0,0:02:55.19,0:02:55.27,TS - Fish,TS,0,0,0,,{\org(1827.6,1475.1)\pos(1931.95,2341.7)\fry-4.68\frx0.54\frz-169.31}Fish
+Dialogue: 0,0:02:55.27,0:02:55.35,TS - Fish,TS,0,0,0,,{\org(1660.4,811.4)\pos(1734.79,949.06)\fry-3.56\frx3.62\frz-160.18}Fish
+Dialogue: 0,0:02:55.35,0:02:55.44,TS - Fish,TS,0,0,0,,{\org(1428.8,758.0)\pos(1329.61,767.5)\fry-5.72\frx7.27\frz-158.26}Fish
+Dialogue: 0,0:02:55.44,0:02:55.52,TS - Fish,TS,0,0,0,,{\org(1458.8,806.6)\pos(1387.35,888.68)\fry-7.22\frx10.80\frz-158.85}Fish
+Dialogue: 0,0:02:55.52,0:02:55.60,TS - Fish,TS,0,0,0,,{\org(1409.1,804.3)\pos(1309.67,876.88)\fry-8.71\frx12.61\frz-158.68}Fish
+Dialogue: 0,0:02:55.60,0:02:55.73,TS - Fish,TS,0,0,0,,{\org(1444.4,729.9)\pos(1422.71,751.95)\fry-9.35\frx20.74\frz-156.41}Fish
+Dialogue: 0,0:02:55.73,0:02:55.85,TS - Fish,TS,0,0,0,,{\org(1444.4,729.9)\pos(1447.61,768.54)\fry-9.35\frx20.74\frz206}Fish
+Dialogue: 0,0:02:55.85,0:02:55.98,TS - Fish,TS,0,0,0,,{\org(1444.4,729.9)\pos(1468.88,783.77)\fs34\fry-9.35\frx20.74\frz207.6}Fish
+Dialogue: 0,0:02:55.98,0:02:56.06,TS - Fish,TS,0,0,0,,{\org(1444.4,729.9)\pos(1494.72,794.21)\fs34\fry-9.35\frx20.74\frz206.2}Fish
+Dialogue: 0,0:02:56.06,0:02:56.15,TS - Fish,TS,0,0,0,,{\org(1196.9,734.3)\pos(1042.87,700.89)\fs26\fry-13.32\frx12.12\frz-157.09}Fish
+Dialogue: 0,0:02:56.15,0:02:56.23,TS - Fish,TS,0,0,0,,{\org(1248.7,758.5)\pos(1140.37,766.08)\fs30\fry-13.45\frx16.03\frz-157.27}Fish
+Dialogue: 0,0:02:56.23,0:02:56.31,TS - Fish,TS,0,0,0,,{\org(1195.9,689.7)\pos(1089.1,615.37)\fs28\fry-2.67\frx21.10\frz-159.54\fax0.02}Fish
+Dialogue: 0,0:02:56.31,0:02:56.40,TS - Fish,TS,0,0,0,,{\org(1043.1,947.8)\pos(670.48,1095.68)\fs36\fry-3.51\frx14.52\frz-161.25}Fish
+Dialogue: 0,0:02:56.40,0:02:56.48,TS - Fish,TS,0,0,0,,{\org(604.9,1096.4)\pos(-337.1,1334.21)\fs36\fry-0.73\frx11.96\frz-166.72}Fish
+Dialogue: 0,0:02:56.48,0:02:56.56,TS - Fish,TS,0,0,0,,{\org(-34.1,7.9)\pos(-184.48,-974.34)\fs12\fry-11.82\frx-7.71\frz-129.20}Fish
+Dialogue: 0,0:02:56.56,0:02:56.65,TS - Fish,TS,0,0,0,,{\org(874.6,200.7)\pos(2000.05,-2300.79)\fry-4.56\frx-22.56\frz-127.32\fax0.01\fs100}Fish
+Comment: 0,0:02:56.56,0:02:56.65,TS - Fish,TS,0,0,0,,鱼
+Dialogue: 0,0:03:01.35,0:03:01.44,TS - Water,TS,0,0,0,,{\org(1404.7,855.8)\pos(1315.86,680.68)\fry-10.23\frx35.15\fs16\frz50.47}Water
+Dialogue: 0,0:03:01.44,0:03:01.52,TS - Water,TS,0,0,0,,{\org(931.0,1081.1)\pos(1132.57,1228.58)\fscx95\fs6\fry-66.33\frx4.36\frz57.08}Water
+Dialogue: 0,0:03:01.52,0:03:01.60,TS - Water,TS,0,0,0,,{\org(983.2,1090.8)\pos(1176.28,1241.47)\fscx110\fs9\fry-42.59\frx-17.24\frz74.65\fax0.03}Water
+Dialogue: 0,0:03:01.60,0:03:01.69,TS - Water,TS,0,0,0,,{\org(1153.2,984.9)\pos(1329.57,1033.63)\fscx120\fry-37.82\frx0.57\frz81.73}Water
+Dialogue: 0,0:03:01.69,0:03:01.77,TS - Water,TS,0,0,0,,{\org(1245.6,850.8)\pos(1312.99,796.63)\fscx95\fs36\fry-46.65\frx1.77\frz86.89\fax-0.01\clip(m 1200.58 792.96 l 1204.91 801.14 1208.6 811.72 1212.13 823.43 1215.97 837.06 1227.2 821.67 1233.93 722.89 1202.83 724.97)}Water
+Dialogue: 0,0:03:01.77,0:03:01.85,TS - Water,TS,0,0,0,,{\org(1209.5,730.4)\pos(1155.91,734.53)\fs28\fry-39.58\frx11.85\frz97.17\fax0.16\clip(m 1200.1 756.08 l 1204.75 765.22 1209.08 774.2 1214.69 787.99 1219.98 800.98 1226.72 823.11 1227.84 724.01 1192.56 729.14)}Water
+Dialogue: 0,0:03:01.85,0:03:01.94,TS - Water,TS,0,0,0,,{\org(1221.9,811.7)\pos(1257.46,796.59)\fs28\fry-6.89\frx8.01\frz94.51\clip(m 1197.37 742.45 l 1202.51 751.59 1207.8 760.41 1214.05 772.12 1223.67 790.4 1219.5 722.73 1195.93 728.02)}Water
+Comment: 0,0:03:01.85,0:03:01.94,TS - Water,TS,0,0,0,,水
+Dialogue: 0,0:05:37.90,0:05:42.35,TS - Fitness,TS,0,0,0,,{\org(1436.5,1066.8)\pos(1491.48,956.12)\fry-15.33\frx-0.56\frz0.56}Dacheng Fitness
+Comment: 0,0:05:37.90,0:05:42.35,TS - Fitness,TS,0,0,0,,大程健身
+Dialogue: 0,0:05:42.35,0:05:43.85,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(457.8,332.5)\pos(329.31,196.6)\fscx100\fscy100\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:42.35,0:05:43.85,TS - Art Gallery,TS,0,0,0,,{=18}{\org(386.96,997.36)\pos(336.55,1028.07)\fscx106.02\fscy106.02\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:43.85,0:05:43.90,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(457.8,332.43)\pos(329.77,197.02)\fscx99.64\fscy99.64\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:43.85,0:05:43.90,TS - Art Gallery,TS,0,0,0,,{=18}{\org(386.93,996.63)\pos(336.91,1027.1)\fscx105.18\fscy105.18\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:43.90,0:05:43.94,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(457.4,332.4)\pos(329.49,197.11)\fscx99.55\fscy99.55\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:43.90,0:05:43.94,TS - Art Gallery,TS,0,0,0,,{=18}{\org(386.96,996.05)\pos(337.03,1026.46)\fscx105\fscy105\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:43.94,0:05:43.98,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(457.18,332.42)\pos(329.34,197.2)\fscx99.5\fscy99.5\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:43.94,0:05:43.98,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.01,995.27)\pos(337.25,1025.58)\fscx104.65\fscy104.65\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:43.98,0:05:44.02,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(456.98,332.58)\pos(329.22,197.45)\fscx99.44\fscy99.44\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:43.98,0:05:44.02,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.12,994.75)\pos(337.37,1025.05)\fscx104.64\fscy104.64\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.02,0:05:44.06,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(456.67,332.9)\pos(328.93,197.78)\fscx99.42\fscy99.42\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.02,0:05:44.06,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.14,993.91)\pos(337.43,1024.2)\fscx104.56\fscy104.56\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.06,0:05:44.10,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(456.38,332.85)\pos(329.04,198.17)\fscx99.1\fscy99.1\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.06,0:05:44.10,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.15,993.21)\pos(337.5,1023.46)\fscx104.42\fscy104.42\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.10,0:05:44.15,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.82,333.07)\pos(328.57,198.48)\fscx99.04\fscy99.04\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.10,0:05:44.15,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.27,992.35)\pos(337.62,1022.59)\fscx104.42\fscy104.42\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.15,0:05:44.19,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.79,333.11)\pos(328.76,198.76)\fscx98.86\fscy98.86\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.15,0:05:44.19,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.4,990.91)\pos(337.8,1021.12)\fscx104.31\fscy104.31\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.19,0:05:44.23,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.35,333.46)\pos(328.44,199.23)\fscx98.77\fscy98.77\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.19,0:05:44.23,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.63,989.72)\pos(338.14,1019.86)\fscx104.08\fscy104.08\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.23,0:05:44.27,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.41,333.44)\pos(329.5,200.27)\fscx97.99\fscy97.99\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.23,0:05:44.27,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.73,988.38)\pos(338.25,1018.51)\fscx104.04\fscy104.04\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.27,0:05:44.31,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.04,333.75)\pos(329.29,200.75)\fscx97.86\fscy97.86\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.27,0:05:44.31,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.75,986.68)\pos(338.63,1016.6)\fscx103.3\fscy103.3\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.31,0:05:44.35,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.02,333.95)\pos(329.7,201.4)\fscx97.53\fscy97.53\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.31,0:05:44.35,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.82,985.12)\pos(338.75,1015.01)\fscx103.18\fscy103.18\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.35,0:05:44.40,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.11,334.27)\pos(330.44,202.4)\fscx97.03\fscy97.03\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.35,0:05:44.40,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.93,983.01)\pos(339.2,1012.69)\fscx102.48\fscy102.48\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.40,0:05:44.44,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(454.95,334.93)\pos(330.39,203.19)\fscx96.94\fscy96.94\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.40,0:05:44.44,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.86,980.65)\pos(339.67,1010.01)\fscx101.34\fscy101.34\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.44,0:05:44.48,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(454.76,335.38)\pos(330.36,203.8)\fscx96.82\fscy96.82\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.44,0:05:44.48,TS - Art Gallery,TS,0,0,0,,{=18}{\org(387.92,978.93)\pos(339.83,1008.22)\fscx101.14\fscy101.14\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.48,0:05:44.52,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.13,335.44)\pos(331.91,205.11)\fscx95.9\fscy95.9\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.48,0:05:44.52,TS - Art Gallery,TS,0,0,0,,{=18}{\org(388.08,976.51)\pos(340.47,1005.51)\fscx100.11\fscy100.11\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.52,0:05:44.56,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(454.77,335.92)\pos(331.7,205.75)\fscx95.78\fscy95.78\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.52,0:05:44.56,TS - Art Gallery,TS,0,0,0,,{=18}{\org(388.21,974.78)\pos(340.62,1003.77)\fscx100.09\fscy100.09\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.56,0:05:44.60,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(454.94,336.81)\pos(332.27,207.07)\fscx95.47\fscy95.47\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.56,0:05:44.60,TS - Art Gallery,TS,0,0,0,,{=18}{\org(388.46,972.74)\pos(340.99,1001.65)\fscx99.82\fscy99.82\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.60,0:05:44.65,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.12,336.93)\pos(332.84,207.58)\fscx95.17\fscy95.17\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.60,0:05:44.65,TS - Art Gallery,TS,0,0,0,,{=18}{\org(388.89,970.36)\pos(341.49,999.23)\fscx99.67\fscy99.67\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.65,0:05:44.69,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.65,337.47)\pos(334.45,209.28)\fscx94.33\fscy94.33\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.65,0:05:44.69,TS - Art Gallery,TS,0,0,0,,{=18}{\org(389.28,968.4)\pos(342.11,997.13)\fscx99.21\fscy99.21\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.69,0:05:44.73,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.69,338.14)\pos(334.62,210.09)\fscx94.22\fscy94.22\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.69,0:05:44.73,TS - Art Gallery,TS,0,0,0,,{=18}{\org(389.75,966.35)\pos(342.58,995.08)\fscx99.2\fscy99.2\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.73,0:05:44.77,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(455.79,338.59)\pos(335.06,210.9)\fscx93.96\fscy93.96\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.73,0:05:44.77,TS - Art Gallery,TS,0,0,0,,{=18}{\org(390.24,963.77)\pos(343.34,992.34)\fscx98.63\fscy98.63\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.77,0:05:44.81,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(456.02,339.38)\pos(335.75,212.18)\fscx93.6\fscy93.6\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.77,0:05:44.81,TS - Art Gallery,TS,0,0,0,,{=18}{\org(390.52,961.92)\pos(343.64,990.48)\fscx98.6\fscy98.6\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.81,0:05:44.85,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(456.24,339.77)\pos(336.53,213.15)\fscx93.17\fscy93.17\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.81,0:05:44.85,TS - Art Gallery,TS,0,0,0,,{=18}{\org(391.31,959.17)\pos(344.71,987.55)\fscx98\fscy98\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.85,0:05:44.90,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(456.37,340.45)\pos(336.91,214.1)\fscx92.97\fscy92.97\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.85,0:05:44.90,TS - Art Gallery,TS,0,0,0,,{=18}{\org(392.15,956.44)\pos(345.91,984.61)\fscx97.26\fscy97.26\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.90,0:05:44.94,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(456.85,341.08)\pos(338.36,215.75)\fscx92.22\fscy92.22\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.90,0:05:44.94,TS - Art Gallery,TS,0,0,0,,{=18}{\org(392.46,954.12)\pos(346.34,982.21)\fscx96.99\fscy96.99\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.94,0:05:44.98,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(457.05,341.59)\pos(338.96,216.68)\fscx91.91\fscy91.91\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.94,0:05:44.98,TS - Art Gallery,TS,0,0,0,,{=18}{\org(393.25,951.07)\pos(347.54,978.92)\fscx96.14\fscy96.14\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:44.98,0:05:45.02,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(457.69,341.97)\pos(340.95,218.5)\fscx90.86\fscy90.86\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:44.98,0:05:45.02,TS - Art Gallery,TS,0,0,0,,{=18}{\org(394.04,948.3)\pos(348.71,975.91)\fscx95.34\fscy95.34\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.02,0:05:45.06,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(457.92,342.76)\pos(341.66,219.79)\fscx90.49\fscy90.49\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.02,0:05:45.06,TS - Art Gallery,TS,0,0,0,,{=18}{\org(394.55,945.84)\pos(349.3,973.4)\fscx95.16\fscy95.16\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.06,0:05:45.10,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(458.14,343.24)\pos(342.41,220.84)\fscx90.07\fscy90.07\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.06,0:05:45.10,TS - Art Gallery,TS,0,0,0,,{=18}{\org(395.19,943.46)\pos(350.07,970.95)\fscx94.9\fscy94.9\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.10,0:05:45.15,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(458.5,344.16)\pos(343.49,222.52)\fscx89.51\fscy89.51\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.10,0:05:45.15,TS - Art Gallery,TS,0,0,0,,{=18}{\org(395.99,941.08)\pos(351.02,968.47)\fscx94.59\fscy94.59\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.15,0:05:45.19,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(458.57,344.8)\pos(343.74,223.36)\fscx89.37\fscy89.37\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.15,0:05:45.19,TS - Art Gallery,TS,0,0,0,,{=18}{\org(396.74,938.44)\pos(352.08,965.65)\fscx93.94\fscy93.94\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.19,0:05:45.23,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(459,345.39)\pos(345.08,224.9)\fscx88.66\fscy88.66\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.19,0:05:45.23,TS - Art Gallery,TS,0,0,0,,{=18}{\org(397.47,935.87)\pos(353.08,962.91)\fscx93.37\fscy93.37\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.23,0:05:45.27,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(459.63,345.66)\pos(346.97,226.51)\fscx87.68\fscy87.68\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.23,0:05:45.27,TS - Art Gallery,TS,0,0,0,,{=18}{\org(398.38,933.3)\pos(354.04,960.31)\fscx93.25\fscy93.25\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.27,0:05:45.31,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(460.09,346.08)\pos(348.38,227.93)\fscx86.94\fscy86.94\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.27,0:05:45.31,TS - Art Gallery,TS,0,0,0,,{=18}{\org(398.96,930.21)\pos(355.32,956.79)\fscx91.76\fscy91.76\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.31,0:05:45.35,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(460.18,346.98)\pos(348.81,229.19)\fscx86.67\fscy86.67\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.31,0:05:45.35,TS - Art Gallery,TS,0,0,0,,{=18}{\org(399.69,927.87)\pos(356.15,954.39)\fscx91.56\fscy91.56\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.35,0:05:45.40,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(460.29,347.69)\pos(349.14,230.14)\fscx86.5\fscy86.5\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.35,0:05:45.40,TS - Art Gallery,TS,0,0,0,,{=18}{\org(400.16,925.48)\pos(356.69,951.96)\fscx91.42\fscy91.42\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.40,0:05:45.44,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(460.98,347.94)\pos(351.21,231.84)\fscx85.43\fscy85.43\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.40,0:05:45.44,TS - Art Gallery,TS,0,0,0,,{=18}{\org(400.78,922.72)\pos(357.75,948.93)\fscx90.51\fscy90.51\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.44,0:05:45.48,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461,348.81)\pos(351.28,232.76)\fscx85.39\fscy85.39\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.44,0:05:45.48,TS - Art Gallery,TS,0,0,0,,{=18}{\org(400.96,920.63)\pos(358.02,946.79)\fscx90.31\fscy90.31\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.48,0:05:45.52,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.2,349.26)\pos(351.91,233.67)\fscx85.06\fscy85.06\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.48,0:05:45.52,TS - Art Gallery,TS,0,0,0,,{=18}{\org(401.77,918.31)\pos(358.88,944.44)\fscx90.2\fscy90.2\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.52,0:05:45.56,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.69,349.81)\pos(353.37,235.25)\fscx84.3\fscy84.3\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.52,0:05:45.56,TS - Art Gallery,TS,0,0,0,,{=18}{\org(402.31,915.95)\pos(359.76,941.86)\fscx89.49\fscy89.49\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.56,0:05:45.60,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.77,350.09)\pos(353.69,235.77)\fscx84.11\fscy84.11\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.56,0:05:45.60,TS - Art Gallery,TS,0,0,0,,{=18}{\org(402.77,913.75)\pos(360.26,939.64)\fscx89.39\fscy89.39\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.60,0:05:45.65,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.88,350.65)\pos(354.12,236.68)\fscx83.86\fscy83.86\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.60,0:05:45.65,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.16,910.98)\pos(361.22,936.53)\fscx88.21\fscy88.21\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.65,0:05:45.69,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(462.08,351.13)\pos(354.98,237.85)\fscx83.36\fscy83.36\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.65,0:05:45.69,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.16,908.86)\pos(361.29,934.36)\fscx88.06\fscy88.06\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.69,0:05:45.73,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(462.17,351.51)\pos(355.59,238.79)\fscx82.95\fscy82.95\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.69,0:05:45.73,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.18,907.14)\pos(361.47,932.54)\fscx87.71\fscy87.71\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.73,0:05:45.77,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(462.28,352.27)\pos(356.27,240.15)\fscx82.5\fscy82.5\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.73,0:05:45.77,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.14,904.65)\pos(362,929.71)\fscx86.53\fscy86.53\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.77,0:05:45.81,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(462.52,352.19)\pos(357.59,241.21)\fscx81.67\fscy81.67\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.77,0:05:45.81,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.38,903.06)\pos(362.23,928.12)\fscx86.53\fscy86.53\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.81,0:05:45.85,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(462.33,352.86)\pos(357.45,241.94)\fscx81.62\fscy81.62\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.81,0:05:45.85,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.43,901.3)\pos(362.32,926.34)\fscx86.46\fscy86.46\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.85,0:05:45.90,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(462.47,352.69)\pos(358.67,242.91)\fscx80.78\fscy80.78\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.85,0:05:45.90,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.48,899.41)\pos(362.45,924.4)\fscx86.28\fscy86.28\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.90,0:05:45.94,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(462.3,353.09)\pos(358.81,243.64)\fscx80.54\fscy80.54\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.90,0:05:45.94,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.72,898.26)\pos(362.71,923.24)\fscx86.24\fscy86.24\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.94,0:05:45.98,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.9,353.56)\pos(358.51,244.21)\fscx80.46\fscy80.46\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.94,0:05:45.98,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.76,896.89)\pos(362.78,921.86)\fscx86.19\fscy86.19\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:45.98,0:05:46.02,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.7,353.6)\pos(358.81,244.77)\fscx80.08\fscy80.08\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:45.98,0:05:46.02,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.86,895.52)\pos(362.89,920.47)\fscx86.14\fscy86.14\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.02,0:05:46.06,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.57,353.97)\pos(358.92,245.39)\fscx79.89\fscy79.89\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.02,0:05:46.06,TS - Art Gallery,TS,0,0,0,,{=18}{\org(403.99,894.29)\pos(363.1,919.2)\fscx85.99\fscy85.99\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.06,0:05:46.10,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(461.12,354.06)\pos(358.58,245.61)\fscx79.81\fscy79.81\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.06,0:05:46.10,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.12,893.31)\pos(363.26,918.2)\fscx85.93\fscy85.93\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.10,0:05:46.15,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(460.91,354.34)\pos(358.43,245.94)\fscx79.76\fscy79.76\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.10,0:05:46.15,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.2,892.06)\pos(363.54,916.83)\fscx85.52\fscy85.52\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.15,0:05:46.19,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(460.4,354.45)\pos(357.97,246.12)\fscx79.72\fscy79.72\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.15,0:05:46.19,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.23,890.99)\pos(363.6,915.73)\fscx85.44\fscy85.44\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.19,0:05:46.23,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(460.29,354.55)\pos(358.13,246.49)\fscx79.51\fscy79.51\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.19,0:05:46.23,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.41,890.33)\pos(363.82,915.06)\fscx85.36\fscy85.36\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.23,0:05:46.27,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(459.73,354.59)\pos(357.64,246.62)\fscx79.45\fscy79.45\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.23,0:05:46.27,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.41,889.85)\pos(363.83,914.57)\fscx85.34\fscy85.34\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.27,0:05:46.31,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(459.68,354.82)\pos(357.78,247.04)\fscx79.31\fscy79.31\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.27,0:05:46.31,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.4,889.36)\pos(363.92,914.02)\fscx85.14\fscy85.14\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.31,0:05:46.35,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(459.41,354.81)\pos(357.55,247.07)\fscx79.28\fscy79.28\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.31,0:05:46.35,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.38,888.26)\pos(364.24,912.71)\fscx84.41\fscy84.41\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.35,0:05:46.40,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(459.33,354.76)\pos(357.64,247.2)\fscx79.14\fscy79.14\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.35,0:05:46.40,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.37,888.05)\pos(364.29,912.47)\fscx84.31\fscy84.31\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Dialogue: 0,0:05:46.40,0:05:47.44,TS - Cat Cafe,TS,0,0,0,,{=16}{\org(459.3,354.74)\pos(357.73,247.31)\fscx79.05\fscy79.05\fry12.83\frx-3.00\frz-77.71}Bad Cats · Cat Cafe
+Dialogue: 0,0:05:46.40,0:05:47.44,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.35,887.62)\pos(364.49,911.9)\fscx83.83\fscy83.83\fry5.98\frx-8.42\frz-71.81}Muyan Art Gallery
+Comment: 0,0:05:46.40,0:05:47.44,TS - Cat Cafe,TS,0,0,0,,{=16}渣猫·猫咖 木炎画廊
+Dialogue: 0,0:06:50.06,0:06:52.10,TS - Cotton Candy,TS,0,0,0,,{\org(1653.0,883.9)\pos(1689,815.1)\fry-15.46\frx0.19\frz-0.20}Cotton Candy
+Comment: 0,0:06:50.06,0:06:52.10,TS - Cotton Candy,TS,0,0,0,,棉花糖
+Dialogue: 0,0:07:47.44,0:07:49.94,TS - Park,TS,0,0,0,,{\pos(1017.26,536.5)\frz312.2\c&H396E61&}Windrest Park
+Comment: 0,0:07:47.44,0:07:49.94,TS - Park,TS,0,0,0,,风息公园
+Dialogue: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,{\org(1275.2,778.0)\pos(788.81,838.52)\fry0.45\frx2.57\frz-4.97\fax0.01}Vanilla
+Dialogue: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,{\org(1275.2,778.0)\pos(824.28,838.73)\fry0.45\frx2.57\frz-4.97\fax0.01}Matcha
+Dialogue: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,{\org(1275.2,778.0)\pos(868.27,838.95)\fry0.45\frx2.57\frz-4.97\fax0.01}Strawberry
+Comment: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,香草 抹茶 草莓
+Dialogue: 0,0:09:10.56,0:09:12.60,TS - Poster,TS,0,0,0,,{\an6\pos(1228.87,33.15)}Windrest Park\NManagement Office
+Dialogue: 0,0:09:10.56,0:09:12.60,TS - Poster,TS,0,0,0,,{\an6\pos(1228.87,123.57)}Internal Regulations
+Comment: 0,0:09:10.56,0:09:12.60,TS - Poster,TS,0,0,0,,风息公园管理处 内部守则
+
+[Aegisub Extradata]
+Data: 16,a-mo,e{"uuid"#3A"ba834aa9-0165-4cd0-82eb-3b4fd4791506"#2C"originalText"#3A"{\\org(457.8#2C332.5)\\fry12.83\\frx-3.00\\frz-77.71\\pos(329.31#2C196.6)}Bad Cats · Cat Cafe"}
+Data: 18,a-mo,e{"uuid"#3A"4c2980fe-399a-4b09-9c41-34888ff4c3eb"#2C"originalText"#3A"{\\org(389.4#2C977.5)\\fry5.98\\frx-8.42\\frz-71.81\\pos(341.85#2C1006.47)}Muyan Art Gallery"}
