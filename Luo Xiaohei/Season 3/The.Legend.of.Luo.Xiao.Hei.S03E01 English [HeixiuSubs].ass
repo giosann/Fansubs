@@ -20,7 +20,7 @@ Style: TS - Flip-Book,Comic Sans MS,48,&H001E2F45,&H000000FF,&H001E2F45,&H000000
 Style: TS - Pinyin,Arial,30,&H00202D43,&H000000FF,&H00202D43,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
 Style: TS - 4th Grade,Arial,60,&H00FFFFFF,&H000000FF,&H0021303E,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,5,0,0,0,1
 Style: TS - Chalkboard 2,Comic Sans MS,30,&H00B1C8BD,&H000000FF,&H00B1C8BD,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
-Style: TS - Chalkboard 3,Comic Sans MS,52,&H00E5E9EB,&H000000FF,&H00E5E9EB,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
+Style: TS - Chalkboard 3,Comic Sans MS,70,&H00E5E9EB,&H000000FF,&H00E5E9EB,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
 Style: TS - Tablet,Arial,48,&H00A9C1C1,&H000000FF,&H0022302D,&H00000000,-1,0,0,0,100,100,0,0,1,100,0,5,0,0,0,1
 Style: TS - Tablet 2,Arial,48,&H006A8777,&H000000FF,&H00A9C1C1,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: TS - Tablet 3,Arial,60,&H00E3F8FF,&H000000FF,&H002EAAF5,&H00000000,-1,0,0,0,100,100,0,0,1,10,0,5,0,0,0,1
@@ -3013,13 +3013,9 @@ Dialogue: 0,0:05:14.77,0:05:14.81,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,53
 Dialogue: 0,0:05:14.81,0:05:14.85,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,53.1)\pos(-10.6,585.7)\fry21.22\frx13.95\frz21.38}White
 Dialogue: 0,0:05:14.85,0:05:14.90,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,52.7)\pos(-10.6,585.3)\fry21.22\frx13.95\frz21.38}White
 Dialogue: 0,0:05:14.90,0:05:14.94,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,52.4)\pos(-10.6,584.9)\fry21.22\frx13.95\frz21.38}White
-Dialogue: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(607.8,873.9)\fry0.44\frx0.60\frz3.27}Entrust
-Dialogue: 0,0:06:07.06,0:06:07.48,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(774.6,873.3)\fry0.44\frx0.60\frz3.27}Graceful
-Comment: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,委 婉
-Dialogue: 0,0:06:07.48,0:06:07.56,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(774.6,873.3)\fry0.44\frx0.60\frz3.27\clip(m 357.2 858.2 l 421.2 903.2 279.5 932.2 250.4 855.6)}Graceful
-Dialogue: 0,0:06:07.56,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(774.6,873.3)\fry0.44\frx0.60\frz3.27\clip(m 367.4 857.3 l 421.5 898.8 265.6 958.8 255.2 850.5)}Graceful
-Dialogue: 0,0:06:48.85,0:06:54.65,TS - Chalkboard 3,TS,0,0,0,,{\org(-1096.5,-160.9)\pos(30.3,2990.2)\fry8.66\frx0.96\frz30.26\fax-0.01\fs60}Entrust
-Dialogue: 0,0:06:48.85,0:06:54.65,TS - Chalkboard 3,TS,0,0,0,,{\org(-1096.5,-160.9)\pos(220.3,2990.2)\fry8.66\frx0.96\frz30.26\fax-0.01\fs60}Graceful
+Dialogue: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\fry0.44\frx0.60\frz3.27\pos(699,881.9)}Tactful
+Comment: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,委婉
+Dialogue: 0,0:06:48.85,0:06:54.65,TS - Chalkboard 3,TS,0,0,0,,{\org(-1096.5,-160.9)\fry8.66\frx0.96\frz30.26\fax-0.01\fs86\pos(117.9,2990.2)}Tactful
 Dialogue: 0,0:07:06.27,0:07:06.85,TS - Tablet,TS,0,0,0,,{\pos(871,874.7)\clip(m 566.2 829.6 l 1166.5 815.1 1174.1 919 570.5 934.4)\frz1.802}Disconnected. Chat ended.
 Comment: 0,0:07:06.27,0:07:06.85,TS - Tablet,TS,0,0,0,,对方已挂断，聊天结束
 Dialogue: 0,0:07:46.48,0:07:48.44,TS - Divorced,TS,0,0,0,,{\pos(750.3,486)\fs36\c&HB7B4AF&}Shanxin
