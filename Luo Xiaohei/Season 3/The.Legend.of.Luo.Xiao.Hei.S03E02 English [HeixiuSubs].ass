@@ -11,16 +11,6 @@ YCbCr Matrix: TV.709
 LayoutResX: 1920
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: ../../../../Downloads/[HeixiuSubs] The Legend of Luo Xiaohei/[HeixiuSubs] The Legend of Luo Xiaohei - Season 3 [1080p BSITE WEB-DL AAC H.264]/The.Legend.of.Luo.Xiaohei.S03E02.1080p.BSITE.WEB-DL.ZHO.AAC2.0.H.264-ToonsHub.mkv
-Video File: ../../../../Downloads/[HeixiuSubs] The Legend of Luo Xiaohei/[HeixiuSubs] The Legend of Luo Xiaohei - Season 3 [1080p BSITE WEB-DL AAC H.264]/The.Legend.of.Luo.Xiaohei.S03E02.1080p.BSITE.WEB-DL.ZHO.AAC2.0.H.264-ToonsHub.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 408
-Active Line: 414
-Video Position: 20387
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,10,10,60,1
@@ -468,7 +458,3 @@ Dialogue: 0,0:15:13.46,0:15:15.50,Default,,0,0,0,,He's no danger to Xiaohei.
 Dialogue: 0,0:15:15.63,0:15:16.25,Default,,0,0,0,,I know.
 Dialogue: 0,0:15:17.29,0:15:18.41,Default,,0,0,0,,Time to get ready.
 Dialogue: 0,0:15:18.54,0:15:19.50,Default,,0,0,0,,Go get him.
-
-[Aegisub Extradata]
-Data: 16,a-mo,e{"uuid"#3A"ba834aa9-0165-4cd0-82eb-3b4fd4791506"#2C"originalText"#3A"{\\org(457.8#2C332.5)\\fry12.83\\frx-3.00\\frz-77.71\\pos(329.31#2C196.6)}Bad Cats · Cat Cafe"}
-Data: 18,a-mo,e{"uuid"#3A"4c2980fe-399a-4b09-9c41-34888ff4c3eb"#2C"originalText"#3A"{\\org(389.4#2C977.5)\\fry5.98\\frx-8.42\\frz-71.81\\pos(341.85#2C1006.47)}Muyan Art Gallery"}
