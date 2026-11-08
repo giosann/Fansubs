@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 ; This is an Advanced Sub Station Alpha v4+ script.
 Title: 
 ScriptType: v4.00+
@@ -20,7 +20,7 @@ Style: TS - Flip-Book,Comic Sans MS,48,&H001E2F45,&H000000FF,&H001E2F45,&H000000
 Style: TS - Pinyin,Arial,30,&H00202D43,&H000000FF,&H00202D43,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
 Style: TS - 4th Grade,Arial,60,&H00FFFFFF,&H000000FF,&H0021303E,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,5,0,0,0,1
 Style: TS - Chalkboard 2,Comic Sans MS,30,&H00B1C8BD,&H000000FF,&H00B1C8BD,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
-Style: TS - Chalkboard 3,Comic Sans MS,52,&H00E5E9EB,&H000000FF,&H00E5E9EB,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
+Style: TS - Chalkboard 3,Comic Sans MS,70,&H00E5E9EB,&H000000FF,&H00E5E9EB,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,0,0,0,1
 Style: TS - Tablet,Arial,48,&H00A9C1C1,&H000000FF,&H0022302D,&H00000000,-1,0,0,0,100,100,0,0,1,100,0,5,0,0,0,1
 Style: TS - Tablet 2,Arial,48,&H006A8777,&H000000FF,&H00A9C1C1,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: TS - Tablet 3,Arial,60,&H00E3F8FF,&H000000FF,&H002EAAF5,&H00000000,-1,0,0,0,100,100,0,0,1,10,0,5,0,0,0,1
@@ -71,7 +71,6 @@ Dialogue: 0,0:01:36.75,0:01:37.25,Default,,0,0,0,,Okay!
 Dialogue: 0,0:01:38.00,0:01:40.54,Default,,0,0,0,,Summer breaks almost over.\NI should probably practice too.
 Dialogue: 0,0:01:40.96,0:01:42.92,Default,,0,0,0,,I'll practice with you guys when I'm done playing.
 Dialogue: 0,0:01:45.13,0:01:46.05,Default,,0,0,0,,How unexpected.
-Dialogue: 0,0:01:47.30,0:01:50.05,Default,,0,0,0,,{\fad(643,0)\pos(884,1160)}Let's Start\NStudying, Xiaohei!
 Dialogue: 0,0:02:12.74,0:02:14.37,Default,,0,0,0,,Whose child is that?
 Dialogue: 0,0:02:17.45,0:02:18.75,Default,,0,0,0,,Oh, Xiaohei!
 Dialogue: 0,0:02:18.91,0:02:21.08,Default,,0,0,0,,Nice to meet you, nice\Nto meet you. I'm Grandpa.
@@ -134,7 +133,6 @@ Dialogue: 0,0:04:35.68,0:04:38.01,Default,,0,0,0,,You guys are already so smart,
 Dialogue: 0,0:04:38.18,0:04:41.93,Default,,0,0,0,,The sea of learning is boundless.\NYou'll understand someday.
 Dialogue: 0,0:04:42.22,0:04:43.22,Default,,0,0,0,,Okay, let's begin!
 Dialogue: 0,0:04:43.39,0:04:44.39,Default,,0,0,0,,Alright!
-Dialogue: 0,0:04:46.10,0:04:50.77,Default,,0,0,0,,{\an8\fs(60)\i1}*Threshold, log out, log in, level, items
 Dialogue: 0,0:04:46.52,0:04:48.10,Default,,0,0,0,,Let's start with some everyday phrases.
 Dialogue: 0,0:04:49.15,0:04:50.52,Default,,0,0,0,,Let's just use the textbook...
 Dialogue: 0,0:05:18.93,0:05:20.14,Default,,0,0,0,,Time for watermelon!
@@ -158,7 +156,6 @@ Dialogue: 0,0:05:56.26,0:05:57.30,Default,,0,0,0,,They can cultivate immortality
 Dialogue: 0,0:05:57.88,0:05:59.59,Default,,0,0,0,,So cultivating immortality is really a thing.
 Dialogue: 0,0:06:01.80,0:06:03.01,Default,,0,0,0,,Can we cultivate immortality too?
 Dialogue: 0,0:06:03.22,0:06:04.81,Default,,0,0,0,,You probably don't have the talent.
-Dialogue: 0,0:06:07.10,0:06:13.98,Default,,0,0,0,,{\fs(60)\i1\pos(390,1050)}*Tactful
 Dialogue: 0,0:06:07.52,0:06:09.10,Default,,0,0,0,,Come now, let's learn a new word.
 Dialogue: 0,0:06:09.52,0:06:11.31,Default,,0,0,0,,That's too hard!
 Dialogue: 0,0:06:17.07,0:06:17.82,Default,,0,0,0,,It's the hall manager.
@@ -2862,7 +2859,7 @@ Comment: 0,0:04:10.02,0:04:10.06,TS - Pinyin,TS,0,0,0,,大 小黑 无限 师父 
 Comment: 0,0:04:23.15,0:04:27.02,Default,TS,0,0,0,,四年级
 Dialogue: 0,0:04:23.15,0:04:27.02,TS - 4th Grade,TS,0,0,0,,{\pos(1334,64)}4th Grade
 Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(646,462.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(632,652.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(647.98,652.3)}Log Out
 Dialogue: 0,0:04:46.06,0:04:46.31,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(888,648.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log In
 Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(632,846.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:46.06,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(896,844.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
@@ -2879,42 +2876,42 @@ Dialogue: 0,0:04:47.40,0:04:47.44,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\p
 Dialogue: 0,0:04:47.44,0:04:47.52,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(888,648.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 544 748.6 l 571.4 780.6 455.1 792 444.5 746.4)}Log In
 Dialogue: 0,0:04:47.52,0:04:48.10,TS - Chalkboard,TS,0,0,0,,{\org(20.9,2955.2)\pos(888,648.3)\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 551.3 746.6 l 574.1 777 455.1 792 444.5 746.4)}Log In
 Dialogue: 0,0:04:48.10,0:04:48.15,TS - Chalkboard,TS,0,0,0,,{=53}{\org(15,2790)\pos(583,543.4)\fscy90.88\fscx90.88\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.10,0:04:48.15,TS - Chalkboard,TS,0,0,0,,{=51}{\org(17.7,2772.8)\pos(564.3,711.5)\fscy90.2\fscx90.2\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.10,0:04:48.15,TS - Chalkboard,TS,0,0,0,,{=51}{\org(17.7,2772.8)\fscy90.2\fscx90.2\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(578.38,711.5)}Log Out
 Dialogue: 0,0:04:48.10,0:04:48.15,TS - Chalkboard,TS,0,0,0,,{=57}{\org(18.5,2764.2)\pos(567.3,883.6)\fscy89.81\fscx89.81\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.10,0:04:48.15,TS - Chalkboard,TS,0,0,0,,{=54}{\org(15.5,2778.4)\pos(801.2,880.5)\fscy90.51\fscx90.51\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.10,0:04:48.15,TS - Chalkboard,TS,0,0,0,,{=56}{\org(17.1,2771.6)\pos(791.3,711.1)\fscy90.14\fscx90.14\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 493.9 778.3 l 511.4 802.7 403.6 818.8 418.9 779.3)}Log In
 Dialogue: 0,0:04:48.15,0:04:48.19,TS - Chalkboard,TS,0,0,0,,{=53}{\org(13.7,2661.3)\pos(539,596.6)\fscy84.05\fscx84.05\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.15,0:04:48.19,TS - Chalkboard,TS,0,0,0,,{=51}{\org(16.4,2643.5)\pos(521.1,751.8)\fscy83.33\fscx83.33\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.15,0:04:48.19,TS - Chalkboard,TS,0,0,0,,{=51}{\org(16.4,2643.5)\fscy83.33\fscx83.33\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(531.66,751.8)}Log Out
 Dialogue: 0,0:04:48.15,0:04:48.19,TS - Chalkboard,TS,0,0,0,,{=57}{\org(18.7,2625.6)\pos(522.7,908.9)\fscy82.49\fscx82.49\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.15,0:04:48.19,TS - Chalkboard,TS,0,0,0,,{=54}{\org(13.9,2652.4)\pos(736.5,907)\fscy83.78\fscx83.78\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.15,0:04:48.19,TS - Chalkboard,TS,0,0,0,,{=56}{\org(17.7,2634.2)\pos(724.2,750.7)\fscy82.93\fscx82.93\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 452.6 796.8 l 471.4 821.2 386.8 842.4 378 799)}Log In
 Dialogue: 0,0:04:48.19,0:04:48.23,TS - Chalkboard,TS,0,0,0,,{=53}{\org(11.6,2576.5)\pos(508.1,633)\fscy79.44\fscx79.44\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.19,0:04:48.23,TS - Chalkboard,TS,0,0,0,,{=51}{\org(15.2,2552.2)\pos(487.8,775)\fscy78.46\fscx78.46\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.19,0:04:48.23,TS - Chalkboard,TS,0,0,0,,{=51}{\org(15.2,2552.2)\fscy78.46\fscx78.46\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(497.55,775)}Log Out
 Dialogue: 0,0:04:48.19,0:04:48.23,TS - Chalkboard,TS,0,0,0,,{=57}{\org(17.6,2533.6)\pos(491.6,925.7)\fscy77.59\fscx77.59\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.19,0:04:48.23,TS - Chalkboard,TS,0,0,0,,{=54}{\org(12.3,2562.4)\pos(689.8,922.6)\fscy78.98\fscx78.98\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.19,0:04:48.23,TS - Chalkboard,TS,0,0,0,,{=56}{\org(16.3,2543.8)\pos(677.8,779.3)\fscy78.09\fscx78.09\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 445.4 839.8 l 425 813.8 352 815.2 349 865)}Log In
 Dialogue: 0,0:04:48.23,0:04:48.27,TS - Chalkboard,TS,0,0,0,,{=53}{\org(12.7,2494.9)\pos(483.2,661.8)\fscy75.26\fscx75.26\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.23,0:04:48.27,TS - Chalkboard,TS,0,0,0,,{=51}{\org(14.7,2481.2)\pos(464.4,794.8)\fscy74.7\fscx74.7\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.23,0:04:48.27,TS - Chalkboard,TS,0,0,0,,{=51}{\org(14.7,2481.2)\fscy74.7\fscx74.7\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(472.53,794.8)}Log Out
 Dialogue: 0,0:04:48.23,0:04:48.27,TS - Chalkboard,TS,0,0,0,,{=57}{\org(15.9,2472)\pos(469.7,935.3)\fscy74.27\fscx74.27\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.23,0:04:48.27,TS - Chalkboard,TS,0,0,0,,{=54}{\org(14,2483.6)\pos(654.1,936.6)\fscy74.83\fscx74.83\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.23,0:04:48.27,TS - Chalkboard,TS,0,0,0,,{=56}{\org(10.3,2500.7)\pos(647.7,795.6)\fscy75.55\fscx75.55\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 404.6 825 l 424.6 851.6 332.8 872.6 334.4 828.8)}Log In
 Dialogue: 0,0:04:48.27,0:04:48.31,TS - Chalkboard,TS,0,0,0,,{=53}{\org(12.7,2442.7)\pos(466.1,679.7)\fscy72.54\fscx72.54\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.27,0:04:48.31,TS - Chalkboard,TS,0,0,0,,{=51}{\org(13.4,2440.8)\pos(449.5,807)\fscy72.48\fscx72.48\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.27,0:04:48.31,TS - Chalkboard,TS,0,0,0,,{=51}{\org(13.4,2440.8)\fscy72.48\fscx72.48\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(456.54,807)}Log Out
 Dialogue: 0,0:04:48.27,0:04:48.31,TS - Chalkboard,TS,0,0,0,,{=57}{\org(15.2,2425)\pos(453.7,942.6)\fscy71.76\fscx71.76\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.27,0:04:48.31,TS - Chalkboard,TS,0,0,0,,{=54}{\org(14.9,2429)\pos(630.9,944.9)\fscy71.95\fscx71.95\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.27,0:04:48.31,TS - Chalkboard,TS,0,0,0,,{=56}{\org(15.3,2426.8)\pos(619.7,813)\fscy71.87\fscx71.87\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 390.6 835 l 410.6 858.8 287 881.2 290.8 839.8)}Log In
 Dialogue: 0,0:04:48.31,0:04:48.35,TS - Chalkboard,TS,0,0,0,,{=53}{\org(10.8,2423)\pos(456.7,690.9)\fscy71.34\fscx71.34\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.31,0:04:48.35,TS - Chalkboard,TS,0,0,0,,{=51}{\org(12.8,2411.6)\pos(439.2,814.9)\fscy70.91\fscx70.91\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.31,0:04:48.35,TS - Chalkboard,TS,0,0,0,,{=51}{\org(12.8,2411.6)\fscy70.91\fscx70.91\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(445.96,814.9)}Log Out
 Dialogue: 0,0:04:48.31,0:04:48.35,TS - Chalkboard,TS,0,0,0,,{=57}{\org(13.6,2402.6)\pos(444.5,947.8)\fscy70.52\fscx70.52\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.31,0:04:48.35,TS - Chalkboard,TS,0,0,0,,{=54}{\org(17.8,2382.7)\pos(611.7,950.2)\fscy69.56\fscx69.56\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.31,0:04:48.35,TS - Chalkboard,TS,0,0,0,,{=56}{\org(14,2400.2)\pos(605.6,821.3)\fscy70.4\fscx70.4\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 401.4 863.4 l 382.6 840.2 295 843 300.4 896.6)}Log In
 Dialogue: 0,0:04:48.35,0:04:48.40,TS - Chalkboard,TS,0,0,0,,{=53}{\org(13,2387.5)\pos(448.4,699.2)\fscy69.67\fscx69.67\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.35,0:04:48.40,TS - Chalkboard,TS,0,0,0,,{=51}{\org(12.8,2391.6)\pos(432.9,820.7)\fscy69.86\fscx69.86\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.35,0:04:48.40,TS - Chalkboard,TS,0,0,0,,{=51}{\org(12.8,2391.6)\fscy69.86\fscx69.86\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(439.27,820.7)}Log Out
 Dialogue: 0,0:04:48.35,0:04:48.40,TS - Chalkboard,TS,0,0,0,,{=57}{\org(13.2,2385.5)\pos(438.5,950)\fscy69.6\fscx69.6\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.35,0:04:48.40,TS - Chalkboard,TS,0,0,0,,{=54}{\org(10.8,2396.1)\pos(608.6,950.7)\fscy70.12\fscx70.12\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.35,0:04:48.40,TS - Chalkboard,TS,0,0,0,,{=56}{\org(13.6,2382.9)\pos(597.2,825.3)\fscy69.48\fscx69.48\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 395.2 865.4 l 377.6 842.4 290.4 847.2 285.6 896.4)}Log In
 Dialogue: 0,0:04:48.40,0:04:50.73,TS - Chalkboard,TS,0,0,0,,{=53}{\org(10.4,2400.3)\pos(448.8,699.5)\fscy70.13\fscx70.13\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Requirements
-Dialogue: 0,0:04:48.40,0:04:50.73,TS - Chalkboard,TS,0,0,0,,{=51}{\org(13.5,2378.5)\pos(429.6,822.9)\fscy69.23\fscx69.23\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Log Out
+Dialogue: 0,0:04:48.40,0:04:50.73,TS - Chalkboard,TS,0,0,0,,{=51}{\org(13.5,2378.5)\fscy69.23\fscx69.23\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\pos(436.1,822.9)}Log Out
 Dialogue: 0,0:04:48.40,0:04:50.73,TS - Chalkboard,TS,0,0,0,,{=57}{\org(14.4,2371.3)\pos(435.4,950.8)\fscy68.89\fscx68.89\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Level
 Dialogue: 0,0:04:48.40,0:04:50.73,TS - Chalkboard,TS,0,0,0,,{=54}{\org(16,2366.6)\pos(601,953)\fscy68.67\fscx68.67\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76}Items
 Dialogue: 0,0:04:48.40,0:04:50.73,TS - Chalkboard,TS,0,0,0,,{=56}{\org(15.8,2367)\pos(593,827.8)\fscy68.73\fscx68.73\fs40\c&HD8EBE9&\fry0.84\frx0.51\frz7.76\clip(m 393.2 866.2 l 376.8 844.8 285 848.4 289.4 901.6)}Log In
@@ -3016,13 +3013,9 @@ Dialogue: 0,0:05:14.77,0:05:14.81,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,53
 Dialogue: 0,0:05:14.81,0:05:14.85,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,53.1)\pos(-10.6,585.7)\fry21.22\frx13.95\frz21.38}White
 Dialogue: 0,0:05:14.85,0:05:14.90,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,52.7)\pos(-10.6,585.3)\fry21.22\frx13.95\frz21.38}White
 Dialogue: 0,0:05:14.90,0:05:14.94,TS - Chalkboard 2,TS,0,0,0,,{=59}{\org(70.6,52.4)\pos(-10.6,584.9)\fry21.22\frx13.95\frz21.38}White
-Dialogue: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(607.8,873.9)\fry0.44\frx0.60\frz3.27}Entrust
-Dialogue: 0,0:06:07.06,0:06:07.48,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(774.6,873.3)\fry0.44\frx0.60\frz3.27}Graceful
-Comment: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,委 婉
-Dialogue: 0,0:06:07.48,0:06:07.56,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(774.6,873.3)\fry0.44\frx0.60\frz3.27\clip(m 357.2 858.2 l 421.2 903.2 279.5 932.2 250.4 855.6)}Graceful
-Dialogue: 0,0:06:07.56,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\pos(774.6,873.3)\fry0.44\frx0.60\frz3.27\clip(m 367.4 857.3 l 421.5 898.8 265.6 958.8 255.2 850.5)}Graceful
-Dialogue: 0,0:06:48.85,0:06:54.65,TS - Chalkboard 3,TS,0,0,0,,{\org(-1096.5,-160.9)\pos(30.3,2990.2)\fry8.66\frx0.96\frz30.26\fax-0.01\fs60}Entrust
-Dialogue: 0,0:06:48.85,0:06:54.65,TS - Chalkboard 3,TS,0,0,0,,{\org(-1096.5,-160.9)\pos(220.3,2990.2)\fry8.66\frx0.96\frz30.26\fax-0.01\fs60}Graceful
+Dialogue: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,{\org(-2356.7,2342.1)\fry0.44\frx0.60\frz3.27\pos(699,881.9)}Tactful
+Comment: 0,0:06:07.06,0:06:13.94,TS - Chalkboard 3,TS,0,0,0,,委婉
+Dialogue: 0,0:06:48.85,0:06:54.65,TS - Chalkboard 3,TS,0,0,0,,{\org(-1096.5,-160.9)\fry8.66\frx0.96\frz30.26\fax-0.01\fs86\pos(117.9,2990.2)}Tactful
 Dialogue: 0,0:07:06.27,0:07:06.85,TS - Tablet,TS,0,0,0,,{\pos(871,874.7)\clip(m 566.2 829.6 l 1166.5 815.1 1174.1 919 570.5 934.4)\frz1.802}Disconnected. Chat ended.
 Comment: 0,0:07:06.27,0:07:06.85,TS - Tablet,TS,0,0,0,,对方已挂断，聊天结束
 Dialogue: 0,0:07:46.48,0:07:48.44,TS - Divorced,TS,0,0,0,,{\pos(750.3,486)\fs36\c&HB7B4AF&}Shanxin

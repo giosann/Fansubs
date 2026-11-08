@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 ; This is an Advanced Sub Station Alpha v4+ script.
 Title: 
 ScriptType: v4.00+
@@ -445,13 +445,13 @@ Dialogue: 0,0:05:46.40,0:05:47.44,TS - Art Gallery,TS,0,0,0,,{=18}{\org(404.35,8
 Comment: 0,0:05:46.40,0:05:47.44,TS - Cat Cafe,TS,0,0,0,,{=16}渣猫·猫咖 木炎画廊
 Dialogue: 0,0:06:50.06,0:06:52.10,TS - Cotton Candy,TS,0,0,0,,{\org(1653.0,883.9)\pos(1689,815.1)\fry-15.46\frx0.19\frz-0.20}Cotton Candy
 Comment: 0,0:06:50.06,0:06:52.10,TS - Cotton Candy,TS,0,0,0,,棉花糖
-Dialogue: 0,0:07:47.44,0:07:49.94,TS - Park,TS,0,0,0,,{\pos(1017.26,536.5)\frz312.2\c&H396E61&}Windrest Park
+Dialogue: 0,0:07:47.44,0:07:49.94,TS - Park,TS,0,0,0,,{\pos(1017.26,536.5)\frz312.2\c&H396E61&}Fengxi Park
 Comment: 0,0:07:47.44,0:07:49.94,TS - Park,TS,0,0,0,,风息公园
 Dialogue: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,{\org(1275.2,778.0)\pos(788.81,838.52)\fry0.45\frx2.57\frz-4.97\fax0.01}Vanilla
 Dialogue: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,{\org(1275.2,778.0)\pos(824.28,838.73)\fry0.45\frx2.57\frz-4.97\fax0.01}Matcha
 Dialogue: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,{\org(1275.2,778.0)\pos(868.27,838.95)\fry0.45\frx2.57\frz-4.97\fax0.01}Strawberry
 Comment: 0,0:07:56.77,0:08:00.02,TS - Flavors,TS,0,0,0,,香草 抹茶 草莓
-Dialogue: 0,0:09:10.56,0:09:12.60,TS - Poster,TS,0,0,0,,{\an6\pos(1228.87,33.15)}Windrest Park\NManagement Office
+Dialogue: 0,0:09:10.56,0:09:12.60,TS - Poster,TS,0,0,0,,{\an6\pos(1228.87,33.15)}Fengxi Park\NManagement Office
 Dialogue: 0,0:09:10.56,0:09:12.60,TS - Poster,TS,0,0,0,,{\an6\pos(1228.87,123.57)}Internal Regulations
 Comment: 0,0:09:10.56,0:09:12.60,TS - Poster,TS,0,0,0,,风息公园管理处 内部守则
 
