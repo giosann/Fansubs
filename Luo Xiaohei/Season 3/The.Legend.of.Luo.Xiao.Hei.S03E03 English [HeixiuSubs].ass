@@ -93,11 +93,11 @@ Dialogue: 0,0:03:42.43,0:03:44.39,Default,,0,0,0,,3, 2, 1.
 Dialogue: 0,0:04:05.54,0:04:06.08,Default,,0,0,0,,Good.
 Dialogue: 0,0:04:06.84,0:04:07.84,Default,,0,0,0,,Test complete.
 Dialogue: 0,0:04:09.95,0:04:11.41,Default,,0,0,0,,Our mission this time is a rescue.
-Dialogue: 0,0:04:12.00,0:04:13.46,Default,,0,0,0,,The process is fairly simple,
-Dialogue: 0,0:04:13.46,0:04:14.50,Default,,0,0,0,,but no mistakes are allowed.
+Dialogue: 0,0:04:12.00,0:04:13.46,Default,,0,0,0,,The process is fairly simple, but
+Dialogue: 0,0:04:13.46,0:04:14.50,Default,,0,0,0,,there's no room for mistakes.
 Dialogue: 0,0:04:14.58,0:04:14.98,Default,,0,0,0,,Right.
 Dialogue: 0,0:04:15.42,0:04:16.67,Default,,0,0,0,,Just one mistake
-Dialogue: 0,0:04:16.71,0:04:18.04,Default,,0,0,0,,and the mission fails.
+Dialogue: 0,0:04:16.67,0:04:18.04,Default,,0,0,0,,and the mission fails.
 Dialogue: 0,0:04:18.88,0:04:19.31,Default,,0,0,0,,Right.
 Dialogue: 0,0:04:19.63,0:04:20.33,Default,,0,0,0,,When the time comes,
 Dialogue: 0,0:04:20.54,0:04:22.25,Default,,0,0,0,,we'll move sixteen kilometers this way.
@@ -138,7 +138,7 @@ Dialogue: 0,0:05:52.83,0:05:53.63,Default,,0,0,0,,A Breath-Holding Pill.
 Dialogue: 0,0:05:53.92,0:05:55.13,Default,,0,0,0,,Just keep it in your mouth.
 Dialogue: 0,0:05:55.79,0:05:57.83,Default,,0,0,0,,There's no air inside the rock I devour.
 Dialogue: 0,0:06:03.75,0:06:04.79,Default,,0,0,0,,Nervous?
-Dialogue: 0,0:06:06.63,0:06:08.92,Default,,0,0,0,,With you here, Master, what's there to be nervous about?
+Dialogue: 0,0:06:06.63,0:06:08.92,Default,,0,0,0,,With you here, Master,\Nwhat's there to be nervous about?
 Dialogue: 0,0:06:10.58,0:06:11.08,Default,,0,0,0,,Alright.
 Dialogue: 0,0:06:11.54,0:06:12.21,Default,,0,0,0,,Here we go.
 Dialogue: 0,0:06:12.21,0:06:12.65,Default,,0,0,0,,Mm.
@@ -150,6 +150,7 @@ Dialogue: 0,0:06:20.96,0:06:22.46,Default,,0,0,0,,But you have to open one every
 Dialogue: 0,0:06:22.71,0:06:23.75,Default,,0,0,0,,Understand?
 Dialogue: 0,0:06:25.67,0:06:26.63,Default,,0,0,0,,This direction.
 Dialogue: 0,0:06:26.88,0:06:27.79,Default,,0,0,0,,Ready.
+Dialogue: 0,0:06:28.34,0:06:30.90,Default,,0,0,0,,3, 2, 1.
 Dialogue: 0,0:06:37.63,0:06:39.45,Default,,0,0,0,,3, 2, 1.
 Dialogue: 0,0:06:39.96,0:06:40.50,Default,,0,0,0,,Now.
 Dialogue: 0,0:06:43.26,0:06:44.98,Default,,0,0,0,,3, 2, 1.
@@ -271,7 +272,7 @@ Dialogue: 0,0:11:52.92,0:11:53.79,Default,,0,0,0,,Hello.
 Dialogue: 0,0:11:54.71,0:11:56.17,Default,,0,0,0,,Hello, Master!
 Dialogue: 0,0:11:57.67,0:11:58.71,Default,,0,0,0,,Just call me Uncle.
 Dialogue: 0,0:11:58.71,0:11:59.83,Default,,0,0,0,,Hello, Uncle!
-Dialogue: 0,0:12:06.13,0:12:08.00,Default,,0,0,0,,This is Hall Manager Pan of Longyou Guild Hall.
+Dialogue: 0,0:12:06.13,0:12:08.00,Default,,0,0,0,,This is Hall Manager Pan of Longyou Guild.
 Dialogue: 0,0:12:08.33,0:12:09.46,Default,,0,0,0,,Hello, Hall Manager!
 Dialogue: 0,0:12:09.88,0:12:10.96,Default,,0,0,0,,Hello there.
 Dialogue: 0,0:12:11.71,0:12:12.50,Default,,0,0,0,,Uncle Pan,
